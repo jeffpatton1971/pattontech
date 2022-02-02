@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "windows 7 RTM!"
+title:  "Windows 7 RTM!"
 date:   2009-08-07 14:07:00 -0600
 categories: blog
 tags: August 2009 KU SOECS
