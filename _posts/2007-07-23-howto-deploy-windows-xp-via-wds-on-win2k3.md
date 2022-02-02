@@ -90,5 +90,5 @@ To create a capture image you must have a boot image first. The capture image is
 2. Choose “Create Capture Boot Image”
 3. Provide an Image Name and Description
 4. You must also provide a location to store the file
-  a. The default location is RemoteInstallbootx86Images
+   - The default location is RemoteInstallbootx86Images
 5. Clicking Next starts the capture image creation process

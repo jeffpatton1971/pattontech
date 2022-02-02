@@ -19,7 +19,7 @@ Create WDSCapture Image:
 
 1. Open WDS MMC on server
 2. Right click on a valid boot image
-   a. Some discussion/confusion on newsgroups that a WAIK boot image won’t allow an install/capture
+   - Some discussion/confusion on newsgroups that a WAIK boot image won’t allow an install/capture
 3. Choose “Create a capture image”
 4. Specify a name/location
 
