@@ -2,8 +2,8 @@
 layout: post
 title:  "Test Deployment"
 date:   2007-06-29 08:56:09 -0600
-categories: KU SOECS Lab
-tags: June 2007
+categories: blog
+tags: June 2007 KU SOECS Lab
 ---
 Using Remote Installation Services I deployed Windows XP SP2 onto my test machine, Dell Precision 390. Once the image was in place I installed the base load that all Lab computer must have available. This install comprises approximately 30 applications ranging from something as simple as [RoboCopy.exe](http://www.microsoft.com/downloads/details.aspx?FamilyID=9d467a69-57ff-4ae7-96ee-b18c4790cffd&DisplayLang=en), to applications as complex as [AutoCAD 2007](http://usa.autodesk.com/adsk/servlet/home?siteID=123112&id=129446).
 

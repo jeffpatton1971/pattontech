@@ -2,8 +2,8 @@
 layout: post
 title:  "Configuring Live Lab Environment"
 date:   2007-06-28 08:56:08 -0600
-categories: KU SOECS Lab
-tags: June 2007
+categories: blog
+tags: June 2007 KU SOECS Lab
 ---
 Live Lab
 

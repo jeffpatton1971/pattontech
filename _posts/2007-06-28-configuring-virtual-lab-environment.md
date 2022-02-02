@@ -2,8 +2,8 @@
 layout: post
 title:  "Configuring Virtual Lab Environment"
 date:   2007-06-28 08:56:07 -0600
-categories: KU SOECS Lab
-tags: June 2007
+categories: blog
+tags: June 2007 KU SOECS Lab
 ---
 Virtual Lab
 
