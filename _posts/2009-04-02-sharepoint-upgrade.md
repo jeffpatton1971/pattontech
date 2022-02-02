@@ -29,4 +29,4 @@ These categories will become the top navigation bar on the main site and each ta
 
 Additionally this change will allow us to provision sites for specific security needs if needed. For example, currently it is very difficult to allow three people the ability to change a document, but only four people the ability to read it. With the new structure in place, a Document Workspace site can be created for a given project and the three people who need to change something would become that sites Members, while the four people who need read access would become that sites Visitors. There is no limit within the foreseeable future on the number of these sites as we can expand the SQL server to store data on the SOE’s Storage Area Network (SAN).
 
-[Sharepoint Accesibility](https://prdwebappstorage.blob.core.windows.net/pattontech/images/SharepointAccessibility.jpg)
+![Sharepoint Accesibility](https://prdwebappstorage.blob.core.windows.net/pattontech/images/SharepointAccessibility.jpg)
