@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Replace Norton Ghost with Remote Installation Services"
-date:   2007-06-27 08:56:05 -0600
+date:   2007-06-27 08:56:06 -0600
 categories: KU SOECS Goals
 tags: June 2007
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Deployment"
-date:   2007-06-28 08:56:05 -0600
+date:   2007-06-28 08:56:09 -0600
 categories: KU SOECS Lab
 tags: June 2007
 ---
