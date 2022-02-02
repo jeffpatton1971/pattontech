@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deployment Results"
+title:  "After Action Notes"
 date:   2007-07-18 09:03:00 -0600
 categories: KU SOECS Lab
 tags: July 2007
