@@ -23,15 +23,15 @@ I won’t go in to detail on how to create Group Policies or how they are applie
 
 Open up the Group Policy Management Console and create a GPO for Power Management (fig 1.)
 
-[fig1](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig1.png)
+![fig1](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig1.png)
 
 Next you will need to edit your newly created GPO. The Power Management settings can be found in both Computer Configuration and User Configuration (fig 2.). Most of the settings that you would be interested in can be found under Computer ConfigurationPreferencesControl Panel SettingsPower Options. You can see that it is in a similar location for User Configuration.
 
-[fig2](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig2.png)
+![fig2](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig2.png)
 
 Right click and from the popup menu chose either New > Power Options (Windows XP) or New > Power Scheme (Windows XP) (fig 3.). There is also an option to configure a Windows Vista Power Plan. I think of most interest to the average Admin is the Power Scheme. This allows you to define what to turn on or off and when to go to standby.
 
-[fig3](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig3.png)
+![fig3](https://prdwebappstorage.blob.core.windows.net/pattontech/images/fig3.png)
 
 This should look very familiar if you have ever configured the power settings in Windows XP before, the only difference would be the actions drop down at the top of the screen, and the Common tab which is related to the GPO itself. I will not go in to the settings found under the Common tab, but needless to say if you wanted to target a specific computer or group of computers you can do it there.
 
