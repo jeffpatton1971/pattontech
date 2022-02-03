@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Error Codes
+title: Windows Error Codes and Descriptions
 permalink: /codes/
 ---
 | Code | Description |
