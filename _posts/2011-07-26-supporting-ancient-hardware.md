@@ -7,8 +7,7 @@ tags: July 2011 KU SOECS
 ---
 Today we’ll be working on some moldy oldies! I give you the SGI Indigo, and it’s successor the SGI Octane! Bow in front of their immense glory!
 
-![SGI Indigo2 Circa 1994](https://upload.wikimedia.org/wikipedia/commons/d/d3/Indigo2.jpeg)
-![SGI Octane Circa 1997](https://upload.wikimedia.org/wikipedia/commons/3/35/SgiOctane.jpg)
+![SGI Indigo2 Circa 1994](https://upload.wikimedia.org/wikipedia/commons/d/d3/Indigo2.jpeg)![SGI Octane Circa 1997](https://upload.wikimedia.org/wikipedia/commons/3/35/SgiOctane.jpg)
 
 Here is the problem:
 
