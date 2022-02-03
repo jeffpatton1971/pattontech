@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Windows Error Codes and Descriptions
+title: Error Codes
 permalink: /codes/
 ---
+# Windows Error Codes and Descriptions
+
 | Code | Description |
 | 0 | The operation completed successfully. |
 | 1 | Incorrect function. |
@@ -164,7 +166,7 @@ permalink: /codes/
 | 205 | No process in the command subtree has a signal handler. |
 | 206 | The filename or extension is too long. |
 | 207 | The ring 2 stack is in use. |
-| 208 | The global filename characters, * or ?, are entered incorrectly or too many global filename characters are specified. |
+| 208 | The global filename characters, *or ?, are entered incorrectly or too many global filename characters are specified. |
 | 209 | The signal being posted is not correct. |
 | 210 | The signal handler cannot be set. |
 | 212 | The segment is locked and cannot be reallocated. |
