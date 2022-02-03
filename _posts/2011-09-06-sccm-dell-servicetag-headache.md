@@ -3,7 +3,7 @@ layout: post
 title:  "SCCM + Dell-ServiceTag = Headache"
 date:   2011-08-06 13:13:00 -0600
 categories: blog
-tags: September 2011 Personal
+tags: September 2011 KU SOECS
 ---
 Well, it’s been a long time since I’ve posted anything and this will most likely be the last post before I hop platforms, but since the resolution took nearly my whole morning I felt it was worthy a posting. As you know we’ve been rolling with System Center Configuration Manager for nearly two years now and while it doesn’t necessarily follow best practices, it’s been as stable as that product appears to be.
 
