@@ -37,13 +37,13 @@ Now that you are familiar with your logs, and have determined what specific log 
 
 I have written a script that gives me the MAC, Hostname, Message, and Time at which the client asked. Since a given client may potentially ask every 5 minutes until it gets a lease, I don’t want an email. In fact, since a given client can ask multiple times, I just want a file with the MAC address as part of it so I can, at a glance, get an idea of how many devices are trying to connect.
 
-[Create s script]()
+[Create a script]()
 
 ![FindEvent]()
 
 There are actually two events that I’m interested in, this means that I’ll need my script to accept the Event ID as a parameter. Also, neither of these events are Error or Warning events, merely informational, letting me know a computer was unable to get an address.
 
-[Create s script](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/Get-DHCPDenies.ps1)
+[Create a script](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/Get-DHCPDenies.ps1)
 
 ![Get-DHCPDenies]()
 
