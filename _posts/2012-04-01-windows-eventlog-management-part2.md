@@ -51,7 +51,7 @@ Iâ€™m pretty good at writing scripts to get the information I need, but if youâ€
 
 Create the trigger
 
-![(task1)]
+![task1]()
 
 Give your task a name and a description.
 
