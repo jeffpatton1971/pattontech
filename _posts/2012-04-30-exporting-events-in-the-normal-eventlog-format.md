@@ -40,7 +40,7 @@ The next thing I need to be able to do is the actual exporting of the logs. Ther
 
 This is where I ran into the first hiccup. The breakdown of each of those is as follows
 
-* Path | LogName as String
+* Path or LogName as String
 * PathType as PathType
 * Query as String
 * targetFilePath as String
