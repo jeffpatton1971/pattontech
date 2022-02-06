@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DPM 2010 console crashes when pushing an agent install"
-date:   2011-08-01 15:23:00 -0600
+date:   2012-08-01 15:23:00 -0600
 categories: blog
 tags: August 2012 KU IT
 ---

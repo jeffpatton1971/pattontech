@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Managing Hotfixes Centrally"
-date:   2011-07-11 15:22:00 -0600
+date:   2012-07-11 15:22:00 -0600
 categories: blog
 tags: June 2012 KU IT Scripting
 ---

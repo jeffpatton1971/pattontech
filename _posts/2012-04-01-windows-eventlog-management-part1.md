@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows Eventlog Management Part 1"
-date:   2011-04-01 15:10:00 -0600
+date:   2012-04-01 15:10:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting MissingImages
 ---

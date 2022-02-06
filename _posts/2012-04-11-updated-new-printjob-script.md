@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated New-Printjob script"
-date:   2011-04-01 15:14:00 -0600
+date:   2012-04-01 15:14:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RDP over SSH"
-date:   2011-03-17 15:04:00 -0600
+date:   2012-03-17 15:04:00 -0600
 categories: blog
 tags: March 2012 KU SOECS
 ---

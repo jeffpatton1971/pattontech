@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ExitCodes Part 2"
-date:   2011-03-30 15:09:00 -0600
+date:   2012-03-30 15:09:00 -0600
 categories: blog
 tags: March 2012 KU SOECS Scripting
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powershell forensic use"
-date:   2011-06-15 15:21:00 -0600
+date:   2012-06-15 15:21:00 -0600
 categories: blog
 tags: June 2012 KU SOECS Scripting
 ---
