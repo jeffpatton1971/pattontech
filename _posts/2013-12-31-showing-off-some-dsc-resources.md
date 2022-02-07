@@ -5,7 +5,7 @@ date:   2013-12-31 11:07:00 -0600
 categories: blog
 tags: December 2013 KU IT Scripting
 ---
-Yesterday I wrote three articles ( [Part 1]({% post_url 2013-12-30-dsc-part %}md), [Part 2]({% post_url 2013-12-30-dsc-part2 %}), [Part 3]({% post_url 2013-12-30-dsc-part3 %}) ) about [Desired State Configuration](http://technet.microsoft.com/en-us/library/dn249912.aspx). I thought I would post a slightly more complex Configuration. This configuration performs several actions on the target node.
+Yesterday I wrote three articles ( [Part 1]({% post_url 2013-12-30-dsc-part %}), [Part 2]({% post_url 2013-12-30-dsc-part2 %}), [Part 3]({% post_url 2013-12-30-dsc-part3 %}) ) about [Desired State Configuration](http://technet.microsoft.com/en-us/library/dn249912.aspx). I thought I would post a slightly more complex Configuration. This configuration performs several actions on the target node.
 
 1. Install the Web-Server feature
 2. Install several additional features that depend on the Web-Server
