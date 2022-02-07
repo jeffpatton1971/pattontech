@@ -5,7 +5,7 @@ date:   2010-02-24 19:04:00 -0600
 categories: blog
 tags: February 2010 KU SOECS
 ---
-We purchased our new iSCSI [SAN](2009-06-06-dell-md3000i.md) this past summer and one of the important features for us was the ability to resize a lun as needed. The Dell MD3000i gave us that capability, while not in the best format, it does have a rather extensive CLI.
+We purchased our new iSCSI [SAN]({% post_url 2009-06-06-dell-md3000i %}) this past summer and one of the important features for us was the ability to resize a lun as needed. The Dell MD3000i gave us that capability, while not in the best format, it does have a rather extensive CLI.
 
 The CLI tools are only available to you if you install the management software on your computer. Once you have that installed, it might be a good idea to add the following to your PATH statement, it makes things easier.
 
