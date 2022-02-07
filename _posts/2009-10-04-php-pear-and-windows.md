@@ -17,7 +17,7 @@ This file is available on your system, it is part of the .net 1.1 installation a
 What appeared to make the error go away was much simpler, I copied the file from it’s location in the .net 1.1 folder structure to the system32 directory and I’ve not seen the error. Below is the command line that I used to make it work.
 
 ``` powershell
-copy C:WINDOWSMicrosoft.NETFrameworkv1.1.4322MSVCR7.dll C:WindowsSystem32
+copy C:\WINDOWSMicrosoft.NETFrameworkv1.1.4322MSVCR7.dll C:\WindowsSystem32
 ```
 
 I do know that the lack of the file does not appear to cause any problems with PHP at all. PHP pages load perfectly fine, running PHP scripts from the command line also work fine.
