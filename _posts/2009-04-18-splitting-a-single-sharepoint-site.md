@@ -15,14 +15,14 @@ OUR SCENARIO
 ---
 We deployed SharePoint to initially fix a glitch. We had several departments within the School and across campus that continually needed access to a file share on the server. This worked for some time but then they wanted to be able to do more with it, access it over the web, collaborate on documents. This seemed a task for which SharePoint was ideally suited.
 
-We performed a basic single server deployment and from there proceeded to delve into a level of SharePoint hackery that no-one should ever undertake. If you would like details you can find them in this [article]({% post_url 2009-04-18-hacking-sharepoint %}). over the span of a year we saw significant growth in the user of SharePoint, albeit mostly in a file-serving capacity but that was expected.
+We performed a basic single server deployment and from there proceeded to delve into a level of SharePoint hackery that no-one should ever undertake. If you would like details you can find them in this [article](2009-04-18-hacking-sharepoint.md). over the span of a year we saw significant growth in the user of SharePoint, albeit mostly in a file-serving capacity but that was expected.
 
 We are in a position now where we need clean everything up. Initially we shot ourselves in the foot by providing extraordinarily tweaky sets of permissions and it has become increasingly difficult to prevent users from accessing data they shouldn’t. Our solution is to try and get back to the three roles in SharePoint, Owner, Member and Visitor. Additionally we wanted to have more flexibility in terms of storage for the databases.
 
 PRE-REQUIREMENTS
 
 ---
-Make sure that both the new SharePoint server and it’s SQL server backend are configured properly, see [article]({% post_url 2009-04-03-configure-simple-sharepoint-farm %}) for details on how to do this.
+Make sure that both the new SharePoint server and it’s SQL server backend are configured properly, see [article](2009-04-03-configure-simple-sharepoint-farm.md) for details on how to do this.
 
 Alert staff that the intranet may be down for several hours to several days depending on the size of your content and your personal level of tweakiness.
 

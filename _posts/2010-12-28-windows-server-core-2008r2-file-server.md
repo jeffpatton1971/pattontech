@@ -5,7 +5,7 @@ date:   2010-12-28 19:37:00 -0600
 categories: blog
 tags: December 2010 KU SOECS
 ---
-In order to work around an [issue]({% post_url 2010-12-28-sccm-and-windows-2008r2-failover-clustering %}) we are currently experiencing with System Center Configuration Manager and Windows 2008 R2 Failover Clustering, we need to setup a file server. I decided to set this up as a Core server, and only install the File Services that we need. I won’t walk you through the setup options, just the steps to take once you’re into the console.
+In order to work around an [issue](2010-12-28-sccm-and-windows-2008r2-failover-clustering.md) we are currently experiencing with System Center Configuration Manager and Windows 2008 R2 Failover Clustering, we need to setup a file server. I decided to set this up as a Core server, and only install the File Services that we need. I won’t walk you through the setup options, just the steps to take once you’re into the console.
 
 Rename the computer
 

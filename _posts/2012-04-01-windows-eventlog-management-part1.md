@@ -48,4 +48,4 @@ Now that we’re comfortable with our logs let look at some fun things to do wit
 
 Part 1
 
-[Part 2]({% post_url 2012-04-01-windows-eventlog-management-part2 %})
+[Part 2](2012-04-01-windows-eventlog-management-part2.md)

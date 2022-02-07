@@ -27,4 +27,4 @@ I used the Standard Configuration option, chose to install it as a service and l
 
 Click execute and you’re done.
 
-At this point everything is done the next thing we’ll need to do is tackle any error messages that show up. I have already documented one regarding [msvcrt7.dll]({% post_url 2009-10-04-php-pear-and-windows %}), I have noticed that on my test machine I have other messages which I will document later tonight or tomorrow.
+At this point everything is done the next thing we’ll need to do is tackle any error messages that show up. I have already documented one regarding [msvcrt7.dll](2009-10-04-php-pear-and-windows.md), I have noticed that on my test machine I have other messages which I will document later tonight or tomorrow.

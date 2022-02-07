@@ -35,7 +35,7 @@ Ok, so I took these from my phone so they are a bit shaky but you get the idea, 
 
 ![20101119-WP_000021_2](https://prdwebappstorage.blob.core.windows.net/pattontech/images/20101119-WP_000021_2.jpg)
 
-I know I’m being nit-picky, but really? My OS is Landing? Wouldn’t “loading” make more sense? In my last [post]({% post_url 2010-11-15-redeeming-my-it-card %}) I mentioned that Carson gave me a hard time for not looking at the default web site.
+I know I’m being nit-picky, but really? My OS is Landing? Wouldn’t “loading” make more sense? In my last [post](2010-11-15-redeeming-my-it-card.md) I mentioned that Carson gave me a hard time for not looking at the default web site.
 
 ![20101119-WP_000071_2](https://prdwebappstorage.blob.core.windows.net/pattontech/images/20101119-WP_000071_2.jpg)
 

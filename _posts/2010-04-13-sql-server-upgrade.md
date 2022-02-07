@@ -5,7 +5,7 @@ date:   2010-04-13 19:08:00 -0600
 categories: blog
 tags: April 2010 KU SOECS
 ---
-In an earlier [post]({% post_url 2010-03-24-windows-2008rs-clustering %}) I mentioned that we were in the process of upgrading hardware and moving something’s around on the back-end. The end-result of this process would make us feature complete in our stated goals. Well, we had a few hiccups along the way, hopefully in the future I’ll do better at testing all this out. One of the things that needed to happen was our existing SQL server needed to be replaced with something that had significantly more power.
+In an earlier [post](2010-03-24-windows-2008rs-clustering.md) I mentioned that we were in the process of upgrading hardware and moving something’s around on the back-end. The end-result of this process would make us feature complete in our stated goals. Well, we had a few hiccups along the way, hopefully in the future I’ll do better at testing all this out. One of the things that needed to happen was our existing SQL server needed to be replaced with something that had significantly more power.
 
 The new SQL server is a Dell PowerEdge R310 with 16GB of Ram and dual Quad core Xeon’s, this is a vast improvement over the hardware replaced. In my own personal goal to keep us as current as possible it was loaded with Windows 2008 R2. We would have liked to upgrade to SQL 2008, but support for that is not quite there yet with System Center Configuration Manager. So we loaded SQL Server 2005, and before you could do anything the most recent service pack needed to be applied.
 

@@ -5,7 +5,7 @@ date:   2012-04-01 15:13:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
 ---
-[Yesterday]({% post_url 2012-04-10-weekly-dpm-monitoring %}) I told you how I had decided to automate a portion of my DPM routine. As usual this got the fires burning and a second script was born. I would have told you about it yesterday but I wanted to make the appearance of doing actual work 😉
+[Yesterday](2012-04-10-weekly-dpm-monitoring.md) I told you how I had decided to automate a portion of my DPM routine. As usual this got the fires burning and a second script was born. I would have told you about it yesterday but I wanted to make the appearance of doing actual work 😉
 
 So today I give you the [Get-DPMSizingValues.ps1](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/Get-DPMSizingValues.ps1) script. This is basically the portion of the DPM Sizing tool that I use regularly, the part that deals with file servers. I must say I’m rather proud of it as it worked out better than I thought it would. It uses some of the same basic stuff as the previous script, which was nice for me.
 

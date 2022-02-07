@@ -5,7 +5,7 @@ date:   2010-09-21 19:26:00 -0600
 categories: blog
 tags: September 2010 KU SOECS Scripting
 ---
-So I’m working with computer objects, if you can’t tell from my previous [post]({% post_url 2010-09-20-active-directory-naming-strategy %}). There are times when what you really want to know about a given computer is, who’s responsible for it. With good user education, your OU admins or computer admins will pre-stage a computer and populate the ManagedBy property. This effectively lets anyone who can read that property, know who is responsible for this object.
+So I’m working with computer objects, if you can’t tell from my previous [post](2010-09-20-active-directory-naming-strategy.md). There are times when what you really want to know about a given computer is, who’s responsible for it. With good user education, your OU admins or computer admins will pre-stage a computer and populate the ManagedBy property. This effectively lets anyone who can read that property, know who is responsible for this object.
 
 In an environment with thousands of computers, or even hundreds of computer’s the likelihood of this actually happening is most likely very slim. I freely admit that when I create a computer object, I leave that field empty. But it’s ok, if you have given your users the right to join their own computers to the domain this information is stored in the ACL for the object.
 

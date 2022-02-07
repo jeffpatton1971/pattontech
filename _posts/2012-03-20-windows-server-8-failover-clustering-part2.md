@@ -5,7 +5,7 @@ date:   2012-03-20 15:06:00 -0600
 categories: blog
 tags: March 2012 KU SOECS MissingImages
 ---
-There were so many images that I decided to split this up over several posts. In [Part 1]({% post_url 2012-03-20-windows-server-8-beta-failover-clustering-part1 %}), I got the Failover Cluster feature installed on my first server, and now I’m going to work through the Failover Cluster Management tool.
+There were so many images that I decided to split this up over several posts. In [Part 1](2012-03-20-windows-server-8-beta-failover-clustering-part1.md), I got the Failover Cluster feature installed on my first server, and now I’m going to work through the Failover Cluster Management tool.
 
 ![win8-hv1-FC1]()
 
