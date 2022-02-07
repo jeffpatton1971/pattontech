@@ -22,7 +22,7 @@ We are in a position now where we need clean everything up. Initially we shot ou
 PRE-REQUIREMENTS
 
 ---
-Make sure that both the new SharePoint server and it’s SQL server backend are configured properly, see [article](2009-04-03-configure-simple-sharepoint-farm) for details on how to do this.
+Make sure that both the new SharePoint server and it’s SQL server backend are configured properly, see [article](% post_url 2009-04-03-configure-simple-sharepoint-farm %}) for details on how to do this.
 
 Alert staff that the intranet may be down for several hours to several days depending on the size of your content and your personal level of tweakiness.
 
