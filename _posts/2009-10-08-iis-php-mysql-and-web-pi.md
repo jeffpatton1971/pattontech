@@ -7,7 +7,7 @@ tags: October 2009 KU SOECS
 ---
 I’ve posted a couple of things last week regarding how I use Virtual PC, and since recently I’ve been downloading web apps that need php and mysql I figured I would document what I did to make them go. One of the things I figured out very early on is my job is to find things to make us go, yes I stole that from a [Star Trek](http://www.imdb.com/title/tt0708768/) episode but it’s so true!
 
-So when I make new test servers I follow the steps outlined in this [post](2009-10-02-building-servers.md) first.
+So when I make new test servers I follow the steps outlined in this [post]({% post_url 2009-10-02-building-servers %}) first.
 
 There are several ways to configure PHP and MySQL I’ll outline a couple the first would be the super easy installation which seems to get a functional install up and running quite quickly.
 

@@ -77,6 +77,6 @@ That’s it, after you click Ok, the trigger is done. All you need to do now is 
 
 Now that we have our triggers, let’s see how we can get a notification when something happens.
 
-[Part 1](2012-04-01-windows-eventlog-management-part1.md)
+[Part 1]({% post_url 2012-04-01-windows-eventlog-management-part1 %})
 
 Part 2

@@ -21,7 +21,7 @@ You will need to do a few things first, load the proper tools and set some firew
 
 Windows Server 2008 Core
 
-I’m not going to explain all the different roles and such that are available, but I am toying with the idea of writing up a guide or something that will lead you through some basic server setups. For now, I will assume you are just needing to manage your file server, and that you have already installed the necessary roles and features to do so. If not, check out my last [article](2010-12-28-windows-server-core-2008r2-file-server.md) to see how to do that. You will need to have PowerShell enabled prior to setting up the Server Manager stuff, but there is a nifty little command available to help us out, sconfig.
+I’m not going to explain all the different roles and such that are available, but I am toying with the idea of writing up a guide or something that will lead you through some basic server setups. For now, I will assume you are just needing to manage your file server, and that you have already installed the necessary roles and features to do so. If not, check out my last [article]({% post_url 2010-12-28-windows-server-core-2008r2-file-server %}) to see how to do that. You will need to have PowerShell enabled prior to setting up the Server Manager stuff, but there is a nifty little command available to help us out, sconfig.
 
 The text below has been copied from [KB976839](http://support.microsoft.com/kb/976839).
 
