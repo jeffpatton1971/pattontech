@@ -29,6 +29,6 @@ New-Snapshot -Name Pre-Demotion -VM dc1 -Description “Snapshot prior to demoti
 
 In order to backup all the logfiles I threw together a quick little function [Backup-EventLogs](https://github.com/mod-posh/ComputerManagement#backup-eventlog). It takes the name of the computer and uses [Get-WinEvent](http://technet.microsoft.com/en-us/library/dd367894.aspx) to get all the logs available. It then writes out each log where the RecordCount is greater than 0 to a csv file, using [Export-CSV](http://technet.microsoft.com/en-us/library/dd347724.aspx). Carson pointed out that it may have been easier to copy the log files over…ya, well…dammit I wouldn’t have gotten a nifty function out of it though!
 
-   Anyway, resetting and re-installing are fairly vanilla, and I’m pretty sure I covered standing up a core server [somewhere](2010-05-17-dpm-2k7-w2k8r2-w2k8-core-dc.md) before.
+   Anyway, resetting and re-installing are fairly vanilla, and I’m pretty sure I covered standing up a core server [somewhere]({% post_url 2010-05-17-dpm-2k7-w2k8r2-w2k8-core-dc %}) before.
 
 Thanks,
