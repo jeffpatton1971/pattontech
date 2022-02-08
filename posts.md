@@ -8,8 +8,5 @@ permalink: /posts/
   {% if currentdate != date %}
     ### {{ currentdate }}
     {% assign date = currentdate %}
-    <ul>
   {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    </ul>
 {% endfor %}
