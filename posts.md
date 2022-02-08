@@ -8,9 +8,8 @@ permalink: /posts/
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
     {{ currentdate }}
-    <ul>
     {% assign date = currentdate %}
   {% endif %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
+  {% if forloop.last %}{% endif %}
 {% endfor %}
