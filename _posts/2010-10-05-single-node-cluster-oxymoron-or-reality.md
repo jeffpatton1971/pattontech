@@ -39,4 +39,4 @@ If you have a third party DNS Server, you may see this after your cluster is don
 
 ![20101005-Cluster2008BadDNSPacket](https://prdwebappstorage.blob.core.windows.net/pattontech/images/20101005-Cluster2008BadDNSPacket.png)
 
-I wrote an [article](2010-03-24-windows-2008r2-clustering.md) a while ago about how to resolve this issue. But there is also a good [article](http://social.technet.microsoft.com/wiki/contents/articles/event-id-1196-microsoft-windows-failoverclustering.aspx) available on the [Technet Wiki](http://technet.microsoft.com/wiki).
+I wrote an [article]({% post_url 2010-03-24-windows-2008r2-clustering %}) a while ago about how to resolve this issue. But there is also a good [article](http://social.technet.microsoft.com/wiki/contents/articles/event-id-1196-microsoft-windows-failoverclustering.aspx) available on the [Technet Wiki](http://technet.microsoft.com/wiki).
