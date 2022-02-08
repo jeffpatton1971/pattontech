@@ -5,7 +5,7 @@ date:   2011-03-20 15:07:00 -0600
 categories: blog
 tags: March 2012 KU SOECS
 ---
-So the last two posts ([one](2012-03-20-windows-server-8-beta-failover-clustering-part1.md), [two](2012-03-20-windows-server-8-failover-clustering-part2.md)) were just some screenshots and comments as I went through and created a failover cluster. To be fair this wasn’t the first go round with the cluster I created one earlier with just one computer so I could see the PowerShell stuff.
+So the last two posts ([one]({% post_url 2012-03-20-windows-server-8-beta-failover-clustering-part1 %}), [two]({% post_url 2012-03-20-windows-server-8-failover-clustering-part2 %})) were just some screenshots and comments as I went through and created a failover cluster. To be fair this wasn’t the first go round with the cluster I created one earlier with just one computer so I could see the PowerShell stuff.
 
 I must say, 81 PowerShell commands to handle clustering, not too shabby. The first cluster I created was with the New-Cluster cmdlet.
 
