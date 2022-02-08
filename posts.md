@@ -6,7 +6,7 @@ permalink: /posts/
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
-      <h2> {{ currentdate }} </h2>
+      {{ currentdate }}
     {% assign date = currentdate %}
   {% endif %}
   <a href="{{ post.url }}">{{ post.title }}</a>
