@@ -2,6 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
+author: Jeff
 ---
 {% for post in site.posts %}
   {% assign currentdate = post.date | date: "%Y" %}
