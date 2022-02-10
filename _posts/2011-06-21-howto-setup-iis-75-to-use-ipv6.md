@@ -4,6 +4,7 @@ title:  "HOWTO: Setup IIS 7.5 to use IPv6"
 date:   2011-06-14 13:10:00 -0600
 categories: blog
 tags: June 2011 Personal HOWTO
+comments: false
 ---
 I took the SANS 546 class today, and it got me thinking about setting up my server to respond to IPv6 hosts. Steps thus far are pretty straightforward:
 

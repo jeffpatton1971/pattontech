@@ -4,6 +4,7 @@ title:  "Week In Review: 07/2/2014"
 date:   2014-07-26 12:06:00 -0600
 categories: blog
 tags: July 2014 KU IT Scripting Review
+comments: false
 ---
 I had intended these to be weekly, and I got off track, sorry about that. So I missed the week of Jun 29, Jul 6 and Jul 13. I can tell you that the week of the 29th ended on July 5th, and I was pretty wiped out from all the fireworks and stuff. The week of the 6th we were in Florida on vacation and the last couple of weeks (Jul 13 and this week Jul 20) were about the same.
 

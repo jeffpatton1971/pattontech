@@ -4,6 +4,7 @@ title:  "Welcome Back"
 date:   2022-02-07 08:26:00 -0600
 categories: blog
 tags: February 2022 Personal
+comments: false
 ---
 It has been a while since I've done anything here and I apologize. I've been really wrapped up in work, and migrating my site once again was something I was truly dreading. Thinking back to how many different frameworks and providers I've tried is crazy, but I feel confident now that where I'm at is the right place. I've moved everything over to [Github Pages](https://docs.github.com/en/pages) which is really more inline with how I work, plus I can just use [vscode](https://code.visualstudio.com/) or [codespaces](https://github.com/features/codespaces) on github which makes things much simpler than ususal.
 

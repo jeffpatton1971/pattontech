@@ -4,6 +4,7 @@ title:  "Delegation of OU and GPO's"
 date:   2010-08-17 19:20:00 -0600
 categories: blog
 tags: August 2010 KU SOECS
+comments: false
 ---
 Why does printing need to be so complicated? Admittedly a portion of the problem falls on us running our own domain. At times it can be irritating, like now, and at times it can be a lifesaver. So this is our situation, we run an independent ActiveDirectory domain that has an external trust with the main campus domain. Our domain is a resource domain in the NT4.0 version of the term. We have almost no actual user accounts in our domain, but all of the computers we manage exist in our domain.
 

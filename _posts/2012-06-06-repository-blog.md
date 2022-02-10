@@ -4,6 +4,7 @@ title:  "Repository and Blog"
 date:   2012-02-06 15:01:00 -0600
 categories: blog
 tags: February 2012 Personal
+comments: false
 ---
 I migrated over all my scripts late last night, it only took about an hour. I think part of the problem was on my end, I had to basically restart the sync several times to get everything over. The longest part was moving over the Trac content.
 

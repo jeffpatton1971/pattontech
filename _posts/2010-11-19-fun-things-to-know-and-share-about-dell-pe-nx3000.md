@@ -4,6 +4,7 @@ title:  "Fun things to know and share about the Dell PowerEdge NX3000 NAS Applia
 date:   2010-11-15 19:33:00 -0600
 categories: blog
 tags: November 2010 KU SOECS
+comments: false
 ---
 This was originally going to be a post about setting up a cluster on the NX3000, but I’ve had some fun messing around with them, so I thought I would share that and make a second post for the setup. Both Carson and Nick would likely attest to the fact that I’m a little picky about how my servers are setup (although I’m not nearly as Spartan as Nick can be). I have never left the factory setup on the servers that I’ve put out, and personally can’t imagine anyone doing that. So anyway, these arrived about a month ago and unfortunately my time has been consumed by printer issues and I’ve not had a chance to work on them.
 

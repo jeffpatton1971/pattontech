@@ -4,6 +4,7 @@ title:  "Working with computer objects"
 date:   2010-09-21 19:26:00 -0600
 categories: blog
 tags: September 2010 KU SOECS Scripting
+comments: false
 ---
 So I’m working with computer objects, if you can’t tell from my previous [post]({% post_url 2010-09-20-active-directory-naming-strategy %}). There are times when what you really want to know about a given computer is, who’s responsible for it. With good user education, your OU admins or computer admins will pre-stage a computer and populate the ManagedBy property. This effectively lets anyone who can read that property, know who is responsible for this object.
 

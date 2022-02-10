@@ -4,6 +4,7 @@ title:  "Get MAC Address"
 date:   2008-07-01 11:06:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 In managing our IP space we rely heavily on the MAC address of a computer. This seems to be slightly backwards of how most people manage their IP space, but we consider the IP to be a property of the MAC, and the MAC itself represents the computer.
 

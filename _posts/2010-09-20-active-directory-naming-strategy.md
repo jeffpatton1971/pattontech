@@ -4,6 +4,7 @@ title:  "Active Directory Naming Strategy"
 date:   2010-09-20 19:25:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 Does anyone have a good naming convention for Active Directory? It’s all completely subjective, what works for one organization is absolutely horrible for the next. Does anyone document what their naming convention is? Perhaps a better question would be, if you document it, do you follow it? How many people are aware of the 15 character limit on Window’s NetBIOS hostnames? How many know that limitation is still painfully applicable?
 

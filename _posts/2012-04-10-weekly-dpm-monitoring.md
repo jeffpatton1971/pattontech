@@ -4,6 +4,7 @@ title:  "Weekly DPM Monitoring"
 date:   2012-04-01 15:12:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
+comments: false
 ---
 Part of my responsibility is handling storage. This includes allocating, deallocating, backing up and restoring. Now we’ve been using DPM for quite some time and are currently running on DPM 2010. Since this past summer I have personally come to peace with the fact that my users don’t know what the delete key is, so I have set some things in place to make it easy for me to monitor overall usage of storage for the School.
 

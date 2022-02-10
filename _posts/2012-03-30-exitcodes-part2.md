@@ -4,6 +4,7 @@ title:  "ExitCodes Part 2"
 date:   2012-03-30 15:09:00 -0600
 categories: blog
 tags: March 2012 KU SOECS Scripting
+comments: false
 ---
 So, [yesterday]({% post_url 2012-03-20-powershell-new-adinventory-script %}) I mentioned that I re-wrote the inventory [script](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/New-AdInventory.ps1). Today I decided to re-write the [reboot script](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/Reboot-Computer.ps1). The idea behind the script is that once a week we bounce all the lab computers. We do this for various reasons, but since I’m in the mood decided today was the day to tackle that problem.
 

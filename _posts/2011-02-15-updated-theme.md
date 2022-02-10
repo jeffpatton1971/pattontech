@@ -4,6 +4,7 @@ title:  "Updated Theme"
 date:   2011-02-15 13:02:00 -0600
 categories: blog
 tags: February 2011 Personal
+comments: false
 ---
 So I’ve spent the past few days working up a new theme for the site. I’ve been wanting something that looked similar to a newspaper, and I think I came pretty close.
 

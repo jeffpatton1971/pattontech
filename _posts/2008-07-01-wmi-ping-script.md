@@ -4,6 +4,7 @@ title:  "WMI Ping Script"
 date:   2008-07-01 11:07:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 Most of the computer management scripts run against multiple computers, I usually want to have the script do one task if the computer is available for management or another when it’s not. So I put together a very simple function, [WMIPing](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/playground/functions/WMIPing.txt), that takes advantage of the Err object.
 

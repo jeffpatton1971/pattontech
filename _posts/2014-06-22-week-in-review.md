@@ -4,6 +4,7 @@ title:  "Week In Review: 06/15/2014"
 date:   2014-06-22 12:04:00 -0600
 categories: blog
 tags: June 2014 KU IT Scripting Review
+comments: false
 ---
 It’s time for another exciting edition of WIR! This week was filled with updates! Rolled updates to our Domain Controllers and one of them took nearly two hours to come back from a reboot! Normally not a big deal, but when your 30mi away…a little stressful! I also rebuilt my work laptop this week, earlier this year I had done something stupid with an external drive and wound up with Windows installed on Partition 2, on a disk with just one partition! Needless to say, rebooting my laptop didn’t happen all that often at all!
 

@@ -4,6 +4,7 @@ title:  "How we use the Active Directory"
 date:   2008-10-20 11:22:00 -0600
 categories: blog
 tags: October 2008 KU SOECS
+comments: false
 ---
 We rely on a lot of Microsoft tech to keep things clicking here at the School, and nothing is more important than our Active Directory Infrastructure. When I first started about the only thing you could get out of the Active Directory was a list of computers, users and groups.
 

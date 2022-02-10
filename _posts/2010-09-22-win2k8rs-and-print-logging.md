@@ -4,6 +4,7 @@ title:  "Windows Server 2008 R2 and Print Logging"
 date:   2010-09-22 19:28:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 Yesterday I got a support ticket that stated the user was unable to connect to any printers on the network. I found this odd since we push out printers via GPO Preferences, and that user’s particular computer had the correct GPO linked in. So I started my troubleshooting process which usually involves grep’ing the logs looking for relevant entries.
 

@@ -4,6 +4,7 @@ title:  "System Center Orchestrator Module"
 date:   2014-06-06 12:01:00 -0600
 categories: blog
 tags: June 2014 KU IT Scripting
+comments: false
 ---
 This is one I’ve had on the back burner for a while, so yesterday morning I roughed up the basic framework for a PowerShell module. I have a few Runbooks at work, that it would be super cool to just run from PowerShell, and since lately I’ve been all up in the web services this was as good a time as any.
 

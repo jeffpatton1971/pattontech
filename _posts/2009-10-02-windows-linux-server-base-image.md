@@ -4,6 +4,7 @@ title:  "Windows/Linux Server Base Image"
 date:   2009-10-02 14:12:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 I do a lot of software evaluations and as such I have come to rely quite heavily on virtualzation so I don’t have to worry about setting up hardware. As the software that we evaluate can be either Windows or Linux based I have created two base images, and from there build out my test servers for software deployment. The steps for each OS are very similar and I won’t go into any great detail on specific setup steps. I tend to just do a basic Windows Server installation taking all the defaults, and likewise for my Ubuntu LTS installation with only exception being selecting the OpenSSH at the end.
 

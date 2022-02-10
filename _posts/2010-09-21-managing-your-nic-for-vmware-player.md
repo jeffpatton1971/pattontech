@@ -4,6 +4,7 @@ title:  "Managing your network interfaces for VMware Player"
 date:   2010-09-21 19:27:00 -0600
 categories: blog
 tags: September 2010 Personal
+comments: false
 ---
 If you need to reconfigure your virtual network, you will need the vmnetcfg.exe utility. This is part of the VMware Player download, but you have to run the installer such that it only extracts it’s files. Once you have extracted the files to a temporary folder, you will then need to extract the network.cab file. This cabinet file contains almost everything you need.
 

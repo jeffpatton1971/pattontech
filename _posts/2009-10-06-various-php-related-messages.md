@@ -4,6 +4,7 @@ title:  "Various PHP related messages"
 date:   2009-10-06 14:17:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 ntwdblib.dll: This application has failed to start because ntwdblib.dll was not found. Re-install the application may fix this problem
 

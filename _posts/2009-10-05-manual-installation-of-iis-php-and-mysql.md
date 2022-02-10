@@ -4,6 +4,7 @@ title:  "Manual installation of IIS, PHP and MySql"
 date:   2009-10-05 14:16:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 Last week I posted an article about how I configured IIS, PHP and MySQL using Microsoft’s Web PI 2.0 technology, which was wicked easy. Today I figured I would run the same thing but this time “manually”. Which if I had to rank things in order of difficulty from 1 to 5, where one is the easiest, the Web PI install would be a one, and the manual install would be a two. There are a few things you will need to download the links are below.
 

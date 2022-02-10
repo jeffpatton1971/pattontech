@@ -4,6 +4,7 @@ title:  "Splitting a single Sharepoint Site"
 date:   2009-04-18 14:04:00 -0600
 categories: blog
 tags: April 2009 KU SOECS
+comments: false
 ---
 DISCLAIMER
 

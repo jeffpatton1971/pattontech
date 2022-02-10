@@ -4,6 +4,7 @@ title:  "SQL Server Upgrade"
 date:   2010-04-13 19:08:00 -0600
 categories: blog
 tags: April 2010 KU SOECS
+comments: false
 ---
 In an earlier [post]({% post_url 2010-03-24-windows-2008r2-clustering %}) I mentioned that we were in the process of upgrading hardware and moving something’s around on the back-end. The end-result of this process would make us feature complete in our stated goals. Well, we had a few hiccups along the way, hopefully in the future I’ll do better at testing all this out. One of the things that needed to happen was our existing SQL server needed to be replaced with something that had significantly more power.
 

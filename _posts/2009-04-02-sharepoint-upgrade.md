@@ -4,6 +4,7 @@ title:  "Sharepoint Upgrade"
 date:   2009-04-02 14:00:00 -0600
 categories: blog
 tags: April 2009 KU SOECS
+comments: false
 ---
 Current Situation:
 

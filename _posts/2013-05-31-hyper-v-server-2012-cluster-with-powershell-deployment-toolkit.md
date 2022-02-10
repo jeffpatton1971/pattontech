@@ -4,6 +4,7 @@ title:  "Hyper-V Server 2012 Cluster with Powershell Deployment Toolkit"
 date:   2013-05-31 11:02:00 -0600
 categories: blog
 tags: May 2013 KU IT
+comments: false
 ---
 I recently came across a lovely [show](http://channel9.msdn.com/Shows/Edge/Edge-Show-62-Hyper-V-Server-2012-Cluster-Deployment-Using-Free-Tools) on [Channel 9](http://channel9.msdn.com/). It talks about setting up a simple [Hyper-V Server 2012](http://www.microsoft.com/en-us/server-cloud/hyper-v-server/default.aspx) cluster for use in a lab or test environment or whatever. I won’t go over the details, watch the show, it’s great! In addition to that I had come across an [article](http://blogs.technet.com/b/privatecloud/archive/2013/02/08/deployment-introducing-powershell-deployment-toolkit.aspx) on the [Building Clouds Blog](http://blogs.technet.com/b/privatecloud/), about the [PowerShell Deployment Toolkit](http://gallery.technet.microsoft.com/PowerShell-Deployment-797b3c6d). So over Memorial Day weekend I decided to stand up my cluster and spin up a test environment similar to what I use at work.
 

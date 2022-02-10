@@ -4,6 +4,7 @@ title:  "Get Serial"
 date:   2008-07-01 11:08:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 About 99.9% of the computers we manage are Dell computers. Each Dell computer has a unique service tag that can be used to lookup anything from warranty information to the correct drivers. The serial number is stored in the BIOS and can be changed using a Dell supplied utility.
 

@@ -4,6 +4,7 @@ title:  "HOWTO: Deploy Windows XP via Windows Deployment Services on Windows Ser
 date:   2007-07-23 09:06:00 -0600
 categories: blog
 tags: July 2007 KU SOECS Lab HOWTO
+comments: false
 ---
 ### Overview
 

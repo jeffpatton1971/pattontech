@@ -4,6 +4,7 @@ title:  "IIS, PHP, MySQL and Web PI"
 date:   2009-10-02 14:14:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 I’ve posted a couple of things last week regarding how I use Virtual PC, and since recently I’ve been downloading web apps that need php and mysql I figured I would document what I did to make them go. One of the things I figured out very early on is my job is to find things to make us go, yes I stole that from a [Star Trek](http://www.imdb.com/title/tt0708768/) episode but it’s so true!
 

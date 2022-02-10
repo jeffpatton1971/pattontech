@@ -4,6 +4,7 @@ title:  "Managing Power Savings for XP via GPO"
 date:   2009-10-23 14:18:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 You can manage the power savings features of both Windows XP and Vista using a GPO in a domain environment. In order to do this you will need to get Group Policy Preference Client Side Extensions for Windows XP (KB943729). You can download this extension via the following URL:
 

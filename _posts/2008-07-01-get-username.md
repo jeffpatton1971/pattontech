@@ -4,6 +4,7 @@ title:  "Get Username"
 date:   2008-07-01 11:04:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 One of the things we find handy is the ability to know who is logged on to a given computer at any one time. The main reason is that our users rarely tell us which computer they are on when they submit a help-request, so if we have someplace to look that makes our jobs that much easier.
 

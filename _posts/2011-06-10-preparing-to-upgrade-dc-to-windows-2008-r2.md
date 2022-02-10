@@ -4,6 +4,7 @@ title:  "Preparing to upgrade DC's to Windows Server 2008 R2"
 date:   2011-06-10 13:08:00 -0600
 categories: blog
 tags: June 2011 KU SOECS Scripting
+comments: false
 ---
 We decided it was time to move to R2 on the domain controllers, while we’re at it we also moved up to Windows 2008 Functional. Sadly we can’t go to 2008r2 functional until our last 2008 DC goes out of warranty, in 2014! Oh well, maybe something will happen to it…
 

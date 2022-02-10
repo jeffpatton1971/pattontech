@@ -4,6 +4,7 @@ title:  "Vmware Update Manager not responding"
 date:   2012-05-19 15:19:00 -0600
 categories: blog
 tags: May 2012 KU SOECS
+comments: false
 ---
 I received a lovely notice this morning as I was working through my servers and performing updates. I decided I would check my ESXi servers for updates using the VMware Update Manager plugin. This lovely plugin will go out and grab updates for your servers from VMware and I think optionally for other sources you define, but not today.
 

@@ -4,6 +4,7 @@ title:  "What to do when you receive a truly horrible request"
 date:   2010-10-04 19:31:00 -0600
 categories: blog
 tags: October 2010 KU SOECS
+comments: false
 ---
 I’m fairly certain this happens more often than not. A user fashion’s an email, than in their mind makes perfect and complete sense. They blithely send this email off to you, without care to the damage that could be wrecked upon your psyche. Today, a good friend of mine received just such a letter, and it took a considerable amount of time to fashion a politically correct response. So I decided that there should be a canned response to these types of request’s and I would like to submit mine today.
 

@@ -4,6 +4,7 @@ title:  "Evolution and Exchange 2010"
 date:   2010-12-22 19:35:00 -0600
 categories: blog
 tags: December 2010 KU SOECS
+comments: false
 ---
 So you want [Evolution](http://projects.gnome.org/evolution/) to attach to Exchange natively, not unlike Outlook? The simple answer to your question is [evolution-mapi](http://www.go-evolution.org/MAPIProvider). This lovely plugin allows you to connect over [MAPI](http://en.wikipedia.org/wiki/Messaging_Application_Programming_Interface), to an Exchange server. I believe the supported servers start with Exchange 2003, and certainly go up to Exchange 2010 since that’s the version of Exchange we use on campus. The setup is fairly straightforward, but I have included screenshots at each step.
 

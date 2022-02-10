@@ -4,6 +4,7 @@ title:  "Managing Hotfixes Centrally"
 date:   2012-07-11 15:22:00 -0600
 categories: blog
 tags: June 2012 KU IT Scripting
+comments: false
 ---
 Historically I’ve not paid much attention to hotfixes or patches, but lately I’ve decided that I need to change that aspect of my management. I used to create a folder on the server that had the problem, copy the patch down and then apply it. As I become responsible for more and more servers, I decided that I needed a slightly better way to handle that. Also, since I tend to do pretty much anything in PowerShell I figured I needed to write some functions to do it for me. The result was the [QfeLibrary.ps1](https://github.com/mod-posh/QfeLibrary/blob/main/QfeLibrary.psm1), it contains several functions that can be used to help you manage your hotfixes.
 

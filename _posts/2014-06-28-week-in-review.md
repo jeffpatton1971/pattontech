@@ -4,6 +4,7 @@ title:  "Week In Review: 06/22/2014"
 date:   2014-06-28 12:05:00 -0600
 categories: blog
 tags: June 2014 KU IT Scripting Review
+comments: false
 ---
 Not a terribly eventful week, I’ve been working on tuning Ops down and clearing out the errors, and lowering the signal to noise ratio. One of the hardest ones has been the domain trust monitor in the AD MP. So we use the firewall to isolate VLAN’s from one another and I don’t know that I totally agree with that, but one thing at a time I suppose. Our DC’s couldn’t resolve another domain to which we have a trust established, you read that right. So, I tried several different requests to make that go. I created their zone as a secondary in my DNS, had to allow TCP/UDP 53 through for that to work, still no go. Then I noticed that LDAP was being dropped on one of the firewalls so had to allow that through, still no go. Finally took out the big hammer and had those DC’s added to the same firewall group as mine. That worked, sort of, yesterday I noticed I’m still getting some errors, so I’ve decided that Monday I’m going to work on trying to get that and as much of everything else sorted out as I can.
 

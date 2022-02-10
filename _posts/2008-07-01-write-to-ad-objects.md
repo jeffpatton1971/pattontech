@@ -4,6 +4,7 @@ title:  "Write to AD Objects"
 date:   2008-07-01 11:10:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 The [WriteData](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/playground/procedures/WriteData.txt) procedure originally was used to update the Description property of computer objects in the Active Directory. The procedure can now update any single-valued property of a given object in the Active Directory.
 

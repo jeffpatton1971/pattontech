@@ -4,6 +4,7 @@ title:  "Welcome to the new site"
 date:   2011-02-03 13:01:00 -0600
 categories: blog
 tags: February 2011 Personal
+comments: false
 ---
 I’ve been running on an OpenVZ server from [PhotonVPS](http://photonvps.com/) for quite some time now. That server was running on Ubuntu Server 9.10 (I was wrong Carson), and the site was running on [Django](http://djangoproject.com/). I’ve had no complaints for the most part, Photon has always been very prompt and aside from the few minor annoyances which seemed to plague Carson and Nick more than I, it’s been fun.
 

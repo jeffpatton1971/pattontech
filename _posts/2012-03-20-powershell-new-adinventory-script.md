@@ -4,6 +4,7 @@ title:  "PowerShell New-AdInventory script"
 date:   2012-03-20 15:08:00 -0600
 categories: blog
 tags: March 2012 KU SOECS Scripting
+comments: false
 ---
 I may have mentioned on here before that we rely quite heavily on Active Directory, and it’s true. It’s at the core of nearly all the services we deliver, the only exception would be the web, and that would really only be the public facing web sites.
 

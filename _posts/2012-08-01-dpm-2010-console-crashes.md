@@ -4,6 +4,7 @@ title:  "DPM 2010 console crashes when pushing an agent install"
 date:   2012-08-01 15:23:00 -0600
 categories: blog
 tags: August 2012 KU IT
+comments: false
 ---
 This is a new one for me, I've been running DPM for quite a while now and I've not seen this behavior. In a recent staff meeting it came up that the DPM server was having some RPC issues, so since I'm jonesing for stuff to do I said I wouldn't mind taking a look at it.
 

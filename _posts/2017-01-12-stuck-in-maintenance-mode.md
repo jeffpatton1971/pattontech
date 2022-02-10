@@ -4,6 +4,7 @@ title:  "Stuck in Maintenance Mode"
 date:   2017-01-12 15:00:00 -0600
 categories: blog
 tags: January 2017 Personal
+comments: false
 ---
 It’s been ages, I do have plans to start writing again, and in fact this particular posting came about because I was going to write up something I just came across at work. I went to login to my site, and was presented with a 500 error. Since I’ve recently moved the entirety of both my sites to Azure Web Apps, I was mildly concerned as I had no real access to any of the switches, buttons or levers that make things go. I checked to see if I could login to my other site and received the same error message, which I guess is good. They are both running on the same App Service in Azure and while the actual pages would load and such I just was unable to login.
 

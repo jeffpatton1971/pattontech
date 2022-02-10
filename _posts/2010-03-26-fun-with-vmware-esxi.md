@@ -4,6 +4,7 @@ title:  "Fun with Vmware ESXi"
 date:   2010-03-26 19:07:00 -0600
 categories: blog
 tags: March 2010 KU SOECS
+comments: false
 ---
 In the course of rolling out new hardware we encountered some problems with our up-and-running VMware ESXi servers. I won’t go into that now, but I’ll go over the fun things we found out. Most of these are most likely documented already, but I figured I’d put them here that way I have some place to look the next time I need something!
 

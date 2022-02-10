@@ -4,6 +4,7 @@ title:  "Deploying XP Image via WIM"
 date:   2007-07-20 09:04:00 -0600
 categories: blog
 tags: July 2007 KU SOECS Lab
+comments: false
 ---
 Steps:
 

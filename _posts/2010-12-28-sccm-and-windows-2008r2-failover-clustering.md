@@ -4,6 +4,7 @@ title:  "SCCM and Windows 2008 R2 Failover Clustering"
 date:   2010-12-28 19:36:00 -0600
 categories: blog
 tags: December 2010 KU SOECS
+comments: false
 ---
 So yesterday we were able to migrate our [existing]({% post_url 2010-03-24-windows-2008r2-clustering %}) Windows Storage Server 2003 R2 file cluster to the Windows 2008 equivalent of the same. It has been a long time in the works as we had to wait on Dell to have a Windows Storage Server 2008 certified [device]({% post_url 2010-03-26-fun-with-vmware-esxi %}). Our only hitch was forgetting to down the resource groups on the old server prior to bringing the lun’s over to the new server. Once we got that worked out, things went smoothly and once all the drives were moved, I was able to get all the shares set back up and we were back in business before lunch.
 

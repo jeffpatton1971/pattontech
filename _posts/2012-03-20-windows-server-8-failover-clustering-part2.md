@@ -4,6 +4,7 @@ title:  "Windows Server 8 Beta Failover Clustering Part 2"
 date:   2012-03-20 15:06:00 -0600
 categories: blog
 tags: March 2012 KU SOECS MissingImages
+comments: false
 ---
 There were so many images that I decided to split this up over several posts. In [Part 1]({% post_url 2012-03-20-windows-server-8-beta-failover-clustering-part1 %}), I got the Failover Cluster feature installed on my first server, and now I’m going to work through the Failover Cluster Management tool.
 

@@ -4,6 +4,7 @@ title:  "Drupal to Django Migration"
 date:   2010-05-17 19:13:00 -0600
 categories: blog
 tags: May 2010 Personal
+comments: false
 ---
 To be honest I completely ripped off Carson, he has been talking on and off about this for a while. I decided about a week ago that I would give it a stab, and so started searching Google for answers. Surprisingly there weren’t too many answers that could be found that worked or made sense. So I decided the first thing I needed to know how to do was setup a site with Django. Two friends of mine, Nick and Carson are really amazing developers. Nick wrote a Django blog app that we use at the School of Engineering and Carson wrote a Django form app that we use as well. So I figured I’d build a site using Nick’s blog and Carson’s forms and if I got stuck pester them until they helped me figure out what I messed up.
 

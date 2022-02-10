@@ -4,6 +4,7 @@ title:  "Delegation of OU and GPO's"
 date:   2010-08-13 19:19:00 -0600
 categories: blog
 tags: August 2010 KU SOECS
+comments: false
 ---
 Recently A department within the School wanted to leverage the capabilities that we currently provide many other departments. They currently run their own domain, and they needed the same amount of control if they were to migrate over to our domain. Of course the “easy” button here is the [Delegation of Control Wizard](http://technet.microsoft.com/en-us/magazine/2007.02.activedirectory.aspx). This gives you the ability to grant a user in your domain or another trusted domain the ability to administer all or a portion of the objects within an OU.
 

@@ -4,6 +4,7 @@ title:  "Windows 7 Deployment: Part 1 Testing"
 date:   2009-11-30 14:19:00 -0600
 categories: blog
 tags: November 2009 KU SOECS
+comments: false
 ---
 We recently upgraded our System Center Configuration Manager (SCCM) server to SP2, and according to Carson everything went just fine, which is always good news. We didn’t have nearly as pleasant experience when we flipped the bits to SP1. This upgrade put’s us in a position to deploy Windows 7 to our computers.
 

@@ -4,6 +4,7 @@ title:  "Unified Startup Script"
 date:   2010-01-14 19:01:00 -0600
 categories: blog
 tags: January 2010 KU SOECS Scripting
+comments: false
 ---
 Following along with the Unified Logon Script, there is also a Unified Startup Script. Again with the release of Windows 7 much of what we did via script technologies is now handled differently but I wanted to document what the purpose of this script was as well. It is also quite long so you can find it in my public repo at the following URL:
 

@@ -4,6 +4,7 @@ title:  "Forwarding Events from WS08 Core DC"
 date:   2010-09-22 19:29:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 There were some changes between Windows Server 2008 and Windows Server 2008 R2, the one I’m interested in is WinRM. The default HTTP port on Windows Server 2008 is TCP 80, but on Windows Server 2008 R2 the default HTTP port is TCP 5985. There are a couple of ways to get around this; either change the listener port on the Windows Server 2008 machine, or use a Collector Initiated subscription and change the port on the Advanced tab. In my example these computers are both Domain joined. Setting this up in a Workgroup environment is a little different and I may write up something for that later.
 

@@ -4,6 +4,7 @@ title:  "DNS and DHCP Implementation"
 date:   2008-10-16 11:20:00 -0600
 categories: blog
 tags: October 2008 KU SOECS
+comments: false
 ---
 The School hosts its own Active Directory Infrastructure, this infrastructure depends on a DNS server that fully supports RFC 2136. Our administrative model relies on the ability of our clients to receive their network address from a DHCP server that fully supports RFC 2131. In a production environment we require that the services we rely upon do not implement “draft” or “beta” code.
 

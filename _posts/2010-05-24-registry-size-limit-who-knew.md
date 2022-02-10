@@ -4,6 +4,7 @@ title:  "Registry size limit...who knew?"
 date:   2010-05-24 19:14:00 -0600
 categories: blog
 tags: May 2010 KU SOECS
+comments: false
 ---
 This past Friday we pushed out 30 new lab machines. These machines were imaged the same way we image the rest of our labs. We noticed that several applications failed to install, and Carson began troubleshooting that. Turns out, due to the number of installed applications we ran out of space in the Windows Registry. Call us noobs if you like, but really…there is a max?
 

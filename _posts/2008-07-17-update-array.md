@@ -4,6 +4,7 @@ title:  "Update Array"
 date:   2008-07-17 11:13:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 The [UpdateArray](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/playground/procedures/UpdateArray.txt) procedure updates the arrLabs array. The purpose of this procedure is to generate a tallies that will be used to in a report to display lab usage. This procedure depends on the arrLabs array being declared globally as well as the GetProp function being available.
 

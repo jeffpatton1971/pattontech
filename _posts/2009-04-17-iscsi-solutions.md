@@ -4,6 +4,7 @@ title:  "iSCSI Solutions"
 date:   2009-04-17 14:03:00 -0600
 categories: blog
 tags: April 2009 KU SOECS
+comments: false
 ---
 iSCSI provides a cost-effective, unified method for accessing storage from various vendors. My example is an old free-standing Compaq Drive array and a rack mounted Dell Drive array. Both of these attach to the head server via regular SCSI. Keep in mind that the local connections to the data doesn’t matter, they could be external SAS enclosures or SATA drives, the “SCSI” part of iSCSI is an over the network thing and not a local requirement thing.
 

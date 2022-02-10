@@ -4,6 +4,7 @@ title:  "Logging Routine"
 date:   2007-07-01 09:00:00 -0600
 categories: blog
 tags: July 2007 KU SOECS Scripting
+comments: false
 ---
 I created a routine, [LogData](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/production/utils/LogData.txt),  that is pretty simple, it accepts
 two parameters:

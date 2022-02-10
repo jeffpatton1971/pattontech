@@ -4,6 +4,7 @@ title:  "VLAN's, VMware ESxi, and Redhat EL"
 date:   2008-10-16 11:21:00 -0600
 categories: blog
 tags: October 2008 KU SOECS
+comments: false
 ---
 In environments were more than 4 VLAN’s exist you will have some difficulties getting all of them trunked into your VM’s. The best way seems to be trunking all the VLAN’s into single interface in your VM and then building multiple virtual interfaces within the guest OS.
 

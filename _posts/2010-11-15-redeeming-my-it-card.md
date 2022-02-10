@@ -4,6 +4,7 @@ title:  "Redeeming my IT card"
 date:   2010-11-15 19:33:00 -0600
 categories: blog
 tags: November 2010 KU SOECS
+comments: false
 ---
 So flat in the middle of standing up a new file server cluster and writing about it, in draft, and tweeted a few things that Carson nailed me on. First, I am just slightly annoyed at how the Dell NX3000 comes pre-configured, to which Carson pointed out that it’s an appliance and to get over it. Then I was annoyed because of the default roles and services and progressed through the baseline in my head adding what I needed, removing what was there that was not needed.
 

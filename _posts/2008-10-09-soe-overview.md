@@ -4,6 +4,7 @@ title:  "SOE Overview"
 date:   2008-10-09 11:18:00 -0600
 categories: blog
 tags: October 2008 KU SOECS Overview
+comments: false
 ---
 I have been with the School of Engineering since February of 2007 and in that time we have moved from technology that was 1995 centric to an almost current level of technology. This overview should provide some insight into how we have grown, what caused us to move in the direction we did, and where we see ourselves in the future. This document will forego an explanation of the eccentricities of KU as the author himself still struggles with them.
 

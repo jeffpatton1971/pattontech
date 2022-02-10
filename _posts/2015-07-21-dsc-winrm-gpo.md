@@ -4,6 +4,7 @@ title:  "DSC + WinRM + GPO"
 date:   2015-07-21 13:02:00 -0600
 categories: blog
 tags: July 2015 KU IT
+comments: false
 ---
 Ok, so I’m working on Desired State Configuration at work, and I had created a GPO to manage the WinRM settings a long while ago. This allows me to control how WinRM works and so forth and was needed for PowerShell to just work on our systems.
 

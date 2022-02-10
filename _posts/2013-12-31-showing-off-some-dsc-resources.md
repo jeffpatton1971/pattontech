@@ -4,6 +4,7 @@ title:  "Showing off some DSC Resources"
 date:   2013-12-31 11:07:00 -0600
 categories: blog
 tags: December 2013 KU IT Scripting
+comments: false
 ---
 Yesterday I wrote three articles ([Part 1]({% post_url 2013-12-30-dsc-part1 %}), [Part 2]({% post_url 2013-12-30-dsc-part2 %}), [Part 3]({% post_url 2013-12-30-dsc-part3 %}) ) about [Desired State Configuration](http://technet.microsoft.com/en-us/library/dn249912.aspx). I thought I would post a slightly more complex Configuration. This configuration performs several actions on the target node.
 

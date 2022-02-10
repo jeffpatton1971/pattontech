@@ -4,6 +4,7 @@ title:  "Windows Server 2012 Single Node Cluster"
 date:   2013-04-17 11:01:00 -0600
 categories: blog
 tags: April 2013 KU IT
+comments: false
 ---
 So this posting is a re-hash of a post that I did over a year ago when Windows 2012 was still Windows Server 8.
 

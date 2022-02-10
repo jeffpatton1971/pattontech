@@ -4,6 +4,7 @@ title:  "OEMStringArray and VMware"
 date:   2010-06-16 19:15:00 -0600
 categories: blog
 tags: June 2010 KU SOECS Scripting
+comments: false
 ---
 OEMStringArray as defined by Microsoft will contain:
 

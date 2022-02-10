@@ -4,6 +4,7 @@ title:  "The 'new way' or Software Lifecycles"
 date:   2008-03-06 11:00:06 -0600
 categories: blog
 tags: March 2008 KU SOECS
+comments: false
 ---
 Currently we have a very poor methodology of managing the host of software applications that we support on our network. The process is as follows:
 

@@ -4,6 +4,7 @@ title:  "Week In Review: 07/27/2014"
 date:   2014-08-02 12:07:00 -0600
 categories: blog
 tags: August 2014 KU IT Scripting Review
+comments: false
 ---
 Another week coding the app, the nice thing is that the MVC re-write is pretty much done. In fact the idea of utilizing the DB to store information is actually in place, something I wound up having to do. I have decided to store a snapshot of the relevant data in some tables at login. The actual collection of data and table insert takes roughly 20 seconds, so it’s pretty quick. This speeds up everything quite a bit, the entire site feels a lot more responsive.
 

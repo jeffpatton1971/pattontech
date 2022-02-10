@@ -4,6 +4,7 @@ title:  "How true it is..."
 date:   2008-03-13 11:02:00 -0600
 categories: blog
 tags: March 2008 KU SOECS
+comments: false
 ---
 I found this while searching for using GTK on Windows. Here is the [thread](http://episteme.arstechnica.com/eve/forums/a/tpc/f/48409524/m/346009087831/p/3).
 

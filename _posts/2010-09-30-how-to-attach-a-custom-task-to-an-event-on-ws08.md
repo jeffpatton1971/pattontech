@@ -4,6 +4,7 @@ title:  "How to attach a custom task to an event on WS08"
 date:   2010-09-30 19:30:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 In an earlier [post]({% post_url 2010-09-22-forwarding-events-from-ws08-core-dc %}) I talked about how to forward events from one machine to another. That works out quite well, but unless you’re sitting at the log and watching the events go by, you might miss something. You might agree that there are some events that you are more interested in than others. For example, while it’s neat that Windows let’s you know server uptime in seconds as an event but I’d be much more interested in an event related to a computer that is unable to establish a trust relationship with it’s domain controller.
 

@@ -4,6 +4,7 @@ title:  "Week In Review: 06/08/2014"
 date:   2014-06-14 12:03:00 -0600
 categories: blog
 tags: June 2014 KU IT Scripting Review
+comments: false
 ---
 Still a lot of programming this week, but like I said before I think anymore that is more the norm than not. We did some interesting Active Directory stuff this week. We had a handful of servers get their AD objects deleted at some point, and we found out about the beginning of this week. Now my guess is these were deleted close to about 3mo ago, and they either rebooted recently or attempted to change their password recently.
 

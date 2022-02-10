@@ -4,6 +4,7 @@ title:  "Do you suffer from 'Premature Installation'?"
 date:   2011-06-14 13:09:00 -0600
 categories: blog
 tags: June 2011 KU SOECS
+comments: false
 ---
 Or, “What’s in a name?”
 

@@ -4,6 +4,7 @@ title:  "DISM...'because reasons'"
 date:   2015-06-22 13:01:00 -0600
 categories: blog
 tags: June 2015 KU IT
+comments: false
 ---
 I don’t know why this is a thing, it shouldn’t be a thing. I’m going to post a link to the page on TechNet, and then just paste in the content.
 

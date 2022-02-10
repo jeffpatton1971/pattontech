@@ -4,6 +4,7 @@ title:  "Subversion and svnsync"
 date:   2010-07-06 19:18:00 -0600
 categories: blog
 tags: July 2010 Personal
+comments: false
 ---
 First things first, I am in no way proficient in how subversion works, but I am usually pretty good at reading documentation and then being able to work out issues I encounter.
 

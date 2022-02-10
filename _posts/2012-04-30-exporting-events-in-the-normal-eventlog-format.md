@@ -4,6 +4,7 @@ title:  "Exporting Event logs in the normal Event Log format"
 date:   2012-04-01 15:18:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
+comments: false
 ---
 I’ve decided that I’d like to be able to export my event logs in their native .evtx file format. This appears to be faster than converting them all to .csv files. Early on I ran into a few problems, the first of which I was unable to convert what was in my head to something that Google understood! Once I got over that I found what I was looking for.
 

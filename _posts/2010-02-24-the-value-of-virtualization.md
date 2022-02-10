@@ -4,6 +4,7 @@ title:  "The value of virtualization"
 date:   2010-02-24 19:05:00 -0600
 categories: blog
 tags: February 2010 KU SOECS
+comments: false
 ---
 From time to time I think that we all sometimes overlook the value of virtualization. I know that I do, and it came home to me today. We have a problem with storage, it seems we can’t get enough! Over the summer we migrated from an older 7TB fiber channel SAN, to a new 13TB iSCSI [SAN]({% post_url 2009-06-06-dell-md3000i %}). Since then we have watched as more and more of our storage has been consumed. We hit a crisis mode this past weekend when the 3.5TB lun we had allocated for user data, quite literally filled up. Feel free to yell at me for not being more mindful or more proactive, it’s a crazy situation and I don’t know if I had to do it over, I would make the same choices.
 

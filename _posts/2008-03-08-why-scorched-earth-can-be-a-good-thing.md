@@ -4,6 +4,7 @@ title:  "Why 'Scorched Earth' can be a good thing"
 date:   2008-03-08 11:01:00 -0600
 categories: blog
 tags: March 2008 KU SOECS
+comments: false
 ---
 Historically here in the School of Engineering, software installation was handled by a single person. What I mean by this is, if a faculty person required specific software to be installed, one individual would take the time to get that software to work. Little if any documentation was created as we relied on this one person to always be there.
 

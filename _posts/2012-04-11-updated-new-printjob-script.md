@@ -4,6 +4,7 @@ title:  "Updated New-Printjob script"
 date:   2012-04-01 15:14:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
+comments: false
 ---
 The information I’m going to cover here was previously covered on [TechNet](http://blogs.technet.com/b/wincat/archive/2012/03/21/3449236.aspx). I’m posting this because this morning I came across an error in my [PrintLogger](https://github.com/jeffpatton1971/mod-posh/blob/master/powershell/production/New-PrintJob.ps1) script.To be fair it was an error in the script, there is something else going on. I have created a [thread](http://social.technet.microsoft.com/Forums/en-US/ITCG/thread/29739ec0-b367-4a1c-9d0b-42cbbb6bae36/#e6bf38fa-ce99-41a8-843b-701efd4448c3), but I don’t know if I’ll get much in the way of response, as the only hit on [Google](https://www.google.com/search?q=get-winevent+The+maximum+number+of+replacements+has+been+reached&hl=en#hl=en&sclient=psy-ab&q=get-winevent+%22The+maximum+number+of+replacements+has+been+reached%22&oq=get-winevent+%22The+maximum+number+of+replacements+has+been+reached%22&aq=f&aqi=&aql=1&gs_l=serp.3...5007l5444l0l5805l2l2l0l0l0l0l121l217l1j1l2l0.epsugrst.1.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=21ba5269d78bca91&biw=1680&bih=926) for the exact error message is a [German](http://www.cycotec.de/index.php/programmieren/powershell/beispiele/148-winrm-aktivieren) site.
 

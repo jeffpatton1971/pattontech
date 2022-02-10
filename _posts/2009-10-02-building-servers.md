@@ -4,6 +4,7 @@ title:  "Building Servers"
 date:   2009-10-02 14:13:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
+comments: false
 ---
 Building a server, using the method I outlined in my [previous post]({% post_url 2009-10-02-windows-linux-server-base-image %}), becomes cake.
 

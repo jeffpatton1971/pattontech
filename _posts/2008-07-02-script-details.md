@@ -4,6 +4,7 @@ title:  "Script Details"
 date:   2008-07-02 11:12:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 I just wrote the [ScriptDetails](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/playground/functions/ScriptDetails.txt) function today, I wanted better information in the Application Log regarding what script executed, where was it located, and who executed it. This information is then passed back to the LogData procedure to be input into the Application Log.
 

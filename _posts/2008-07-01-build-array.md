@@ -4,6 +4,7 @@ title:  "Build Array"
 date:   2008-07-01 11:11:00 -0600
 categories: blog
 tags: July 2008 KU SOECS Scripting
+comments: false
 ---
 The [BuildArray](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/playground/procedures/BuildArray.txt) procedure connects to the provided domain and returns a list of requested objects. Then it loops through those objects checking for a specific value in the DistinguishedName property. The lab structure in our domain uses the room number of a given lab as the name of the OU.
 

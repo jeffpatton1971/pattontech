@@ -4,6 +4,7 @@ title:  "Converting RIS to WDS"
 date:   2007-07-20 09:05:00 -0600
 categories: blog
 tags: July 2007 KU SOECS Lab
+comments: false
 ---
 Overview:
 There are several methods of converting an existing RIS Server to WDS but the easiest seems to be upgrading to Windows Server 2003 SP 2. If SP 2 is already installed all you need do is choose WDS from the Add Windows Components section of Add/Remove Programs.

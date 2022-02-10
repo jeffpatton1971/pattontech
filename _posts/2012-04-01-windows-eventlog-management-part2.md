@@ -4,6 +4,7 @@ title:  "Windows Eventlog Management Part 2"
 date:   2012-04-01 15:11:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting MissingImages
+comments: false
 ---
 HOW TO GET THE LOG TO LET YOU KNOW WHEN SOMETHING HAPPENED
 

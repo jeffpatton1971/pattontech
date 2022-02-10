@@ -4,6 +4,7 @@ title:  "Supporting Ancient Hardware"
 date:   2011-07-26 13:11:00 -0600
 categories: blog
 tags: July 2011 KU SOECS
+comments: false
 ---
 Today we’ll be working on some moldy oldies! I give you the SGI Indigo, and it’s successor the SGI Octane! Bow in front of their immense glory!
 

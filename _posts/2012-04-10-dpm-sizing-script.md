@@ -4,6 +4,7 @@ title:  "DPM Sizing Script"
 date:   2012-04-01 15:13:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
+comments: false
 ---
 [Yesterday]({% post_url 2012-04-10-weekly-dpm-monitoring %}) I told you how I had decided to automate a portion of my DPM routine. As usual this got the fires burning and a second script was born. I would have told you about it yesterday but I wanted to make the appearance of doing actual work 😉
 

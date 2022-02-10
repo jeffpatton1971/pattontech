@@ -4,6 +4,7 @@ title:  "Create VSTS Service Principal"
 date:   2017-01-25 15:02:00 -0600
 categories: blog
 tags: January 2017 Rackspace
+comments: false
 ---
 Working with one of our CSP customer’s and they needed to connect their Visual Studio Team Services account to their CSP Azure account. If you have a regular Pay-As-You-Go subscription, then you have access to the old portal (manage.windowsazure.com) but if you’re a CSP that doesn’t work. So after talking Brian Moore at Microsoft I created a series of steps that I thought I’d get down for the next time I need to do this.
 

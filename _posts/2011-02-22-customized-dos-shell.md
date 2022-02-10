@@ -4,6 +4,7 @@ title:  "Customized DOS Shell"
 date:   2011-02-22 13:04:00 -0600
 categories: blog
 tags: February 2011 Personal
+comments: false
 ---
 A fair amount of my time is spent at the command-line, and as such I want it to work in a particular way. Since I don’t want to lose this information the next time I need to set this up, I figured I’d write it down someplace.
 

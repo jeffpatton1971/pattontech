@@ -4,6 +4,7 @@ title:  "Views and the Cloud"
 date:   2009-09-28 14:10:00 -0600
 categories: blog
 tags: September 2009 KU SOECS
+comments: false
 ---
 One of the things I’ve enjoyed recently are tag clouds I have no good explanation for it other than they look cool. So since I just finished migrating all my junk over to this server I decided I would set that up. Drupal appears to have a module for almost everything so a tag cloud seemed like a no brainer on the module site listing. Sure enough there is the “[Views_Cloud](http://drupal.org/project/views_cloud)” module that depends on the “[Views](http://drupal.org/project/views)” module.
 

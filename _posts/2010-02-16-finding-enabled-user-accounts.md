@@ -4,6 +4,7 @@ title:  "Finding Enabled User Accounts"
 date:   2010-02-16 19:03:00 -0600
 categories: blog
 tags: February 2010 KU SOECS Scripting
+comments: false
 ---
 I was recently notified that one of the computers that we’re responsible for had been compromised by [Torpig](http://www.sophos.com/security/analyses/viruses-and-spyware/trojtorpiga.html). The way I understand it is the user launches a website that might be a part of a phishing scam, and the software gets dropped on their computer. Once installed it searches through the computer and transmits usernames, passwords, social security numbers, account numbers and the like up to a group of servers on the internet.
 

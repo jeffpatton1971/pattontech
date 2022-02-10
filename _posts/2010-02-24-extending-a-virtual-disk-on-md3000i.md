@@ -4,6 +4,7 @@ title:  "Extending a Virtual Disk on the MD3000i"
 date:   2010-02-24 19:04:00 -0600
 categories: blog
 tags: February 2010 KU SOECS
+comments: false
 ---
 We purchased our new iSCSI [SAN]({% post_url 2009-06-06-dell-md3000i %}) this past summer and one of the important features for us was the ability to resize a lun as needed. The Dell MD3000i gave us that capability, while not in the best format, it does have a rather extensive CLI.
 

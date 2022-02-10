@@ -4,6 +4,7 @@ title:  "Production Script: UpdateADDescription"
 date:   2010-05-17 19:11:00 -0600
 categories: blog
 tags: May 2010 KU SOECS Scripting
+comments: false
 ---
 The [UpdateADDescription](https://github.com/jeffpatton1971/mod-posh/blob/master/vbs/production/UpdateADDescription.vbs) is run hourly on a computer connected to the domain. It’s sole purpose is to loop through all the computers in a given OU and update their Description property. It serves as both inventory and somewhat of a user tracking system as it will give us an idea of who is logged on to what computer.
 

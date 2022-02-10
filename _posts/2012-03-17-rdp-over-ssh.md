@@ -4,6 +4,7 @@ title:  "RDP over SSH"
 date:   2012-03-17 15:04:00 -0600
 categories: blog
 tags: March 2012 KU SOECS
+comments: false
 ---
 Before I start, while this will allow you to access your servers over a secure tunnel, this does not mean you should forego patching your systems.
 

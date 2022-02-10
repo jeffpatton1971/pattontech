@@ -4,6 +4,7 @@ title:  "Powershell forensic use"
 date:   2012-06-15 15:21:00 -0600
 categories: blog
 tags: June 2012 KU SOECS Scripting
+comments: false
 ---
 This is just a collection of links, most from the scripting guy about how to use PowerShell in forensic analysis of a computer system.
 I culled some of these together for the security group I belong to on campus, and before I lose them I thought I would drop them here.

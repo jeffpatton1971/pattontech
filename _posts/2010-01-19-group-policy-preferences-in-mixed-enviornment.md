@@ -4,6 +4,7 @@ title:  "Group Policy Preferences in a mixed environment"
 date:   2010-01-19 19:02:00 -0600
 categories: blog
 tags: January 2010 KU SOECS Scripting
+comments: false
 ---
 We were recently directed to push Windows 7 out to the network which triggered the previous [post]({% post_url 2009-11-30-windows-7-deployment-part-1-testing %}) on Windows 7 deployment. In order to make this happen we made a significant investment in hardware. The targeted group of computers, approximately 150, have been upgraded to 4gb of ram and at least a 150gb hard drive.
 

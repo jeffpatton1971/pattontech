@@ -4,6 +4,7 @@ title:  "Get recent events from servers"
 date:   2012-04-01 15:17:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
+comments: false
 ---
 I’ve been working with Microsoft on an issue that I am having with my DPM server. We have been doing some fairly intense logging, and today I enable several performance counters in an attempt to ascertain if something external is triggering this issue.
 

@@ -4,6 +4,7 @@ title:  "After Action Notes"
 date:   2007-07-18 09:03:00 -0600
 categories: blog
 tags: July 2007 KU SOECS Lab
+comments: false
 ---
 Problems:
 

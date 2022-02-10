@@ -4,6 +4,7 @@ title:  "Intuit Quickbooks 9.0 Upgrade"
 date:   2008-10-08 11:16:00 -0600
 categories: blog
 tags: October 2008 KU SOECS HOWTO
+comments: false
 ---
 Summary:
 

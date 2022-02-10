@@ -4,6 +4,7 @@ title:  "Windows Server 8 Beta Failover Clustering Part 1"
 date:   2012-03-20 15:05:00 -0600
 categories: blog
 tags: March 2012 KU SOECS MissingImages
+comments: false
 ---
 I read a very nice [article](http://blogs.msdn.com/b/clustering/archive/2012/03/19/10285168.aspx) over on TechNet about some of the new features of Failover Clustering in Windows 8, so I decided to give it a spin. It’s not too bad, I’m really enjoying the new Server Manager interface, it’s pretty awesome.
 

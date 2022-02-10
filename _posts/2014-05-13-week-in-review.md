@@ -4,6 +4,7 @@ title:  "Week In Review: 05/25/2014"
 date:   2014-05-25 12:01:00 -0600
 categories: blog
 tags: May 2014 KU IT Scripting Review
+comments: false
 ---
 Well it’s been forever since I’ve written anything interesting so now is as good a time as any. Recently we were informed we needed to start keeping track of time spent on projects and since this is something I did for a couple of years at the School of Engineering, it’s not too difficult for me to get back into the swing. Although this go around I went with more of a journal style, not sure I like it but we’ll see.
 

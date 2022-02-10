@@ -4,6 +4,7 @@ title:  "Server Changes"
 date:   2011-08-20 13:12:00 -0600
 categories: blog
 tags: August 2011 Personal
+comments: false
 ---
 So I hopped services again, and it’s taken me a bit to get things up and running the way I want them to. The big difference now, I’m hosting my own services, so there was a learning curve for me to get things working properly. This site has been up for a while, but I’ve only recently gotten my subversion site online. The site that caused me the most trouble was my trac site. Turns out my issues had nothing to do with trac at all, but TMG 2010.
 

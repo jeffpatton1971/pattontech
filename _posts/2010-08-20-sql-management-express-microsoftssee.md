@@ -4,6 +4,7 @@ title:  "SQL Management Express and Microsoft##SSEE"
 date:   2010-08-20 19:21:00 -0600
 categories: blog
 tags: August 2010 KU SOECS
+comments: false
 ---
 Download and install [Microsoft SQL Server Management Studio Express](http://www.microsoft.com/downloads/en/results.aspx?freetext=Microsoft+SQL+Server+Management+Studio+Express&displaylang=en&stype=s_basic)
 

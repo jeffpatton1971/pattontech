@@ -5,6 +5,7 @@ date:   2022-02-10 09:06:00 -0600
 categories: blog
 tags: February 2022 Rackspace
 author: Jeff
+comments: true
 ---
 Let's start with a brief history. I started at Rackspace in July of 2016 as a DevOps Engineer III and orignally worked in the Azure Support Team. For about a year I worked with large and small customers as they brought their products into Azure and helped them sort out what was going on when things weren't working. About 2 years later I moved over the Azure Build Team where once again I worked with customers, but this time I helped them bring their resouces into Azure. Finally about a year ago a small Automation Team was created that borrowed folks from Azure Build, AWS Build and GCP Build. This team worked on defining a process to automate deployments into all three major cloud vendors, globally.
 

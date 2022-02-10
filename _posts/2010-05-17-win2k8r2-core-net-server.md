@@ -4,6 +4,7 @@ title:  "Windows Server 2008 R2 Core Net Server"
 date:   2010-05-17 19:12:00 -0600
 categories: blog
 tags: May 2010 KU SOECS
+comments: false
 ---
 I wanted to setup a DNS and DHCP server for my home network. I could have used a Linux server to do this, but I wanted to write about server core. I also wanted to mess with working over ssh to do things, I found a SourceForge [project](http://opensshwindows.sourceforge.net/) that worked really well on 2008 x86, I had errors on 2008 R2 which I’ll poke at next week.
 

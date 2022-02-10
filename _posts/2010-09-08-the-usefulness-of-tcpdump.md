@@ -4,6 +4,7 @@ title:  "The usefulness of TCPDUMP"
 date:   2010-09-08 19:23:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 We are mid-firewall migration, it’s set to happen in about 2hrs from this post. But in the middle of trying to figure out why we are getting crazy network outages, we ran tcpdump on our dns/dhcp server. Why that server? That was the server that was identified by Central-IT as having issues.
 

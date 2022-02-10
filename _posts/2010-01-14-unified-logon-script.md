@@ -4,6 +4,7 @@ title:  "Unified Logon Script"
 date:   2010-01-14 19:00:00 -0600
 categories: blog
 tags: January 2010 KU SOECS Scripting
+comments: false
 ---
 This script is entirely too long to publish as a page, you can find it in my public repo at the following URL.
 

@@ -3,7 +3,8 @@ layout: post
 title:  "Bulk URL Monitoring"
 date:   2015-06-05 13:00:00 -0600
 categories: blog
-tags: June 2015 KU IT 
+tags: June 2015 KU IT
+comments: false
 ---
 How did I not know about this before? So I’m working on creating a Management Pack for Advanced Group Policy Management, and hunting for the utility to seal a MP. I find this utility buried in the Tools folder. I’m going to link the article I found on using it here as well as scrape the text in case it goes away.
 

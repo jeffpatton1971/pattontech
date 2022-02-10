@@ -4,6 +4,7 @@ title:  "Managing a Server Core fileserver"
 date:   2010-12-29 19:38:00 -0600
 categories: blog
 tags: December 2010 KU SOECS
+comments: false
 ---
 So, you want to manage that Server Core now I suppose. Well, ok but you will need to do a few things first…
 

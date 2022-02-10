@@ -4,6 +4,7 @@ title:  "Subversion auto-props"
 date:   2011-04-22 13:06:00 -0600
 categories: blog
 tags: April 2011 Scripting
+comments: false
 ---
 I’ve been really busy working with and learning PowerShell and dutifully committing my code into my subversion repo. For the most part it’s been really fun and I’ve not had too many problems. What I wasn’t expecting was not being able to view my scripts on my Trac site. I had recently uploaded a script I wrote that would delete local user accounts from computers in the domain. I had decided to link the help page I created to the source page, except when I browsed the repository and clicked on the file I received the following message:
 

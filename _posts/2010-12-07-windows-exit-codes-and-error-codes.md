@@ -4,6 +4,7 @@ title:  "Windows Exit Codes and Error Codes"
 date:   2010-12-07 19:34:00 -0600
 categories: blog
 tags: December 2010 KU SOECS
+comments: false
 ---
 So historically we have rebooted the lab computers once a week. The reason for doing this originally was to clear our local profile data, and empty the temp and scratch folders. In order to do this Carson created a script, that did some checking on the computers prior to rebooting them. His script relied on WMI, which for us has not always been 100% reliable. Recently he realized that due to the number of computers we currently manage in the labs, and the time-offset he was using and our continued WMI problems, his script would never finish.
 

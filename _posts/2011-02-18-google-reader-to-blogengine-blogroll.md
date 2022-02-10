@@ -4,6 +4,7 @@ title:  "Google Reader feed to Blogengine blogroll.xml"
 date:   2011-02-18 13:03:00 -0600
 categories: blog
 tags: February 2011 Personal
+comments: false
 ---
 So I wanted the list of blogs I follow in Google Reader to be displayed on my website. [Blogengine](http://blogengine.codeplex.com/) uses XML files for just about everything, so I decided I would see how difficult it was to convert the Google Reader OPML to a format suitable for Blogengine. The first step is to export your list to an OPML file, once you have that you need to grab this XSLT file that will handle the conversion and finally some sort of utility that will read in the OPML and XSLT and output the appropriate XML.
 

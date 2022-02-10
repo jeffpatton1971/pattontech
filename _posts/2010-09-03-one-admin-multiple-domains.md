@@ -4,6 +4,7 @@ title:  "One admin, multiple domains"
 date:   2010-09-03 19:22:00 -0600
 categories: blog
 tags: September 2010 Personal
+comments: false
 ---
 So I want to be able to have a single Django admin site for more than one domain. After talking it over with [Carson](http://carsongee.com/), he showed me what needed to be done. It’s really quite simple when you talk to someone knowledgeable, and go over it from beginning to end.
 

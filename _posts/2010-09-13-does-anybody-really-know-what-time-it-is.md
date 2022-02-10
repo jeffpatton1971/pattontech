@@ -4,6 +4,7 @@ title:  "Does anybody really know what time it is?"
 date:   2010-09-13 19:24:00 -0600
 categories: blog
 tags: September 2010 KU SOECS
+comments: false
 ---
 Or, How to fix your Novell clients so they don’t get hosed up times!
 If you don’t know this, when a computer in an Active Directory domain gets an invalid time it stops working. It has to do with Kerberos tickets and time stamps, and really it’s all very boring. Suffice it to say, that is the reason there is a w32time service. By default, Windows clients in a domain sync their clocks to the domain controllers.

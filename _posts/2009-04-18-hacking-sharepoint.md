@@ -4,6 +4,7 @@ title:  "Hacking Sharepoint"
 date:   2009-04-18 14:05:00 -0600
 categories: blog
 tags: April 2009 KU SOECS
+comments: false
 ---
 LOOK & FEEL CONFIGURATION
 

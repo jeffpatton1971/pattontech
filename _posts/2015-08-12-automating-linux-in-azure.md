@@ -4,6 +4,7 @@ title:  "Automating Linux in Azure"
 date:   2015-08-12 13:03:00 -0600
 categories: blog
 tags: August 2015 KU IT
+comments: false
 ---
 Automation is one of my major areas of work, and most of my automation revolves around System Center Orchestrator. I also do a fair amount of work in Azure and thought it was time to dust off my Automation account and do something entertaining.
 
