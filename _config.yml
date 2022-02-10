@@ -28,7 +28,8 @@ collections:
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 
 minima:
   skin: dark
@@ -36,9 +37,10 @@ minima:
 #remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: mmistakes/minimal-mistakes
 
+
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 #  - jekyll-include-cache
 
 # Exclude from processing.
