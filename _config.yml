@@ -20,8 +20,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/pattontech" # the subpath of your site, e.g. /blog
 url: "https://patton-tech.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Jeffrey S. Patton"
-twitter_username: jspatton
-github_username:  jeffpatton1971
+
+social_links:
+  twitter: jspatton
+  github: jeffpatton1971
+  linkedin: jeffpatton
 
 google_analytics: UA-8275694-2
 
