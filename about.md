@@ -63,7 +63,7 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 #### May 1989 - May 1995
 
-Certifications[^3]
+[^3]:Certifications
 
 * Azure Adminitrator
 * Microsoft Certified Professional
@@ -71,7 +71,7 @@ Certifications[^3]
 * Microsoft Certified Systems Engineer
 * Microsoft Certified Trainer
 
-Skills[^2]
+[^2]:Skills
 
 * Windows System Administration
 * Active Directory
@@ -79,7 +79,7 @@ Skills[^2]
 * C#
 * Azure
 
-Contact[^1]
+[^1]:Contact
 
 [jeffrey@patton-tech.com](mailto:jeffrey@patton-tech.com)
 
