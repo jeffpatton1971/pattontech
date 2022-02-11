@@ -17,6 +17,8 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 ## Experience
 
+---
+
 ## Rackspace Technology (5 years)
 
 ### DevOps Engineer IV (Implementation Automation)
@@ -31,11 +33,15 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 #### July 2016 - September 2018
 
+---
+
 ## Lowe's (1 year)
 
 ### Sr. Systems Administrator
 
 #### September 2015 - July 2016 (Iris Home Automation)
+
+---
 
 ## University of Kansas (8 years)
 
@@ -47,17 +53,23 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 #### February 2007 - May 2012
 
+---
+
 ## Bryan College (3 years)
 
 ### Technical Trainer
 
 #### November 2003 - Febuary 2007
 
+---
+
 ## Americomp (8 years)
 
 ### Trainer
 
 #### June 1995 - November 2003
+
+---
 
 ## Education
 
