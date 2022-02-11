@@ -21,11 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://patton-tech.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Jeffrey S. Patton"
 
-social_links:
-  twitter: jspatton
-  github: jeffpatton1971
-  linkedin: jeffpatton
-
 google_analytics: UA-8275694-2
 
 show_excerpts: true
@@ -44,6 +39,10 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links:
+    twitter: jspatton
+    github: jeffpatton1971
+    linkedin: jeffpatton
 
 #remote_theme: pages-themes/midnight@v0.2.0
 #remote_theme: mmistakes/minimal-mistakes
