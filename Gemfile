@@ -22,6 +22,7 @@ gem "github-pages", "~> 223", group: :jekyll_plugins
 
 gem 'jekyll-include-cache'
 gem "jekyll-paginate"
+gem 'jekyll-sitemap'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

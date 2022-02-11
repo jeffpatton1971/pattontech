@@ -58,6 +58,7 @@ disqus:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 #  - jekyll-include-cache
 
 # Exclude from processing.
