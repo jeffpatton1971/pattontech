@@ -5,11 +5,9 @@ permalink: /about/
 ---
 # Jeffrey Patton
 
-### Contact[^1]
-
-### Skills[^2]
-
-### Certifications[^2]
+* Contact[^1]
+* Skills[^2]
+* Certifications[^2]
 
 ## Summary
 
@@ -65,7 +63,7 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 #### May 1989 - May 1995
 
-### Certifications[^3]
+Certifications[^3]
 
 * Azure Adminitrator
 * Microsoft Certified Professional
@@ -73,7 +71,7 @@ I've been in the Information Technology sector since the early 1990's. During my
 * Microsoft Certified Systems Engineer
 * Microsoft Certified Trainer
 
-### Skills[^2]
+Skills[^2]
 
 * Windows System Administration
 * Active Directory
@@ -81,7 +79,7 @@ I've been in the Information Technology sector since the early 1990's. During my
 * C#
 * Azure
 
-### Contact[^1]
+Contact[^1]
 
 [jeffrey@patton-tech.com](mailto:jeffrey@patton-tech.com)
 
