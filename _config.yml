@@ -32,7 +32,7 @@ header_pages:
  - posts.md
  - organizations.md
  - error-codes.md
- - about.md
+ - about.html
 
 # Build settings
 markdown: kramdown
