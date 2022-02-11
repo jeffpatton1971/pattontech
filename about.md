@@ -5,11 +5,11 @@ permalink: /about/
 ---
 # Jeffrey Patton
 
-### [Contact](^1)
+### Contact[^1]
 
-### [Skills](^2)
+### Skills[^2]
 
-### [Certifications](^2)
+### Certifications[^2]
 
 ## Summary
 
