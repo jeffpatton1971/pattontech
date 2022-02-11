@@ -17,8 +17,6 @@ gem "minima", "~> 2.5.1"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
-gem 'jekyll-google_cse'
-
 # This is the current version of Github Pages
 gem "github-pages", "~> 223", group: :jekyll_plugins
 

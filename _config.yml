@@ -24,7 +24,6 @@ twitter_username: jspatton
 github_username:  jeffpatton1971
 
 google_analytics: UA-8275694-2
-google_cse_id: bafe326421f6e5ee5
 
 show_excerpts: true
 
@@ -57,9 +56,6 @@ plugins:
   - jekyll-remote-theme
 #  - jekyll-include-cache
 
-gems:
-  - jekyll-google_cse
-  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
