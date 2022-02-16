@@ -7,7 +7,7 @@ tags: February 2022 MultiCloudDeployment Development
 author: Jeff
 comments: true
 ---
-[Yesterday]({% post_url 2022-02-15-multicloud-deployment-framework }) I talked about changing up the framework to make it more flexible. Ideally the framework shouldn't need to know all the details about a given template, it should discover that and then do something with it. After that post I spent a fair amount of time trying to figure out what I meant!
+[Yesterday]({% post_url 2022-02-15-multicloud-deployment-framework %}) I talked about changing up the framework to make it more flexible. Ideally the framework shouldn't need to know all the details about a given template, it should discover that and then do something with it. After that post I spent a fair amount of time trying to figure out what I meant!
 
 See the problem is, well there is no problem for ARM as it's literally just JSON and handling that is more or less baked into just about everything anymore. The real problem is Terraform and Bicep, they are both [HCL](https://github.com/hashicorp/hcl). While Terraform may be mostly straight HCL, I think [Bicep](https://github.com/Azure/bicep) is a slightly modified hybrid of that, I've not dug in too deeply yet. While they do have patterns and blocks it's not as simple as key/value pairs in JSON.
 
