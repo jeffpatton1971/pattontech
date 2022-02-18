@@ -133,7 +133,7 @@ namespace Aws.Resources
 }
 ```
 
-Here you can see that we are using DataAnnotations and setting a default value. So, why does this work when the other's did not? Well, it has to do with the magical way the code is being called. Honestly it has to do with how I'm using the classes and this is where things differ between work and personal. We are converting classes to json schema, so while that part worked the resulting schema output never had the default values specified. Once the DataAnnotations were added the output schema contained the defaults and when the automation was run against it with live data, we were now getting defaults where values were left purposefully blank.
+Here you can see that we are using [DataAnnotations](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=net-6.0) and setting a default value. So, why does this work when the other's did not? Well, it has to do with the magical way the code is being called. Honestly it has to do with how I'm using the classes and this is where things differ between work and personal. We are converting classes to [json schema](https://www.newtonsoft.com/jsonschema), so while that part worked the resulting schema output never had the default values specified. Once the DataAnnotations were added the output schema contained the defaults and when the automation was run against it with live data, we were now getting defaults where values were left purposefully blank.
 
 In all honesty I think that I could remove those custom getter/setter functions as I doubt they would ever actually be used in production and would only serve to confuse people who would have to maintain or attempt to troubleshoot this code in the future.
 
