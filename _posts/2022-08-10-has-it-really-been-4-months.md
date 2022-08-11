@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Has it really been 4 months?"
-date:   2022-08-10 22:30:00 -0600
+date:   2022-08-10 10:30:00 -0600
 categories: blog
 tags: August 2022 Review
 author: Jeff
