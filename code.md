@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Orgs
-permalink: /orgs/
+title: Code
+permalink: /code/
 ---
+## Organizations
+
 Below is a list of the GitHub Orgs that I own and actively work on. Additionally some of these have seperate [PowerShell Gallery](https://www.powershellgallery.com/) downloads and Azure DevOps project sites.
 
 ### Azure Resource Manager Reference Templates
@@ -47,3 +49,5 @@ This is a collection of several of the Modules I've created in the [mod-posh](ht
 * [Project Site](https://dev.azure.com/patton-tech/Mod-Posh)
   * Downloads
     * [ComputerManagement](https://www.powershellgallery.com/packages/ComputerManagement)
+
+## Projects

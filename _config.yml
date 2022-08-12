@@ -30,7 +30,7 @@ paginate_path: /posts/page:num
 
 header_pages:
  - posts.md
- - organizations.md
+ - code.md
  - error-codes.md
  - about.html
 
