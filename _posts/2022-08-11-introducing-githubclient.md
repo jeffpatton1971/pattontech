@@ -15,7 +15,7 @@ I released version [2.0.0](https://www.nuget.org/packages/Patton.GithubClient/) 
 ### What's New
 **BREAKING CHANGES**
 
-Originally the methods were stored in folders named for the endpoint they represented, this made it difficult to easily include them as you had to include each one.
+Originally the methods were stored in folders named for the endpoint they represented3, this made it difficult to easily include them as you had to include each one.
 
 ```c-sharp
 using GithubClient.Repository.Methods;
