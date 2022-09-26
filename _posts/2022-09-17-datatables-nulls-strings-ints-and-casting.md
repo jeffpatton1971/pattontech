@@ -151,7 +151,7 @@ What I ended my day with late Friday was looking at the Cloud modules. These mod
 What if we could _cast_ a DataRow as a Resource:
 
 ``` PowerShell
-[build. Schema.resource]$DataRow;
+[build.Schema.resource]$DataRow;
 ```
 
 Or even, what if we could new up a resource with a DataRow:
