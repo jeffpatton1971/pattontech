@@ -3,7 +3,7 @@ layout: post
 title:  "May I Pester you?"
 date:   2022-10-07 22:50:00 -0600
 categories: blog
-tags: Octobeor 2022 Development
+tags: October 2022 Development
 author: Jeff
 comments: true
 published: true
