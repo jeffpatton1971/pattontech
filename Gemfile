@@ -18,7 +18,7 @@ gem "minima", "~> 2.5.1"
 # gem "github-pages", group: :jekyll_plugins
 
 # This is the current version of Github Pages
-gem "github-pages", "~> 223", group: :jekyll_plugins
+gem "github-pages", "~> 227", group: :jekyll_plugins
 
 gem 'jekyll-include-cache'
 gem "jekyll-paginate"
@@ -32,7 +32,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", ">= 1.2.10"
   gem "tzinfo-data"
 end
 
