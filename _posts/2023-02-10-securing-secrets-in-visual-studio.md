@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Securing Secrets in Visual Studio"
-date:   2023-02-10 21:02:00 -0600
+date:   2023-02-10 12:02:00 -0600
 categories: blog
 tags: February 2023 Development
 author: Jeff
