@@ -8,7 +8,7 @@ author: Jeff
 comments: true
 published: true
 ---
-This goes along with my last [post](_posts\2023-02-10-securing-secrets-in-visual-studio.md). I want to be able to consume a package from the Github Packages location within the org, so we need a way to publish there. Here is the workflow I used, it is a mix of the default .net desktop build and a [stackoverflow](https://stackoverflow.com/questions/57889719/how-to-push-nuget-package-in-github-actions) that I found.
+This goes along with my last [post]({% post_url 2023-02-10-securing-secrets-in-visual-studio %}). I want to be able to consume a package from the Github Packages location within the org, so we need a way to publish there. Here is the workflow I used, it is a mix of the default .net desktop build and a [stackoverflow](https://stackoverflow.com/questions/57889719/how-to-push-nuget-package-in-github-actions) that I found.
 
 ```yaml
 name: Publish to Github Release
@@ -41,7 +41,7 @@ jobs:
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: 6.0.x
-        
+
     - name: Setup NuGet.exe for use with actions
       uses: NuGet/setup-nuget@v1.1.1
       with:
@@ -60,7 +60,7 @@ jobs:
     # Pack application
     - name: Pack application
       run: dotnet pack --configuration ${{ matrix.configuration }}
-      
+
     - name: Configure Nuget
       run: nuget sources add -name "GPR" -Source https://nuget.pkg.github.com/MultiCloudDeployment/index.json -Username MultiCloudDeployment -Password ${{ secrets.GITHUB_TOKEN }}
 
