@@ -94,4 +94,4 @@ Once I made this change everything clicked and started working, I simply updated
 
 Currently the application loads the connection string from the appsettings.json file and I'll want it to pull from a Keyvault instead, once I have that sorted the DataAccessLayer should be complete.
 
-Thanks for stopping my and have a wonderful Friday! 
+Thanks for stopping my and have a wonderful Friday!
