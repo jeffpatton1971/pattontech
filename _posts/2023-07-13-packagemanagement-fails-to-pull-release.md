@@ -30,7 +30,7 @@ Then I decided to see if I would have more luck with PackageManagement, I've use
 
 ## Ado Rest API
 
-Finally I tried the API, I've been working on a module for the [Azure Devops Rest API]({% post_url code %}) and I did get some nice sample code, so there should be an update coming soon. I was able to get a list of feeds from the organization.
+Finally I tried the API, I've been working on a module for the Azure Devops Rest API and I did get some nice sample code, so there should be an update coming soon. I was able to get a list of feeds from the organization.
 
 ```powershell
 $Feeds = Invoke-AdoEndpoint -Uri "https://feeds.dev.azure.com/$($OrgName)/_apis/packaging/Feeds?api-version=7.1-preview.1" -Method GET -Headers $Global:azDevOpsHeader
