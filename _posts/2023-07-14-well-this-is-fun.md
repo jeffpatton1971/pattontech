@@ -12,7 +12,7 @@ I've started working on the latest version of my AzDevOps PowerShell Module, and
 
 ```powershell
 Import-Module .\output\AzDevOps -Force
-Import-Module: The given assembly name was invalid.
+Import-Module: The given assembly name was invalid
 ```
 
 Now I've seen this error message before when working with my Binary modules (C# modules), but this is a script module, there are no assemblies, it's all straight PowerShell script files. So let's look at the exception.
