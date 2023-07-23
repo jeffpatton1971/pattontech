@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "There are no dumb questions!"
-date:   2023-07-23 16:06:00 -0600
+date:   2023-07-23 15:06:00 -0600
 categories: blog
 tags: July 2023 Development
 author: Jeff
