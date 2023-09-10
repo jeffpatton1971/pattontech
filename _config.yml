@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://patton-tech.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Jeffrey S. Patton"
 
-google_analytics: UA-8275694-2
+google_analytics: G-LFBCDLFFLL
 
 show_excerpts: true
 
