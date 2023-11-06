@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a report in Jira"
-date:   2023-10-03 16:27:00 -0600
+date:   2023-11-03 16:27:00 -0600
 categories: blog
 tags: November 2023 Development Jira
 author: Jeff
