@@ -9,8 +9,6 @@ comments: true
 published: true
 ---
 
-# Leveraging Azure DevOps Pipelines with Templates and Variable Groups Linked to Azure Key Vault
-
 ## Introduction
 
 In modern application development, managing secrets and sensitive configuration data is crucial. Azure Key Vault provides a secure and efficient way to store these sensitive values. In this article, we'll explore how to integrate Azure DevOps pipelines with Azure Key Vault using templates and variable groups.
