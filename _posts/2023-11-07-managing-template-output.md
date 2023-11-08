@@ -9,8 +9,6 @@ comments: true
 published: true
 ---
 
-# Managing Template Output Variables Across Azure DevOps Pipelines
-
 ## Introduction
 
 As a seasoned C# and PowerShell developer, you're likely familiar with the challenges of managing templates and their output variables in different pipelines within Azure DevOps. In this article, we'll explore a common issue: how to pass outputs between discreet pipeline files, which isn't directly supported by Azure DevOps. We'll delve into a practical workaround involving the use of the Azure DevOps REST API to update a variable group, enabling seamless access across pipelines.
