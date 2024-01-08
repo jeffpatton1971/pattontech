@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /code/
+permalink: /projects/
 ---
 ## Organizations
 
