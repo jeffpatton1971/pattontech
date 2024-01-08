@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Azure Devops Powershell
 permalink: /projects/azdevops
 ---
 | Latest Version | PowerShell Gallery | Issues | License | Discord |
