@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code
+title: projects
 permalink: /code/
 ---
 ## Organizations
