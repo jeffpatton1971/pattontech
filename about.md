@@ -1,13 +1,11 @@
 ---
 layout: single
-title: About
+title: Jeffrey Patton
 permalink: /about/
 ---
 
-# Jeffrey Patton
-
-**[Contact](#contact)**  
-**[Skills](#skills)**  
+**[Contact](#contact)**
+**[Skills](#skills)**
 **[Certifications](#certifications)**
 
 ## Summary
@@ -16,12 +14,10 @@ I've been in the Information Technology sector since the early 1990's. During my
 
 ## Experience
 
----
-
 **Rackspace Technology** _(6 years)_
 
-**DevOps Engineer IV (Implementation Automation)**  
-*January 2022 - Present*
+**DevOps Engineer IV (Implementation Automation)**
+_January 2022 - Present_
 
 As a member of this small team our responsibility was to consolidate the build process across all public clouds for Rackspace. Each team would get design specifications for a customer build in differing formats and with differing levels of information. This created disparity between builds in the clouds and even within the same product at times. We had a handful of goals to address this issue:
 
@@ -31,8 +27,8 @@ As a member of this small team our responsibility was to consolidate the build p
 - Reduce build times globally
 - Make the build an artifact to be handed over
 
-**DevOps Engineer III (Azure Build Team)**  
-*September 2018 - January 2022*
+**DevOps Engineer III (Azure Build Team)**
+_September 2018 - January 2022_
 
 As the Lead Engineer with the Build Team I worked very closely with our Azure Architects and Customers to bring their environments into reality. I was responsible for the ongoing maintenance of the ARM templates and leveraging new technologies for deployements:
 
@@ -41,8 +37,8 @@ As the Lead Engineer with the Build Team I worked very closely with our Azure Ar
 - Developing automated deployments around Azure Pipelines
 - Decreasing build times from days to hours
 
-**DevOps Engineer III (Azure Support)**  
-*July 2016 - September 2018*
+**DevOps Engineer III (Azure Support)**
+_July 2016 - September 2018_
 
 As a part of the Support team for the recently created Azure Product group within Rackspace I worked directly with customers via ticketing and phone support. I worked closely with our customers to resolve issues within their environments. This could include issues that ran from simple to complex:
 
@@ -56,8 +52,8 @@ As a part of the Support team for the recently created Azure Product group withi
 
 **Lowe's** _(1 year)_
 
-**Sr. Systems Administrator**  
-*September 2015 - July 2016 (Iris Home Automation)*
+**Sr. Systems Administrator**
+_September 2015 - July 2016 (Iris Home Automation)_
 
 As a Systems Admin I worked with a small team to develop efficient processes for provisioning the fleet of servers that we mainted in Azure. As a small team it was also expected that we all carry out the regular maintenance and support activities for the fleet. Duties included:
 
@@ -69,8 +65,8 @@ As a Systems Admin I worked with a small team to develop efficient processes for
 
 **University of Kansas** _(8 years)_
 
-**Systems Specialist (Enterprise Systems)**  
-*May 2012 - September 2016*
+**Systems Specialist (Enterprise Systems)**
+_May 2012 - September 2016_
 
 As an Enterprise Speciliast at KU I worked with a team of Windows Admins to support the Enterprise systems that were in use across all Campus locations. My primary responsibility was handing the Windows Identity servers (Active Directory) and their supporting systems. Changes were made through a strict Change Policy where changes were required to approved by the larger Campus IT community in order to understand their impact. Some of the more interesting projects I was involved with were:
 
@@ -80,8 +76,8 @@ As an Enterprise Speciliast at KU I worked with a team of Windows Admins to supp
 - Automating day-to-day tasks for my team
 - Developing a web portal to provision VM's on the ESXi cluster
 
-**Assistant Director IT (School of Engineering)**  
-*February 2007 - May 2012*
+**Assistant Director IT (School of Engineering)**
+_February 2007 - May 2012_
 
 The Assistant Director of IT worked closely with the Director in all aspects of IT direction for the School. My primary responsibility was defining the direction the School would take with emerging technologies. I was directly responsible and involved with several key projects:
 
@@ -101,8 +97,8 @@ The Assistant Director of IT worked closely with the Director in all aspects of 
 
 **Bryan College** _(3 years)_
 
-**Technical Trainer**  
-*November 2003 - Febuary 2007*
+**Technical Trainer**
+_November 2003 - Febuary 2007_
 
 As a technical trainer at Bryan College I was expected to develop and work with Microsoft Curriculum to build solid foundations for my students to become successful IT workers. While we focused on certification for each student we were also focused on each student being able to move into the workplace and succeed. So in addition to writing curriculum and working on lesson plans and developing lab work and tests, we also worked with the students in social aspects of a job interview.
 
@@ -110,8 +106,8 @@ As a technical trainer at Bryan College I was expected to develop and work with 
 
 **Americomp** _(8 years)_
 
-**Trainer**  
-*June 1995 - November 2003*
+**Trainer**
+_June 1995 - November 2003_
 
 As a certification trainer at Americomp I was expected to stay up to date with all current certifications as well as develop methods for successful completion of the various certification tests for my students. This involved developing practice tests, study guides and lab exercises to practice and re-enforce the skills being tested over.
 
@@ -121,8 +117,8 @@ As a certification trainer at Americomp I was expected to stay up to date with a
 
 ## Washburn University
 
-**Computer Science**  
-*May 1989 - May 1995*
+**Computer Science**
+_May 1989 - May 1995_
 
 ## Certifications
 
