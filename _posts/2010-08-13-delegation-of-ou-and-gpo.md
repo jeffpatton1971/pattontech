@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Delegation of OU and GPO's"
 date:   2010-08-13 19:19:00 -0600
 categories: blog

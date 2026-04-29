@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "WSS 3.0, MSSearch Service and SQL"
 date:   2010-04-13 19:09:00 -0600
 categories: blog

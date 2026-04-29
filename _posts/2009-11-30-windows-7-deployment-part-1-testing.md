@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows 7 Deployment: Part 1 Testing"
 date:   2009-11-30 14:19:00 -0600
 categories: blog

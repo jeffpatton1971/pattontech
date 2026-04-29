@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows 2008 R2 Clustering"
 date:   2010-03-24 19:06:00 -0600
 categories: blog

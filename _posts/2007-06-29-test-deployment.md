@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Test Deployment"
 date:   2007-06-29 08:56:09 -0600
 categories: blog

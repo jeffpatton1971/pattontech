@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Server 2008 R2 and Print Logging"
 date:   2010-09-22 19:28:00 -0600
 categories: blog

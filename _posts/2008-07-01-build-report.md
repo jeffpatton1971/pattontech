@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Build Report"
 date:   2008-07-01 11:05:00 -0600
 categories: blog

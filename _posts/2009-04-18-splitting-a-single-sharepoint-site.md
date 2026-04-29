@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Splitting a single Sharepoint Site"
 date:   2009-04-18 14:04:00 -0600
 categories: blog

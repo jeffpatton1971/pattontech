@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Managing Hotfixes Centrally"
 date:   2012-07-11 15:22:00 -0600
 categories: blog

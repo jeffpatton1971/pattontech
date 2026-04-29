@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Powershell"
 date:   2011-04-03 13:05:00 -0600
 categories: blog

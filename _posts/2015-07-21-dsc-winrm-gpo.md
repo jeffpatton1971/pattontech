@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DSC + WinRM + GPO"
 date:   2015-07-21 13:02:00 -0600
 categories: blog

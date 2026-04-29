@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Bulk URL Monitoring"
 date:   2015-06-05 13:00:00 -0600
 categories: blog

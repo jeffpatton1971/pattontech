@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Week In Review: 05/25/2014"
 date:   2014-05-25 12:01:00 -0600
 categories: blog

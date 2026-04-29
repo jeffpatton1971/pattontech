@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How I use scripting"
 date:   2008-07-01 11:09:00 -0600
 categories: blog

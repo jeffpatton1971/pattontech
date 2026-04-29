@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SCOM 2007 R2 and Get-Event"
 date:   2013-01-03 11:00:00 -0600
 categories: blog

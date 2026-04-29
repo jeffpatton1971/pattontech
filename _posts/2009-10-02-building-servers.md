@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Building Servers"
 date:   2009-10-02 14:13:00 -0600
 categories: blog

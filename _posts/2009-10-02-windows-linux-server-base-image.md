@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows/Linux Server Base Image"
 date:   2009-10-02 14:12:00 -0600
 categories: blog

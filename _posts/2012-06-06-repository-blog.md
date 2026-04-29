@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Repository and Blog"
 date:   2012-02-06 15:01:00 -0600
 categories: blog

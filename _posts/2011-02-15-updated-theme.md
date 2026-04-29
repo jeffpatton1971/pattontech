@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Updated Theme"
 date:   2011-02-15 13:02:00 -0600
 categories: blog

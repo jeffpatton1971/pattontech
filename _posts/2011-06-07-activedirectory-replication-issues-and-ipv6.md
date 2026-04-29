@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "ActiveDirectory Replication issues and IPv6"
 date:   2011-06-07 13:07:00 -0600
 categories: blog

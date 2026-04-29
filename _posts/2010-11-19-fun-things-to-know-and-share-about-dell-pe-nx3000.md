@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Fun things to know and share about the Dell PowerEdge NX3000 NAS Appliance"
 date:   2010-11-15 19:33:00 -0600
 categories: blog

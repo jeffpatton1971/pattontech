@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "IIS, PHP, MySQL and Web PI"
 date:   2009-10-02 14:14:00 -0600
 categories: blog

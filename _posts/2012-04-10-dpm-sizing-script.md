@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DPM Sizing Script"
 date:   2012-04-01 15:13:00 -0600
 categories: blog

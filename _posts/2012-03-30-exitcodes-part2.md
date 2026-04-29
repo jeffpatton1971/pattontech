@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "ExitCodes Part 2"
 date:   2012-03-30 15:09:00 -0600
 categories: blog

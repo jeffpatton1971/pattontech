@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "What to do when you receive a truly horrible request"
 date:   2010-10-04 19:31:00 -0600
 categories: blog

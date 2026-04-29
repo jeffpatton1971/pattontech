@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Configure Quickbooks for Windows Server"
 date:   2008-10-09 11:17:00 -0600
 categories: blog

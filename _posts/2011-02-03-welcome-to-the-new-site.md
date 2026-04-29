@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to the new site"
 date:   2011-02-03 13:01:00 -0600
 categories: blog

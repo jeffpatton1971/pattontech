@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Well this is fun!"
 date:   2023-07-14 10:21:00 -0600
 categories: blog

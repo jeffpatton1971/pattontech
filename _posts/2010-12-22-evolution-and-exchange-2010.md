@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Evolution and Exchange 2010"
 date:   2010-12-22 19:35:00 -0600
 categories: blog

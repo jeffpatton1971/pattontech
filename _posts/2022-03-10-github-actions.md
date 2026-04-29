@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Github Actions and PSDocs"
 date:   2022-03-10 18:44:00 -0600
 categories: blog

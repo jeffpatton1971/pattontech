@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A whole lot of nothing, until there was something"
 date:   2024-01-21 22:21:00 -0600
 categories: blog

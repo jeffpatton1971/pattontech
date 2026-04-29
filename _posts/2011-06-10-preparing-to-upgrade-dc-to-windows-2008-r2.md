@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Preparing to upgrade DC's to Windows Server 2008 R2"
 date:   2011-06-10 13:08:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Creating a report in Jira"
 date:   2023-11-03 16:27:00 -0600
 categories: blog

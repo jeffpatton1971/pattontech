@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How true it is..."
 date:   2008-03-13 11:02:00 -0600
 categories: blog

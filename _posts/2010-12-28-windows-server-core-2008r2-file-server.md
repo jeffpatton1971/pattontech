@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Server Core 2008 R2 File Server"
 date:   2010-12-28 19:37:00 -0600
 categories: blog

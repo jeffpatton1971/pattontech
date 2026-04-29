@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Various PHP related messages"
 date:   2009-10-06 14:17:00 -0600
 categories: blog

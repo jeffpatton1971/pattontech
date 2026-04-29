@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SOE Overview"
 date:   2008-10-09 11:18:00 -0600
 categories: blog

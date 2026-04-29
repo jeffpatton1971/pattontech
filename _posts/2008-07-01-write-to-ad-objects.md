@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Write to AD Objects"
 date:   2008-07-01 11:10:00 -0600
 categories: blog

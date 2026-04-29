@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Powershell forensic use"
 date:   2012-06-15 15:21:00 -0600
 categories: blog

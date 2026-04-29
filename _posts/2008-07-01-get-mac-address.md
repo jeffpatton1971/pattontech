@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Get MAC Address"
 date:   2008-07-01 11:06:00 -0600
 categories: blog

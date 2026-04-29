@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "JSON, Strings and Constructors"
 date:   2022-09-29 22:18:00 -0600
 categories: blog

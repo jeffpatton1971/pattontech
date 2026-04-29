@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Managing your network interfaces for VMware Player"
 date:   2010-09-21 19:27:00 -0600
 categories: blog

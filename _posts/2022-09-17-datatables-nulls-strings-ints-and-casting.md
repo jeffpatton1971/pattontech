@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DataTables, Nulls, Strings, Ints and Casting"
 date:   2022-09-17 01:30:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Server 8 Beta Failover Clustering Part 1"
 date:   2012-03-20 15:05:00 -0600
 categories: blog

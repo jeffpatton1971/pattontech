@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Azure Devops Powershell
 permalink: /projects/azdevops
 ---

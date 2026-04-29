@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Proof of Concept"
 date:   2007-07-17 09:02:00 -0600
 categories: blog

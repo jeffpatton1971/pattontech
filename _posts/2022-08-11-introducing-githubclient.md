@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Introducing GithubClient"
 date:   2022-08-11 11:30:00 -0600
 categories: blog

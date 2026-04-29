@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Script Details"
 date:   2008-07-02 11:12:00 -0600
 categories: blog

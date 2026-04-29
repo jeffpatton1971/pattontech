@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Microsoft Interviews"
 date:   2022-03-09 12:03:00 -0600
 categories: blog

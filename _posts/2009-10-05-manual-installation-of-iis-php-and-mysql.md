@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Manual installation of IIS, PHP and MySql"
 date:   2009-10-05 14:16:00 -0600
 categories: blog

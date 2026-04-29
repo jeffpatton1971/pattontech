@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Setspn.exe Wrapper"
 date:   2013-07-13 11:03:00 -0600
 categories: blog

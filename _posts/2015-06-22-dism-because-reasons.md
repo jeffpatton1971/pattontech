@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DISM...'because reasons'"
 date:   2015-06-22 13:01:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Group Policy Preferences in a mixed environment"
 date:   2010-01-19 19:02:00 -0600
 categories: blog

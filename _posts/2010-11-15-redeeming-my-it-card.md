@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Redeeming my IT card"
 date:   2010-11-15 19:33:00 -0600
 categories: blog

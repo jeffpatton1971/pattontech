@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Server 2008 R2 Core Net Server"
 date:   2010-05-17 19:12:00 -0600
 categories: blog

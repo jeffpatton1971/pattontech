@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Deploying XP Image via WIM"
 date:   2007-07-20 09:04:00 -0600
 categories: blog

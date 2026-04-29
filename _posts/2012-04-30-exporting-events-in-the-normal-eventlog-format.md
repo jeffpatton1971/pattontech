@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Exporting Event logs in the normal Event Log format"
 date:   2012-04-01 15:18:00 -0600
 categories: blog

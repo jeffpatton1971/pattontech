@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Deployment Results"
 date:   2007-07-02 09:01:00 -0600
 categories: blog

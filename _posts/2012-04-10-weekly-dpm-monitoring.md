@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Weekly DPM Monitoring"
 date:   2012-04-01 15:12:00 -0600
 categories: blog

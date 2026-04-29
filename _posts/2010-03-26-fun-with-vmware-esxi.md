@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Fun with Vmware ESXi"
 date:   2010-03-26 19:07:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "One admin, multiple domains"
 date:   2010-09-03 19:22:00 -0600
 categories: blog

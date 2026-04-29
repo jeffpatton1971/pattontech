@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Get Serial"
 date:   2008-07-01 11:08:00 -0600
 categories: blog

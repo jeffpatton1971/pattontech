@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Vmware Update Manager not responding"
 date:   2012-05-19 15:19:00 -0600
 categories: blog

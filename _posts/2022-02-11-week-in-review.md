@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Week In Review: 02/11/2022"
 date:   2022-02-11 09:13:00 -0600
 categories: blog

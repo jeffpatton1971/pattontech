@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SCCM + Dell-ServiceTag = Headache"
 date:   2011-08-06 13:13:00 -0600
 categories: blog

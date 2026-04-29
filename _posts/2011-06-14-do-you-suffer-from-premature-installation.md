@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Do you suffer from 'Premature Installation'?"
 date:   2011-06-14 13:09:00 -0600
 categories: blog

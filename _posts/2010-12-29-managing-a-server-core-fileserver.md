@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Managing a Server Core fileserver"
 date:   2010-12-29 19:38:00 -0600
 categories: blog

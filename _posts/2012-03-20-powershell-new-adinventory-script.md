@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "PowerShell New-AdInventory script"
 date:   2012-03-20 15:08:00 -0600
 categories: blog

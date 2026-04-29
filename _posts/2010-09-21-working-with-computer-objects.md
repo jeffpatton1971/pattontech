@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Working with computer objects"
 date:   2010-09-21 19:26:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Unified Logon Script"
 date:   2010-01-14 19:00:00 -0600
 categories: blog

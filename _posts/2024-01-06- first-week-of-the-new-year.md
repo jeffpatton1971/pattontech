@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "First week of the New Year"
 date:   2024-01-06 11:47:00 -0600
 categories: blog

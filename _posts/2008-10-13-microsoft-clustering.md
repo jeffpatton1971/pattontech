@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Microsoft Clustering"
 date:   2008-10-13 11:19:00 -0600
 categories: blog

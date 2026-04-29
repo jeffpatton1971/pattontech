@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Printing from a Scheduled Task as a different user"
 date:   2012-05-19 15:20:00 -0600
 categories: blog

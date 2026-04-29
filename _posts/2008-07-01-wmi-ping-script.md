@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "WMI Ping Script"
 date:   2008-07-01 11:07:00 -0600
 categories: blog

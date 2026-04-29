@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Training Virtual Machines"
 date:   2007-06-27 08:56:05 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Update Array"
 date:   2008-07-17 11:13:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DPM Finally Complete"
 date:   2010-06-17 19:16:00 -0600
 categories: blog

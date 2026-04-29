@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "DNS and DHCP Implementation"
 date:   2008-10-16 11:20:00 -0600
 categories: blog

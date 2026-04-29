@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Google Reader feed to Blogengine blogroll.xml"
 date:   2011-02-18 13:03:00 -0600
 categories: blog

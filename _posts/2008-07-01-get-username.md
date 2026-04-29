@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Get Username"
 date:   2008-07-01 11:04:00 -0600
 categories: blog

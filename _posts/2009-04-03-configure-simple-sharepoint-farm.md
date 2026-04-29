@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Configure simple Sharepoint farm"
 date:   2009-04-03 14:02:00 -0600
 categories: blog

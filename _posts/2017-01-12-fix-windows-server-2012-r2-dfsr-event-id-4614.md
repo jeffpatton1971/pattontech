@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Fix Windows Server 2012 R2 DFSR EventID 4614"
 date:   2017-01-12 15:01:00 -0600
 categories: blog

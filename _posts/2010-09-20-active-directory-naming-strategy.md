@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Active Directory Naming Strategy"
 date:   2010-09-20 19:25:00 -0600
 categories: blog

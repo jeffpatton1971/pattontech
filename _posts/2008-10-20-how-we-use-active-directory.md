@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How we use the Active Directory"
 date:   2008-10-20 11:22:00 -0600
 categories: blog

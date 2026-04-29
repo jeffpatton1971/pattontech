@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Server 2012 Single Node Cluster"
 date:   2013-04-17 11:01:00 -0600
 categories: blog

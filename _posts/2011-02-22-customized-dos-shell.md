@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Customized DOS Shell"
 date:   2011-02-22 13:04:00 -0600
 categories: blog

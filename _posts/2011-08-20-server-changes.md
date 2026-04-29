@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Server Changes"
 date:   2011-08-20 13:12:00 -0600
 categories: blog

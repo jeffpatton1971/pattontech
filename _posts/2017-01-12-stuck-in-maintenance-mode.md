@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Stuck in Maintenance Mode"
 date:   2017-01-12 15:00:00 -0600
 categories: blog

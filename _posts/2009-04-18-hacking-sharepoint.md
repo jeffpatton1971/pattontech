@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hacking Sharepoint"
 date:   2009-04-18 14:05:00 -0600
 categories: blog

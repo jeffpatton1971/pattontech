@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "RDP over SSH"
 date:   2012-03-17 15:04:00 -0600
 categories: blog

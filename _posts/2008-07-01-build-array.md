@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Build Array"
 date:   2008-07-01 11:11:00 -0600
 categories: blog

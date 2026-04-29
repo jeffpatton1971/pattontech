@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Unified Startup Script"
 date:   2010-01-14 19:01:00 -0600
 categories: blog

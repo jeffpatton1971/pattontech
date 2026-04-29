@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Has it really been 4 months?"
 date:   2022-08-10 10:30:00 -0600
 categories: blog

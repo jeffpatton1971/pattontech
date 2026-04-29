@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Finding Enabled User Accounts"
 date:   2010-02-16 19:03:00 -0600
 categories: blog

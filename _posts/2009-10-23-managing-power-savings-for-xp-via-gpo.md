@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Managing Power Savings for XP via GPO"
 date:   2009-10-23 14:18:00 -0600
 categories: blog

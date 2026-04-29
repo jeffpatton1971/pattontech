@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hyper-V Server 2012 Cluster with Powershell Deployment Toolkit"
 date:   2013-05-31 11:02:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Managing Template Output Variables Across Azure DevOps Pipelines"
 date:   2023-11-07 17:22:00 -0600
 categories: blog

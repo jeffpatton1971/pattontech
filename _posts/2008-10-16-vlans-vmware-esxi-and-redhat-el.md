@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "VLAN's, VMware ESxi, and Redhat EL"
 date:   2008-10-16 11:21:00 -0600
 categories: blog

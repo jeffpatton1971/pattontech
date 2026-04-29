@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Drupal to Django Migration"
 date:   2010-05-17 19:13:00 -0600
 categories: blog

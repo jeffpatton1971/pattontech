@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Querying PowerShell Gallery and Nuget.org"
 date:   2024-01-08 08:43:00 -0600
 categories: blog

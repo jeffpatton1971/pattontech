@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows 7 RTM!"
 date:   2009-08-07 14:07:00 -0600
 categories: blog

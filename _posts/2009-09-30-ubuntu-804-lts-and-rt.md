@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Ubuntu 8.04 LTS and Request Tracker"
 date:   2009-09-30 14:11:00 -0600
 categories: blog

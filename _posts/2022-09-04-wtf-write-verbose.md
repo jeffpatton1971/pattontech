@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "WTF Write-Verbose"
 date:   2022-09-04 23:30:00 -0600
 categories: blog

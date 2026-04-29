@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "How to attach a custom task to an event on WS08"
 date:   2010-09-30 19:30:00 -0600
 categories: blog

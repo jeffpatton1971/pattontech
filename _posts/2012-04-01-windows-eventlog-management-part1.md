@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Eventlog Management Part 1"
 date:   2012-04-01 15:10:00 -0600
 categories: blog

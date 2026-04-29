@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Showing off some DSC Resources"
 date:   2013-12-31 11:07:00 -0600
 categories: blog

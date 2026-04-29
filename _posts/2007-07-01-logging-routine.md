@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Logging Routine"
 date:   2007-07-01 09:00:00 -0600
 categories: blog

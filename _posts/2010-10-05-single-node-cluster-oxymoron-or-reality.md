@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "'Single node cluster' oxymoron or reality?"
 date:   2010-10-05 19:32:00 -0600
 categories: blog

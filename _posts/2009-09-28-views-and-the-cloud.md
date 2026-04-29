@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Views and the Cloud"
 date:   2009-09-28 14:10:00 -0600
 categories: blog

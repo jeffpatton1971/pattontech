@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "iSCSI Solutions"
 date:   2009-04-17 14:03:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "I have an addiciton problem"
 date:   2014-12-10 12:08:00 -0600
 categories: blog

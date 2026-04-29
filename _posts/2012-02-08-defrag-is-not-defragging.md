@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Defrag is not defragging"
 date:   2012-02-06 15:02:00 -0600
 categories: blog

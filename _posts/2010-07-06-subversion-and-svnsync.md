@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Subversion and svnsync"
 date:   2010-07-06 19:18:00 -0600
 categories: blog

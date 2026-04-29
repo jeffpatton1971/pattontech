@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Registry size limit...who knew?"
 date:   2010-05-24 19:14:00 -0600
 categories: blog

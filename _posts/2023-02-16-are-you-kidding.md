@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Are you kidding me?"
 date:   2023-02-16 14:24:00 -0600
 categories: blog

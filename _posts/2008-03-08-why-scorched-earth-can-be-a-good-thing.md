@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Why 'Scorched Earth' can be a good thing"
 date:   2008-03-08 11:01:00 -0600
 categories: blog

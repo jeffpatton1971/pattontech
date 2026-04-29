@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "System Center Orchestrator Module"
 date:   2014-06-06 12:01:00 -0600
 categories: blog

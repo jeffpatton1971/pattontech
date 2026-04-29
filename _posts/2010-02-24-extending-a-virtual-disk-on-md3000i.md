@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Extending a Virtual Disk on the MD3000i"
 date:   2010-02-24 19:04:00 -0600
 categories: blog

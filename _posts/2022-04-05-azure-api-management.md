@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Azure API Management"
 date:   2022-04-05 08:12:00 -0600
 categories: blog

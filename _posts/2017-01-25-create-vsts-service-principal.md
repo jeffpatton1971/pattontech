@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Create VSTS Service Principal"
 date:   2017-01-25 15:02:00 -0600
 categories: blog

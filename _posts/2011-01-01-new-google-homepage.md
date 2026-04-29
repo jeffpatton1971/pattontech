@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "New Google Homepage"
 date:   2011-01-01 13:00:00 -0600
 categories: blog

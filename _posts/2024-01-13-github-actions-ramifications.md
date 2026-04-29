@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Github Actions and Ramifications of moving"
 date:   2024-01-13 08:26:00 -0600
 categories: blog

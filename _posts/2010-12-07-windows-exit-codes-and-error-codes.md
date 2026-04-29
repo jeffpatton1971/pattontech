@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Windows Exit Codes and Error Codes"
 date:   2010-12-07 19:34:00 -0600
 categories: blog

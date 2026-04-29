@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Library Updates"
 date:   2012-02-10 15:03:00 -0600
 categories: blog

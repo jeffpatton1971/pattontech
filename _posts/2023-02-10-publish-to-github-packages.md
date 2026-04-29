@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Publish to Github Packages"
 date:   2023-02-10 15:02:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The value of virtualization"
 date:   2010-02-24 19:05:00 -0600
 categories: blog

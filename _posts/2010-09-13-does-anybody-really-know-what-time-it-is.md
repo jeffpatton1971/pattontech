@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Does anybody really know what time it is?"
 date:   2010-09-13 19:24:00 -0600
 categories: blog

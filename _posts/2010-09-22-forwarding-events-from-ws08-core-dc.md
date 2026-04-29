@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Forwarding Events from WS08 Core DC"
 date:   2010-09-22 19:29:00 -0600
 categories: blog

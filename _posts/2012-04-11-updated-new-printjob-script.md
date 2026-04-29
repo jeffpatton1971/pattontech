@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Updated New-Printjob script"
 date:   2012-04-01 15:14:00 -0600
 categories: blog

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "OSD and UEFI and a missing WinRE"
 date:   2022-03-04 20:58:00 -0600
 categories: blog

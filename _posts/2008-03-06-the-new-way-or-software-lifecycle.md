@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The 'new way' or Software Lifecycles"
 date:   2008-03-06 11:00:06 -0600
 categories: blog

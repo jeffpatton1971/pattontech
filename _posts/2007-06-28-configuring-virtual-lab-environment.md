@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Configuring Virtual Lab Environment"
 date:   2007-06-28 08:56:07 -0600
 categories: blog

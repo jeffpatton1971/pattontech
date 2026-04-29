@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Django and Windows"
 date:   2010-07-01 19:17:00 -0600
 categories: blog

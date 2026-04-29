@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "HOWTO: Setup IIS 7.5 to use IPv6"
 date:   2011-06-14 13:10:00 -0600
 categories: blog

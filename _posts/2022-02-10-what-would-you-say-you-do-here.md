@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "What would you say, you do here?"
 date:   2022-02-10 09:06:00 -0600
 categories: blog

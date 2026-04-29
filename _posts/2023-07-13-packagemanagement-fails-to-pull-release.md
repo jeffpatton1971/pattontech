@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "PackageManagement/nuget fails to pull release from AzureDevops"
 date:   2023-07-13 09:50:00 -0600
 categories: blog

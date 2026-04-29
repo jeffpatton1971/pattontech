@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SQL Server Upgrade"
 date:   2010-04-13 19:08:00 -0600
 categories: blog

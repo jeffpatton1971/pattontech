@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Language Parsing"
 date:   2022-02-16 08:04:00 -0600
 categories: blog

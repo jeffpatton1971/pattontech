@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Subversion auto-props"
 date:   2011-04-22 13:06:00 -0600
 categories: blog

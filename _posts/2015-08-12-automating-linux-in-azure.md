@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Automating Linux in Azure"
 date:   2015-08-12 13:03:00 -0600
 categories: blog

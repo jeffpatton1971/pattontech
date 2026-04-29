@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SCCM and Windows 2008 R2 Failover Clustering"
 date:   2010-12-28 19:36:00 -0600
 categories: blog

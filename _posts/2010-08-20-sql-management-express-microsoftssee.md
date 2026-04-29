@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "SQL Management Express and Microsoft##SSEE"
 date:   2010-08-20 19:21:00 -0600
 categories: blog
