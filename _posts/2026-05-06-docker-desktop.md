@@ -15,7 +15,6 @@ Ultimately since I currently write all images to a storage account in Azure, I d
 
 So the issue, on Windows (I'm  running Windows 11, but this may be an issue for earlier vesrions), I was getting a weird error message:
 
-> [!IMPORTANT]
 > C:\ProgramData\DockerDesktop must be owned by an elevated account
 
 This error occurs when Docker Desktop’s installer detects that the C:\ProgramData\DockerDesktop folder is not owned by an elevated (administrator) account. It’s a security measure introduced to prevent privilege escalation vulnerabilities. The issue often happens if the folder already exists with incorrect permissions or ownership, possibly from a previous installation attempt.
@@ -40,4 +39,3 @@ $dir.SetAccessControl($sd)
 ```
 
 Your mileage may vary on that one.
-
