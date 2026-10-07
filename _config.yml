@@ -43,6 +43,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
   name   : "Jeff Patton"
