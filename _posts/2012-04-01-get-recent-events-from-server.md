@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Get recent events from servers"
-date:   2012-04-01 15:17:00 -0600
+date: 2012-04-01 15:17:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
 comments: false

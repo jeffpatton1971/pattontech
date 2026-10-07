@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Repository and Blog"
-date:   2012-02-06 15:01:00 -0600
+date: 2012-02-06 15:01:00 -0600
 categories: blog
 tags: February 2012 Personal
 comments: false

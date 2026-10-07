@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Querying PowerShell Gallery and Nuget.org"
-date:   2024-01-08 08:43:00 -0600
+date: 2024-01-08 08:43:00 -0600
 categories: blog
 tags: January 2024 Development
 author: Jeff

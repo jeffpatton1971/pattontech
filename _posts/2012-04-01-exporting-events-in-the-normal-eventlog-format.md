@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Exporting Event logs in the normal Event Log format"
-date:   2012-04-01 15:18:00 -0600
+date: 2012-04-01 15:18:00 -0600
 categories: blog
 tags: April 2012 KU SOECS Scripting
 comments: false

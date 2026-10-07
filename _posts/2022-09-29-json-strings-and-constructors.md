@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "JSON, Strings and Constructors"
-date:   2022-09-29 22:18:00 -0600
+date: 2022-09-29 22:18:00 -0600
 categories: blog
 tags: September 2022 Development
 author: Jeff

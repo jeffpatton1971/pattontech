@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Windows Server 8 Beta Failover Clustering and PowerShell"
-date:   2011-03-20 15:07:00 -0600
+date: 2011-03-20 15:07:00 -0600
 categories: blog
 tags: March 2012 KU SOECS
 comments: false

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "A whole lot of nothing, until there was something"
-date:   2024-01-21 22:21:00 -0600
+date: 2024-01-21 22:21:00 -0600
 categories: blog
 tags: January 2024 Development WIR
 author: Jeff

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "IIS, PHP, MySQL and Web PI"
-date:   2009-10-02 14:14:00 -0600
+date: 2009-10-02 14:14:00 -0600
 categories: blog
 tags: October 2009 KU SOECS
 comments: false

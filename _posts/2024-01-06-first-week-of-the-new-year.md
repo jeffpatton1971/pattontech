@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "First week of the New Year"
-date:   2024-01-06 11:47:00 -0600
+date: 2024-01-06 11:47:00 -0600
 categories: blog
 tags: January 2024 Development WIR
 author: Jeff
@@ -13,7 +13,7 @@ We've started a new year and this year my goal is to improve my communication sk
 
 Monday was a holiday, and honestly I didn't even realize that, actually had to look it up on the HR page at work, so I put in an hour or so before knowing I didn't need to! This is rather par for me, I don't often notice holidays outside of a few, and I guess New Year's Day was never really one I paid attention to! Over the weekend and into Monday I did a lot on a new PowerShell module that should really help with some of the things I need to do for work.
 
-[Pipelines](https://github.com/mod-posh/Pipelines) is the name of the module, and the goal is really to make it easier to work with either [Azure Devops pipelines(https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops)] or [Github Actions](https://docs.github.com/en/actions). I wrote a YamlSerializer that converts the pipeline classes into yaml, those can then be written to a file so that you can programatically create a pipeline. This will fill a very niche need of my own, not sure how popular it may be for anyone else, but I'm very proud of it, it's my first dive into creating a more feature rich C# application/module for PowerShell.
+[Pipelines](https://github.com/mod-posh/Pipelines) is the name of the module, and the goal is really to make it easier to work with either [Azure DevOps pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops) or [Github Actions](https://docs.github.com/en/actions). I wrote a YamlSerializer that converts the pipeline classes into yaml, those can then be written to a file so that you can programatically create a pipeline. This will fill a very niche need of my own, not sure how popular it may be for anyone else, but I'm very proud of it, it's my first dive into creating a more feature rich C# application/module for PowerShell.
 
 As part of that I am wanting to step-up my [Local Automation](https://github.com/mod-posh/LocalAutomation) game. I've re-visited a few of those configurations and spent a significant amount of time learning and using the Github GraphQL API. I was thinking about a way to automate some of what I was doing and report it back into a project or pulling down unassigned cards from a project and creating a TODO out of those. I need more time learning this, but I may see about writing something up in the near term on using the Github GraphQL API.
 

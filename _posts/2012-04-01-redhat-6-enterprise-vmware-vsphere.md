@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "RedHat 6 Enterprise + Vmware Vsphere"
-date:   2012-04-01 15:16:00 -0600
+date: 2012-04-01 15:16:00 -0600
 categories: blog
 tags: April 2012 KU SOECS MissingImages
 comments: false
