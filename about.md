@@ -4,9 +4,7 @@ title: Jeffrey Patton
 permalink: /about/
 ---
 
-# Jeffrey Patton
-
-**Software, Platform & Cloud Engineer | Automation | C# / .NET | PowerShell | Azure | Infrastructure as Code | AI-Assisted Engineering**
+**Software, Platform & Cloud Engineer · Automation · C# / .NET · PowerShell · Azure · Infrastructure as Code · AI-Assisted Engineering**
 
 I have spent more than three decades working with technology, beginning as a technical instructor and moving through enterprise systems administration, cloud engineering, DevOps, software development, and platform engineering.
 
