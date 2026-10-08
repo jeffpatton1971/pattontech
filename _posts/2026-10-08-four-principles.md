@@ -25,10 +25,10 @@ That approach grew out of work I was doing on a large, multi-repository build au
 
 Recently, I found myself trying to summarize the philosophy behind it all:
 
-**Engineering intent is authoritative.**
-**Documentation preserves it.**
-**Governance protects it.**
-**AI operates within it.**
+- **Engineering intent is authoritative.**
+- **Documentation preserves it.**
+- **Governance protects it.**
+- **AI operates within it.**
 
 I like that because it puts engineering decisions at the center of the development process, regardless of whether the work is being done by a person, an AI agent, or some combination of the two.
 
