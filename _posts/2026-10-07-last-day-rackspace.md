@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Last day at Rackspace"
-date:   2026-10-067 22:29:00 -0600
+date:   2026-10-07 22:29:00 -0600
 categories: blog
 tags: October 2026
 author: Jeff
