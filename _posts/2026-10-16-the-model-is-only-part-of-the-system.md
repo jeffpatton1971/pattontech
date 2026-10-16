@@ -11,7 +11,7 @@ tags:
     - AIAssistedDevelopment
 author: Jeff
 comments: true
-published: false
+published: true
 ---
 
 I've been getting a daily AI briefing that covers OpenAI, Anthropic, Microsoft, Ollama, open models, and whatever else happened overnight that I should probably know about.
