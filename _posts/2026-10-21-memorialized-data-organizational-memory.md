@@ -27,13 +27,13 @@ The problem he was describing is pretty straightforward, and it's incredibly com
 
 Organizations have years of information about their customers, projects, decisions, and implementations, but that information is spread across systems that were never necessarily designed to work together.
 
-During my time at Rackspace, for example, customer information existed across no fewer than three ticketing systems, two documentation platforms (SharePoint and Confluence), conversations in Slack, Teams, and Outlook, two CRM systems, and an internal sales database.
+It's not unusual for an established organization to have multiple ticketing systems, several documentation platforms like SharePoint and Confluence, conversations spread across Slack, Teams, and Outlook, multiple CRM systems, and perhaps an internal sales database or two.
 
-And that's just what I knew about.
+And those are just the systems we know about.
 
-Each system served a purpose. Sales needed to track opportunities and customer relationships. Architects needed to document solutions. Engineers needed tickets and implementation details. Support teams needed operational history.
+Each system serves a purpose. Sales needs to track opportunities and customer relationships. Architects need to document solutions. Engineers need tickets and implementation details. Support teams need operational history.
 
-But none of those systems necessarily provided a complete picture of the customer.
+But none of those systems necessarily provides a complete picture of the customer.
 
 The information exists. Finding it, understanding how it relates, and determining whether it's still relevant is another matter.
 
@@ -278,9 +278,9 @@ We could start identifying the information we'd need and where we'd expect to fi
 
 From there, I'd almost certainly create a repository and begin documenting what we're learning.
 
-This is actually pretty similar to how InfrastructureIntent evolved.
+This is actually pretty similar to how [InfrastructureIntent](https://github.com/infrastructureintent) evolved.
 
-That project started with a conversation about what I knew from building BAT, what I wanted to preserve, and what I didn't want to carry into a complete rewrite. We started defining the problem, establishing constraints, and documenting the architecture before building the implementation.
+That project started with a conversation about what I knew from building an infrastructure automation platform, what I wanted to preserve, and what I didn't want to carry into a complete rewrite. We started defining the problem, establishing constraints, and documenting the architecture before building the implementation.
 
 I don't see why this problem would need to start differently.
 
@@ -316,7 +316,7 @@ We're beginning to establish a way to maintain it.
 
 ## From Customer History to Customer Governance
 
-The more I consider what this could become, the more I see it as a framework for establishing governance around customer information.
+I can see this becoming a framework for establishing governance around customer information.
 
 Not governance in the sense of adding another approval process or forcing everyone into a new system.
 
