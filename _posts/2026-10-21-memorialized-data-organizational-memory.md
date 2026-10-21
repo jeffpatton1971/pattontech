@@ -23,7 +23,17 @@ I'd never heard that term used in the context of AI.
 
 Memorializing something is common in the legal field. You memorialize an agreement, a conversation, or a decision by creating a record of it. In technology, we're more likely to hear terms like *institutional memory*, *organizational memory*, or perhaps *enterprise RAG* when discussing how to retrieve that information.
 
-The problem he was describing was pretty straightforward. Organizations have years of information about their customers, projects, decisions, and implementations, but that information is spread across email, chat, meeting transcripts, support tickets, CRM systems, internal documentation, and project management tools.
+The problem he was describing is pretty straightforward, and it's incredibly common, particularly in large, established organizations.
+
+Organizations have years of information about their customers, projects, decisions, and implementations, but that information is spread across systems that were never necessarily designed to work together.
+
+During my time at Rackspace, for example, customer information existed across no fewer than three ticketing systems, two documentation platforms (SharePoint and Confluence), conversations in Slack, Teams, and Outlook, two CRM systems, and an internal sales database.
+
+And that's just what I knew about.
+
+Each system served a purpose. Sales needed to track opportunities and customer relationships. Architects needed to document solutions. Engineers needed tickets and implementation details. Support teams needed operational history.
+
+But none of those systems necessarily provided a complete picture of the customer.
 
 The information exists. Finding it, understanding how it relates, and determining whether it's still relevant is another matter.
 
@@ -41,7 +51,7 @@ I've spent quite a bit of time exploring this through my work on engineering int
 
 The general approach is to establish the knowledge first, maintain it as the project evolves, and make it available to the people and tools doing the work.
 
-But what happens when you inherit years of project history where nobody was deliberately maintaining that knowledge?
+But what happens when you inherit years of customer history where nobody was deliberately maintaining that knowledge in one place?
 
 The information may still exist. It's just scattered across several systems, often without any real structure connecting it.
 
@@ -74,6 +84,12 @@ The original architect might remember. Someone might find an old email explainin
 But nobody necessarily knows where to look, and the information may span several different systems.
 
 We probably have a reasonably complete history of what happened, assuming the records still exist. What we don't necessarily have is an explanation of why.
+
+And that information isn't just useful to engineers.
+
+The account team might need to understand why a customer made a particular investment. A salesperson might want to identify an opportunity to expand an existing service. Support might be investigating recurring issues that started months before anyone recognized a pattern.
+
+All of them are looking at the same customer, just from different perspectives.
 
 ## Could an Agent Reconstruct That History?
 
@@ -248,7 +264,7 @@ There would be quite a bit of conventional software engineering involved before 
 
 ## Starting with What We Know
 
-As I've been thinking about this, it occurs to me that I would probably approach this the same way I approach most engineering projects.
+As I've been thinking about this, it occurs to me that I'd probably approach this the same way I approach most engineering projects.
 
 I'd start with a conversation.
 
@@ -268,6 +284,12 @@ That project started with a conversation about what I knew from building BAT, wh
 
 I don't see why this problem would need to start differently.
 
+At its core, this is a familiar engineering problem. We have multiple inputs, a set of requirements, and an output we're trying to produce.
+
+The inputs happen to be customer information scattered across different systems instead of infrastructure specifications.
+
+We still need to define our models, establish validation rules, understand dependencies, and decide what a successful result looks like.
+
 We don't necessarily need to design an entire organizational knowledge platform before we understand what information we're trying to recover.
 
 Start with one customer. Work through a known history. Identify the sources, relationships, and gaps. Then figure out how much of that process we can automate.
@@ -284,13 +306,65 @@ Instead of waiting several years and trying to reconstruct all of that, we could
 
 It wouldn't necessarily have to happen in real time. Maybe records are processed periodically, or when a significant event occurs.
 
-The larger goal would be to establish a consistent way to preserve customer and project knowledge across the different teams involved.
+We'd be establishing a consistent way to preserve customer and project knowledge across the different teams involved.
 
 We'd still need to work through authority, access controls, and how information gets reviewed. But we'd have a foundation to build on rather than starting from scratch every time someone needs to understand a customer's history.
 
 At that point, we're no longer just reconstructing organizational memory.
 
 We're beginning to establish a way to maintain it.
+
+## From Customer History to Customer Governance
+
+The more I consider what this could become, the more I see it as a framework for establishing governance around customer information.
+
+Not governance in the sense of adding another approval process or forcing everyone into a new system.
+
+I'm thinking about defining how customer knowledge is collected, organized, validated, and maintained so that people across the organization can make better decisions.
+
+An engineer looking at a customer's infrastructure needs a different view of that information than a salesperson evaluating an opportunity.
+
+An architect might want to understand why a particular technology was selected. A support technician might need to identify recurring operational issues. An account manager might want to understand whether the customer is satisfied with the services they're receiving.
+
+They're all working with the same customer, but each has different questions.
+
+If we had a common framework for maintaining customer knowledge, we could begin answering those questions using information collected throughout the customer relationship.
+
+And potentially, we could begin identifying things nobody thought to ask about.
+
+Consider customer health.
+
+Many organizations use some variation of a green, yellow, and red status to describe the condition of a customer relationship.
+
+Green means things are going well. Yellow suggests concerns are developing. Red means there's a significant problem that needs attention.
+
+But how do we know when a customer is moving from green to yellow?
+
+Maybe there's an increase in support tickets. Maybe the customer has raised the same concern in several meetings. Perhaps an important project milestone has slipped, or an architect has identified a technical issue that hasn't been resolved.
+
+Individually, those signals might not seem particularly significant.
+
+But if we could connect information from support, engineering, sales, and customer communications, an agent might identify a pattern before someone recognizes that the relationship is deteriorating.
+
+That doesn't mean I'd want an LLM independently deciding that a customer is now yellow or red.
+
+I'd want the organization to define what those statuses mean, which signals matter, and how they're evaluated. An agent could help collect evidence, identify potential concerns, and surface them for review.
+
+We could apply the same thinking to sales opportunities.
+
+Maybe a customer has repeatedly discussed capacity limitations. Maybe support tickets indicate they're outgrowing an existing solution. Perhaps an architect documented an expansion requirement six months ago that never became a formal opportunity.
+
+With the right context, an agent might help identify opportunities for the account team to investigate.
+
+There are obvious considerations around permissions, privacy, and which information should be used for which purpose. We'd need to define those boundaries rather than assuming every piece of customer information should be available to every team.
+
+But the broader idea seems useful.
+
+Instead of treating customer information as something each department maintains independently, we could establish a governed view of the customer that supports decisions across the organization.
+
+The framework wouldn't replace the CRM, ticketing systems, or documentation platforms. Those systems would continue doing what they were designed to do.
+
+We'd be building a way to connect the information they contain and establish how that information should be interpreted.
 
 ## The Connection to Engineering Intent
 
@@ -316,7 +390,9 @@ Perhaps an agent could help reconstruct historical project knowledge, identify g
 
 Instead of repeatedly reconstructing the same information, we could use that initial effort to establish a more useful source of project knowledge.
 
-That gets us closer to what I've been trying to accomplish with engineering intent, just starting from a different place.
+And if we establish a framework for capturing that knowledge as new customer engagements evolve, we may not need to reconstruct nearly as much of it in the future.
+
+That gets us closer to what I've been trying to accomplish with engineering intent, just starting from a different place and applying it to a much broader organizational problem.
 
 ## A Different Way to Think About AI
 
@@ -332,6 +408,10 @@ Organizations have spent decades accumulating information. Much of it is technic
 
 Using agents to connect historical information, identify decisions, and reconstruct context seems like a useful application of the technology.
 
+And if we can establish a framework for maintaining that knowledge, the possibilities extend beyond simply answering questions about what happened.
+
+We could support engineering decisions, identify gaps in customer implementations, recognize sales opportunities, and potentially catch developing customer issues before they become larger problems.
+
 But I wouldn't want to build a system that simply turns scattered information into confident-sounding answers.
 
 I'd want to know where those answers came from, whether the information is still valid, what might contradict it, and whether it represents an actual decision or just a conversation.
@@ -342,7 +422,11 @@ There are quite a few engineering problems to solve before we get there.
 
 I don't have a complete solution to this problem, and I'm sure there's more complexity here than I've covered.
 
-But it's given me something new to think about.
+But I know how I'd begin approaching it.
+
+Start with a customer we know. Understand the information we have, identify what we're missing, and establish a framework for working with it.
+
+Then build from there.
 
 Maybe some of the more useful applications of AI won't involve generating something new at all.
 
