@@ -246,6 +246,52 @@ RAG might be part of how we retrieve information, but we're also dealing with ch
 
 There would be quite a bit of conventional software engineering involved before an agent could reliably answer questions using the collected information.
 
+## Starting with What We Know
+
+As I've been thinking about this, it occurs to me that I would probably approach this the same way I approach most engineering projects.
+
+I'd start with a conversation.
+
+Pick a customer we know reasonably well and start working through what we already know about them. How did the engagement begin? What were they trying to accomplish? What decisions were made along the way? What did we eventually build?
+
+Then I'd start asking where that information came from.
+
+Maybe we know about the original requirements because an architect remembers the conversation. Perhaps the implementation details are in a project management system. Maybe someone knows that a particular decision was made because of a customer constraint documented in an email.
+
+We could start identifying the information we'd need and where we'd expect to find it.
+
+From there, I'd almost certainly create a repository and begin documenting what we're learning.
+
+This is actually pretty similar to how InfrastructureIntent evolved.
+
+That project started with a conversation about what I knew from building BAT, what I wanted to preserve, and what I didn't want to carry into a complete rewrite. We started defining the problem, establishing constraints, and documenting the architecture before building the implementation.
+
+I don't see why this problem would need to start differently.
+
+We don't necessarily need to design an entire organizational knowledge platform before we understand what information we're trying to recover.
+
+Start with one customer. Work through a known history. Identify the sources, relationships, and gaps. Then figure out how much of that process we can automate.
+
+Once we have something working, we can begin expanding it to other customers and projects.
+
+And there's another possibility here.
+
+If we can establish a framework for reconstructing historical customer information, perhaps we can use that same framework to begin capturing information as new engagements progress.
+
+A salesperson has information about the initial opportunity. An architect understands the requirements and design decisions. Engineers know what was implemented and why. Support teams accumulate knowledge about what happens after deployment.
+
+Instead of waiting several years and trying to reconstruct all of that, we could begin collecting and organizing it as the engagement evolves.
+
+It wouldn't necessarily have to happen in real time. Maybe records are processed periodically, or when a significant event occurs.
+
+The larger goal would be to establish a consistent way to preserve customer and project knowledge across the different teams involved.
+
+We'd still need to work through authority, access controls, and how information gets reviewed. But we'd have a foundation to build on rather than starting from scratch every time someone needs to understand a customer's history.
+
+At that point, we're no longer just reconstructing organizational memory.
+
+We're beginning to establish a way to maintain it.
+
 ## The Connection to Engineering Intent
 
 This conversation stuck with me because it relates closely to what I've been exploring in my [Engineering Intent series](https://patton-tech.com/series/engineering-intent/).
