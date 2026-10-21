@@ -19,19 +19,15 @@ published: true
 
 I was recently having a conversation with a technology leader when he brought up something he referred to as **"memorialized data."**
 
-That phrase caught my attention.
+I'd never heard that term used in the context of AI.
 
-Memorializing something is common terminology in the legal field. You memorialize an agreement, a conversation, or a decision by creating a record of it. But I hadn't really heard the term used in the context of AI.
+Memorializing something is common in the legal field. You memorialize an agreement, a conversation, or a decision by creating a record of it. In technology, we're more likely to hear terms like *institutional memory*, *organizational memory*, or perhaps *enterprise RAG* when discussing how to retrieve that information.
 
-In technology, we might call this *institutional memory*, *organizational memory*, or perhaps approach it through enterprise retrieval-augmented generation (RAG).
+The problem he was describing was pretty straightforward. Organizations have years of information about their customers, projects, decisions, and implementations, but that information is spread across email, chat, meeting transcripts, support tickets, CRM systems, internal documentation, and project management tools.
 
-Regardless of what we call it, the problem is interesting.
+The information exists. Finding it, understanding how it relates, and determining whether it's still relevant is another matter.
 
-Organizations have enormous amounts of historical information about their customers, projects, decisions, and implementations. Much of that information exists somewhere, but it's spread across email, chat conversations, meeting transcripts, support tickets, CRM systems, internal documentation, and project management tools.
-
-The information has been recorded. It just hasn't necessarily been organized into something useful.
-
-And the more I thought about it, the more I realized this is almost the reverse of how I typically approach documentation.
+What caught my attention was how different this is from the way I typically approach documentation.
 
 ## Documentation from the Other Direction
 
@@ -39,19 +35,19 @@ Most of my recent engineering work has taken a documentation-first approach.
 
 Before implementing something, I want to understand what we're trying to accomplish. What problem are we solving? What are the inputs and outputs? What constraints exist? What architectural decisions have already been made?
 
-I want that information documented so that engineers, and increasingly AI agents, have a reliable source of context when working on a project.
+I want that information documented so engineers, and increasingly AI agents, have a reliable source of context when working on a project.
 
 I've spent quite a bit of time exploring this through my work on engineering intent, architectural decision records, and documentation governance.
 
-The idea is fairly straightforward: establish the knowledge first, maintain it as the project evolves, and make it available to the people and tools doing the work.
+The general approach is to establish the knowledge first, maintain it as the project evolves, and make it available to the people and tools doing the work.
 
 But what happens when you inherit years of project history where nobody was deliberately maintaining that knowledge?
 
-The information may still exist. It just exists as fragments scattered across several systems.
+The information may still exist. It's just scattered across several systems, often without any real structure connecting it.
 
-Instead of starting with authoritative documentation and using it to guide implementation, we're starting with historical evidence and trying to reconstruct the knowledge that should have been documented.
+Instead of starting with documentation and using it to guide implementation, we're starting with historical information and trying to reconstruct the knowledge that should have been documented.
 
-That's a very different problem.
+I hadn't really considered approaching documentation this way before.
 
 ## The Customer Journey Nobody Documented
 
@@ -69,49 +65,45 @@ Eventually, the project moves into implementation.
 
 Engineers receive tickets, create infrastructure, build pipelines, troubleshoot issues, and deploy the solution. Support teams take over, and more information accumulates as the environment evolves.
 
-Months or years later, someone asks a simple question:
+Months or years later, someone asks:
 
 **Why was this customer's environment designed this way?**
-
-That's when things get interesting.
 
 The original architect might remember. Someone might find an old email explaining the decision. Maybe there's a ticket documenting a technical constraint or a meeting transcript where the customer rejected an alternative.
 
 But nobody necessarily knows where to look, and the information may span several different systems.
 
-We have a history of what happened, but not necessarily a coherent explanation of why.
+We probably have a reasonably complete history of what happened, assuming the records still exist. What we don't necessarily have is an explanation of why.
 
 ## Could an Agent Reconstruct That History?
 
-My initial thought was that if all this information existed in one system, we could point an AI agent at it and, with the right instructions, potentially generate a useful account of a customer engagement from intake through deployment.
+My initial thought was that if all this information existed in one system, we could point an AI agent at it and, with the right instructions, potentially generate something useful about the customer engagement, from the initial conversations through deployment.
 
-But of course, it's not all in one system.
+Of course, it's not all in one system.
 
-And even if it were, having access to everything doesn't mean the agent would understand everything correctly.
+And even if it were, simply giving an agent access to everything wouldn't necessarily produce useful results.
 
-So I started thinking about what would actually be involved.
+So how would we approach this?
 
 The first challenge is collecting the information.
 
 We'd need to identify which systems contain relevant records and establish some way to access them. Email, CRM, project management, chat, document repositories, meeting transcripts, and perhaps deployment systems.
 
-That sounds like an integration problem, and to some extent it is.
+That's primarily an integration problem.
 
-But I think the more interesting challenge starts after we have access to the data.
+Once we have access to the information, though, we need to determine what's actually useful.
 
-**How do we determine what matters?**
-
-An email thread might contain twenty messages, but only two of them explain an important decision.
+An email thread might contain twenty messages, but only two of them explain an architectural decision.
 
 A meeting transcript might contain an hour of conversation, but the relevant information could be three minutes where an architect explains why a particular approach won't work.
 
-A project ticket might describe what was implemented without explaining the reasoning that led to it.
+A project ticket might describe what was implemented without explaining why it was implemented that way.
 
-This is where I think an LLM could be particularly useful during ingestion.
+This is where I think an LLM could be useful during ingestion.
 
-Language models are good at interpreting unstructured text. We could potentially use an agent to identify customers, projects, decisions, technical requirements, constraints, and relationships between records.
+Language models are pretty good at interpreting unstructured text. We could potentially use an agent to identify customers, projects, decisions, technical requirements, constraints, and relationships between records.
 
-Rather than simply indexing documents, we could begin extracting meaningful information from them.
+Rather than simply indexing documents, we could begin extracting information and organizing it into something we can work with.
 
 For example, an agent might identify:
 
@@ -124,7 +116,7 @@ For example, an agent might identify:
 
 Individually, those are just records.
 
-Connected together, they begin to tell a story.
+If we can establish how they relate to one another, we might be able to reconstruct how a particular decision was made and what happened as a result.
 
 ## Reconstructing the Timeline
 
@@ -132,7 +124,7 @@ One of the first problems I'd want to solve is chronology.
 
 If we're trying to understand how a project evolved, the order of events matters.
 
-At first glance, that sounds easy. Most systems have timestamps.
+Initially, this seems pretty easy. Most systems have timestamps.
 
 But what does the timestamp actually represent?
 
@@ -144,13 +136,11 @@ We'd also need to account for changes over time.
 
 Imagine an architect recommends one approach in January. The customer agrees in February. During implementation in March, an unexpected constraint forces the team to choose a different approach.
 
-If an agent retrieves only the February agreement, it may confidently report a decision that was later superseded.
+If an agent retrieves only the February agreement, it may report a decision that was later superseded.
 
-So we're not just trying to build a timeline.
+So we need more than a timeline of documents. We need to understand how the requirements, decisions, and implementations changed over the course of the project.
 
-We're trying to understand how requirements, decisions, and implementations changed over time.
-
-That probably requires more than a collection of document summaries.
+I'm not sure a collection of document summaries would be enough to accomplish that.
 
 ## Separating the Good from the Fluff
 
@@ -160,17 +150,19 @@ Not every conversation deserves to become organizational knowledge.
 
 Anyone who has worked on a large project knows how much noise accumulates. Meeting invitations, status updates, repeated questions, abandoned ideas, incomplete discussions, and conversations that never result in decisions.
 
-Some of that information is valuable historically, but much of it probably shouldn't influence an agent answering a question about the customer's current environment.
+Some of that information might be useful historically, but much of it probably shouldn't influence an agent answering a question about a customer's current environment.
 
-This is where I think we could get creative with LLM-assisted ingestion.
+I think we could do quite a bit with LLM-assisted ingestion here.
 
 Rather than feeding everything into a retrieval system and hoping the right information comes back, we could have an agent evaluate records as they're discovered.
 
 Is this a requirement? A proposal? A decision? An implementation detail? A constraint? Is it related to an existing customer or project? Does it supersede something previously recorded?
 
-But there's an important limitation.
+We could give the agent a defined set of classifications and have it extract structured information from the source material.
 
-**An LLM can identify information that appears significant. That doesn't mean it can determine whether the information is authoritative.**
+We would still need to validate that output, of course.
+
+**An LLM can identify information that appears significant. That doesn't necessarily mean the information is correct or authoritative.**
 
 An engineer suggesting a change in Teams is not the same as an approved architectural decision.
 
@@ -178,21 +170,21 @@ A salesperson describing a customer requirement isn't necessarily the same as a 
 
 And a deployment completing successfully doesn't prove that the infrastructure matches the customer's original intent.
 
-We've encountered that distinction in infrastructure automation as well. A successful Terraform plan tells us something about whether infrastructure can be deployed. It doesn't necessarily tell us whether we're deploying the right infrastructure.
+I've run into a similar problem when working with infrastructure automation.
 
-The same principle applies here.
+A successful Terraform plan tells us that the configuration can potentially be deployed. It doesn't tell us whether we're deploying what the customer actually requested.
 
-Finding an answer isn't the same as establishing that it's correct.
+We can retrieve information and generate an answer, but we still need some way to establish whether that answer is correct.
 
 ## Where Does Authority Come From?
 
-This is probably the part of the problem I find most interesting.
+This is one of the harder problems I see with this approach.
 
 In documentation-first engineering, I try to establish authority deliberately.
 
 We have architectural decisions, constraints, specifications, and implementation guidance. Those documents tell an engineer or agent which information governs the project.
 
-Historical discussions can provide useful context, but they shouldn't automatically override approved decisions.
+Historical discussions provide context, but they shouldn't automatically override approved decisions.
 
 With memorialized data, that authority may never have been explicitly established.
 
@@ -202,108 +194,110 @@ Which one wins?
 
 The newest? The one written by the architect? The one mentioned most frequently? The one that appears to match the deployed infrastructure?
 
-I don't think any of those rules is universally correct.
+I don't think there's a universal answer to that.
 
-A better approach might be to separate **evidence from conclusions**.
-
-The agent could identify what the records appear to establish, preserve references to the original sources, and indicate where information is contradictory or incomplete.
+We could potentially have the agent identify what the records appear to establish, preserve references to the original sources, and indicate where information is contradictory or incomplete.
 
 It could distinguish between a proposed decision, an approved decision, and an implementation that appears to have followed that decision.
 
-Where authority can't be established, the system should say so.
+Where authority can't be established, the system should be able to tell us that.
 
 And perhaps certain conclusions should require human review before becoming part of an authoritative customer knowledge base.
 
-That seems like a better direction than asking an agent to reconstruct history and treating its resulting summary as fact.
+I'd be much more comfortable with a system that can explain where its information came from and identify uncertainty than one that simply produces a convincing summary.
 
 ## What Would the Architecture Look Like?
 
-I haven't built this system, but thinking about how I'd approach it, I can imagine several distinct responsibilities.
+I haven't built a system like this, but I've been thinking about how I might approach it.
 
-First, we'd need connectors to the systems holding the information. Those connectors would have to preserve source identities, timestamps, customer associations, and access permissions.
+I'd probably start by separating the ingestion process from whatever we're going to use to retrieve and evaluate the information.
 
-Next, we'd need some form of normalization. Email messages, CRM records, meeting transcripts, and project tickets are all structured differently, but many describe similar concepts.
+We'd need connectors to the systems holding the data. Those connectors would have to preserve source identities, timestamps, customer associations, and access permissions.
 
-Then comes interpretation.
+Next, we'd need some form of normalization.
 
-This is where agents could help extract potential requirements, decisions, constraints, events, and relationships.
+Email messages, CRM records, meeting transcripts, and project tickets are all structured differently, but many of them describe similar concepts.
 
-From there, we'd need to resolve identities and relationships. Does this email refer to the same project as that ticket? Is this customer name an alias for an existing account? Does this decision supersede an earlier one?
+We could define models for customers, projects, requirements, decisions, constraints, and events, then use an agent to help extract that information from the source material.
 
-We'd also need to preserve provenance. Every extracted conclusion should be traceable to the original records supporting it.
+That sounds relatively straightforward until we start dealing with relationships.
 
-And finally, we need a way to make that knowledge useful.
+Does this email refer to the same project as that ticket? Is this customer name an alias for an existing account? Does this decision supersede an earlier one? Is the information relevant to the current environment or a previous implementation?
 
-An agent might answer questions about why an architectural decision was made, summarize the history of a customer engagement, evaluate the possible impact of a proposed change, or help an engineer understand an inherited environment.
+We'd need some way to establish those relationships without losing the original source information.
 
-There's also a security problem running through all of this.
+I'd also want every extracted conclusion to be traceable to the records supporting it.
 
-Just because an agent can retrieve information doesn't mean every user should be allowed to see it. Customer boundaries, permissions, sensitive information, and retention requirements would have to remain intact throughout ingestion and retrieval.
+From there, we could begin thinking about how agents would consume that information.
 
-That becomes especially important when combining information from systems with different access models.
+Maybe someone wants to know why a particular architectural decision was made. Maybe an engineer needs to understand the history of an inherited environment. Perhaps a project manager wants to understand how a customer requirement changed during implementation.
 
-The more I think about it, the less this feels like a simple RAG implementation.
+Each of those questions might require different information, even though they're all drawing from the same historical records.
 
-RAG might help us retrieve relevant source material, but the broader problem includes chronology, identity, relationships, authority, provenance, and governance.
+We also have to consider security.
 
-The agent is only one part of the system.
+Just because an agent can retrieve information doesn't mean every user should be allowed to see it. Customer boundaries, permissions, sensitive information, and retention requirements would need to be preserved throughout the process.
+
+That becomes particularly important when combining information from systems with different access models.
+
+At this point, I don't think I'd describe the solution as simply RAG.
+
+RAG might be part of how we retrieve information, but we're also dealing with chronology, identity, relationships, authority, and governance.
+
+There would be quite a bit of conventional software engineering involved before an agent could reliably answer questions using the collected information.
 
 ## The Connection to Engineering Intent
 
-This conversation has stayed with me because it connects closely to something I've been writing about lately.
+This conversation stuck with me because it relates closely to what I've been exploring in my [Engineering Intent series](https://patton-tech.com/series/engineering-intent/).
 
-In my [Engineering Intent series](https://patton-tech.com/series/engineering-intent/), I've explored how documentation can preserve the purpose, constraints, and decisions behind engineering work so that future developers and AI agents aren't forced to rediscover them.
+I've been working on ways to preserve the purpose, constraints, architecture, and decisions behind engineering work so future developers and AI agents don't have to rediscover them.
 
-Memorialized data presents the opposite situation.
+The idea is to document what we're doing and why we're doing it as part of the engineering process.
 
-The work has already happened. The decisions may have been made years ago. The knowledge exists, but often as disconnected pieces of evidence.
+Memorialized data approaches the same general problem from the other direction.
 
-We're trying to recover the intent after the fact.
+The work has already happened. The decisions may have been made years ago. The knowledge exists, but often as disconnected pieces of information.
 
-And I think that's an important distinction.
+Now we're trying to recover the reasoning behind those decisions.
 
-Documentation-first engineering asks:
+With documentation-first engineering, I'm trying to preserve what we know so it remains useful.
 
-*How do we preserve what we know so it remains useful?*
+With this approach, we're trying to recover what was known when nobody preserved it in a way that's easy to consume.
 
-Reconstructing organizational memory asks:
+I can also see how these approaches might work together.
 
-*How do we recover what was known when nobody preserved it in a coherent form?*
+Perhaps an agent could help reconstruct historical project knowledge, identify gaps and contradictions, and propose structured documentation that could then be reviewed and maintained going forward.
 
-They're different problems, but they lead toward a similar goal: making reliable context available to the people and systems that need it.
+Instead of repeatedly reconstructing the same information, we could use that initial effort to establish a more useful source of project knowledge.
 
-There's also an opportunity to connect the two.
-
-Perhaps an agent could help reconstruct historical project knowledge, identify gaps and contradictions, and propose structured documentation that can then be reviewed and maintained going forward.
-
-In other words, reconstruction doesn't have to be something we repeat forever.
-
-It could become the starting point for establishing a more deliberate approach to organizational knowledge.
+That gets us closer to what I've been trying to accomplish with engineering intent, just starting from a different place.
 
 ## A Different Way to Think About AI
 
-One thing I keep coming back to is that we tend to focus on what AI can generate.
+We spend a lot of time talking about what AI can generate.
 
 Code, infrastructure, documentation, plans, reports.
 
-But there may be just as much value in using AI to help us understand what already exists.
+I've spent a considerable amount of time working in those areas myself.
 
-Organizations have spent decades accumulating information. Much of it is technically accessible but practically difficult to use because it was never organized around the questions people would eventually need to ask.
+But this conversation had me thinking about using AI to understand what already exists.
 
-An agent capable of connecting historical evidence, identifying decisions, and reconstructing context could be incredibly useful.
+Organizations have spent decades accumulating information. Much of it is technically accessible, but it can be difficult to use because it was never organized around the questions people would eventually need to ask.
+
+Using agents to connect historical information, identify decisions, and reconstruct context seems like a useful application of the technology.
 
 But I wouldn't want to build a system that simply turns scattered information into confident-sounding answers.
 
 I'd want to know where those answers came from, whether the information is still valid, what might contradict it, and whether it represents an actual decision or just a conversation.
 
-That's the engineering challenge that interests me.
+There are quite a few engineering problems to solve before we get there.
 
 **Recording information gives us history. Connecting it gives us context. Establishing its authority is what makes that context trustworthy.**
 
-I don't have a complete solution to this problem, and I suspect there's quite a bit more complexity here than I've covered.
+I don't have a complete solution to this problem, and I'm sure there's more complexity here than I've covered.
 
-But it's an interesting direction to explore.
+But it's given me something new to think about.
 
-And it has me thinking that some of the most valuable work we can do with AI might not involve generating something new at all.
+Maybe some of the more useful applications of AI won't involve generating something new at all.
 
-It might involve finally understanding the information we've been collecting all along.
+Maybe they'll involve finally making sense of the information we've been collecting all along.
