@@ -11,7 +11,7 @@ tags:
     - AIAssistedDevelopment
 author: Jeff
 comments: true
-published: false
+published: true
 ---
 
 I've been reading through this week's AI briefings, and one story keeps pulling the rest of them into focus.
