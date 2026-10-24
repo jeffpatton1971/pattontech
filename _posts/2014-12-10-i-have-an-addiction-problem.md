@@ -3,7 +3,9 @@ layout: single
 title:  "I have an addiciton problem"
 date:   2014-12-10 12:08:00 -0600
 categories: blog
-tags: December 2014 KU IT Scripting Review
+tags:
+  - "SCOM"
+  - "Personal"
 comments: false
 ---
 At first I thought I had a drinking problem. As evidence by the picture below, I drink A LOT of coffee!
