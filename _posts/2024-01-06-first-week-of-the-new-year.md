@@ -3,7 +3,11 @@ layout: single
 title:  "First week of the New Year"
 date: 2024-01-06 11:47:00 -0600
 categories: blog
-tags: January 2024 Development WIR
+tags:
+  - "Week in Review"
+  - "PowerShell"
+  - ".NET"
+  - "GitHub Actions"
 author: Jeff
 comments: true
 published: true
