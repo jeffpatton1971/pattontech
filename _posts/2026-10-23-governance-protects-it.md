@@ -4,12 +4,10 @@ title: "Engineering Intent: Governance Protects It"
 date: 2026-10-23 08:00:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - SoftwareEngineering
-    - AIAssistedDevelopment
-    - SoftwareArchitecture
-    - Engineering Intent
+  - "Engineering Intent"
+  - "AI-Assisted Development"
+  - "Software Architecture"
+  - "Governance"
 author: Jeff
 comments: true
 published: true

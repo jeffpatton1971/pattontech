@@ -4,13 +4,9 @@ title: "Trust Is Earned, Not Inherited"
 date: 2026-10-12 09:00:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - ProfessionalDevelopment
-    - Career
-    - ProfessionalNetworking
-    - Communication
-    - Trust
+  - "Career"
+  - "Professional Networking"
+  - "Communication"
 author: Jeff
 comments: true
 published: true

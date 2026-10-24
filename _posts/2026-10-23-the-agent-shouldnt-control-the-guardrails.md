@@ -4,11 +4,10 @@ title:  "AI Week In Review: The Agent Shouldn't Control the Guardrails"
 date: 2026-10-23 10:00:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - AI Week In Review
-    - ArtificialIntelligence
-    - AIAssistedDevelopment
+  - "AI Week In Review"
+  - "Artificial Intelligence"
+  - "AI-Assisted Development"
+  - "Governance"
 author: Jeff
 comments: true
 published: true
