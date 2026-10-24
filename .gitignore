@@ -1,3 +1,11 @@
 _site
 .sass-cache
 .jekyll-metadata
+# Local Jekyll dependencies and tooling
+/Gemfile
+/Gemfile.lock
+/scripts/check-portfolio.rb
+.jekyll-tools/
+.jekyll-cache/
+.bundle/
+vendor/

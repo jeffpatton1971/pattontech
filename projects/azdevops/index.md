@@ -1,8 +1,11 @@
 ---
 layout: single
-title: Azure DevOps PowerShell
-permalink: /projects/azdevops
+title: Azure DevOps PowerShell — Historical Reference
+permalink: /projects/azdevops/reference/
 ---
+
+This is the retained module reference. For the engineering overview, see [AzDevOps]({{ '/projects/azdevops/' | relative_url }}).
+
 | Latest Version | PowerShell Gallery | Issues | License | Discord |
 |-----------------|----------------|----------------|----------------|----------------|
 | [![Latest Version](https://img.shields.io/github/v/tag/Azure-Devops-PowerShell-Module/AzDevOps)](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps/tags) | [![Powershell Gallery](https://img.shields.io/powershellgallery/dt/AzDevOps)](https://www.powershellgallery.com/packages/AzDevOps) | [![GitHub issues](https://img.shields.io/github/issues/Azure-Devops-PowerShell-Module/AzDevOps)](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps/issues) | [![GitHub license](https://img.shields.io/github/license/Azure-Devops-PowerShell-Module/AzDevOps)](https://github.com/Azure-Devops-PowerShell-Module/AzDevOps/blob/master/LICENSE) | [![Discord Server](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg)]() |

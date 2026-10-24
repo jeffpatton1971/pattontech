@@ -1,0 +1,21 @@
+---
+layout: single
+---
+<nav class="project-back" aria-label="Project navigation">
+  <a href="{{ '/projects/' | relative_url }}">&larr; All projects</a>
+</nav>
+<p class="project-category">{{ page.category_label | escape }}</p>
+{{ content }}
+{% if page.technologies %}
+<h2 id="technologies">Technologies</h2>
+<p>{{ page.technologies | join: ', ' | escape }}.</p>
+{% endif %}
+{% if page.resources %}
+<h2 id="related-resources">Related resources</h2>
+<ul>
+  {% for resource in page.resources %}
+  {% assign prefix = resource.url | slice: 0, 1 %}
+  <li><a href="{% if prefix == '/' %}{{ resource.url | relative_url }}{% else %}{{ resource.url }}{% endif %}">{{ resource.title | escape }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

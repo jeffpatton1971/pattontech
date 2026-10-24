@@ -1,0 +1,5 @@
+<article class="project-card{% if include.project.prominent %} project-card--prominent{% endif %}" aria-labelledby="project-{{ include.project.slug }}">
+  <p class="project-category">{{ include.project.category_label | escape }}</p>
+  <h3 id="project-{{ include.project.slug }}"><a href="{{ include.project.url | relative_url }}">{{ include.project.title | escape }}</a></h3>
+  <p>{{ include.project.description | escape }}</p>
+</article>

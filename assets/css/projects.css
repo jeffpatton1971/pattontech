@@ -1,0 +1,19 @@
+/* Portfolio-only extensions; typography and colors inherit Minimal Mistakes. */
+.portfolio-intro { max-width: 52rem; }
+.portfolio-nav { display: flex; flex-wrap: wrap; gap: .6rem 1.5rem; margin: 1.5rem 0 2rem; font-size: .85em; }
+.project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
+.page__content .project-card { min-width: 0; padding: 1.3rem; border: 1px solid #62686b; border-radius: .2rem; }
+.page__content .project-card--prominent { grid-column: 1 / -1; border-left: .22rem solid #00adb5; }
+.page__content .project-card h3 { margin: .3rem 0 .7rem; font-size: 1.15em; line-height: 1.35; }
+.page__content .project-card p { margin: 0; font-size: .85em; line-height: 1.6; }
+.page__content .project-category { margin: 0 0 .5rem; font-size: .7em; font-weight: bold; letter-spacing: .025em; }
+.project-card a { text-underline-offset: .18em; }
+.project-back { margin: .75rem 0 1.5rem; font-size: .8em; }
+.project-grid--earlier { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.project-grid--earlier .project-card { padding: 1rem; }
+.project-grid--earlier .project-card h3 { font-size: 1em; }
+.project-card a:focus-visible, .project-back a:focus-visible, .portfolio-nav a:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
+@media (max-width: 48em) {
+  .project-grid, .project-grid--earlier { grid-template-columns: minmax(0, 1fr); }
+  .page__content .project-card { padding: 1rem; }
+}

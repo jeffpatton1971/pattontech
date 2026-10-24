@@ -3,6 +3,8 @@ layout: single
 title: ModPosh.Logger
 permalink: /projects/modposh/logger
 ---
+For the engineering overview, see [ModPosh.Logger]({{ '/projects/modposh-logger/' | relative_url }}).
+
 | Latest Version | Nuget.org | Issues | License | Discord |
 |-----------------|----------------|----------------|----------------|----------------|
 | [![Latest Version](https://img.shields.io/github/v/tag/mod-posh/Logger)](https://github.com/mod-posh/Logger/tags) | [![Nuget.org](https://img.shields.io/nuget/dt/ModPosh.Logger)](https://www.nuget.org/packages/ModPosh.Logger) | [![GitHub issues](https://img.shields.io/github/issues/mod-posh/Logger)](https://github.com/mod-posh/Logger/issues) | [![GitHub license](https://img.shields.io/github/license/mod-posh/Logger)](https://github.com/mod-posh/Logger/blob/master/LICENSE) | [![Discord Server](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5493894cf60b300587_full_logo_white_RGB.svg)](https://discord.com/channels/1044305359021555793/1044305781627035811) |

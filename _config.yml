@@ -14,6 +14,11 @@ paginate_path: /posts/page:num
 include:
   - _pages
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.28.0
@@ -64,6 +69,16 @@ author:
       url: "https://instagram.com/jspatton1971"
 
 defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: project
+      author_profile: false
+      comments: false
+      share: false
+      related: false
+      portfolio: true
   # _posts
   - scope:
       path: ""
@@ -90,6 +105,14 @@ tag_archive:
   path: /tags/
 
 # Exclude from processing.
+exclude:
+  - .jekyll-tools
+  - docs
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
