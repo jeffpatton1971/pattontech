@@ -3,7 +3,9 @@ layout: single
 title:  "Week In Review: 02/18/2022"
 date:   2022-02-18 09:13:00 -0600
 categories: blog
-tags: February 2022 Review
+tags:
+  - "Week in Review"
+  - "Multi-Cloud Deployment"
 author: Jeff
 comments: true
 published: true

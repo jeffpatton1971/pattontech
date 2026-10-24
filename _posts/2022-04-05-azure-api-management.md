@@ -3,7 +3,9 @@ layout: single
 title:  "Azure API Management"
 date:   2022-04-05 08:12:00 -0600
 categories: blog
-tags: April 2022 IT Azure
+tags:
+  - "Azure"
+  - "APIs"
 author: Jeff
 comments: true
 published: false

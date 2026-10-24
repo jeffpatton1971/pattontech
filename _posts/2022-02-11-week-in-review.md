@@ -3,7 +3,10 @@ layout: single
 title:  "Week In Review: 02/11/2022"
 date:   2022-02-11 09:13:00 -0600
 categories: blog
-tags: February 2022 Review
+tags:
+  - "Week in Review"
+  - "Multi-Cloud Deployment"
+  - ".NET"
 author: Jeff
 comments: true
 ---

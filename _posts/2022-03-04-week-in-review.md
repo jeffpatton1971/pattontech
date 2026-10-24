@@ -3,7 +3,9 @@ layout: single
 title:  "Week In Review: 03/04/2022"
 date:   2022-03-04 12:03:00 -0600
 categories: blog
-tags: March 2022 Review
+tags:
+  - "Week in Review"
+  - "Personal"
 author: Jeff
 comments: true
 published: true

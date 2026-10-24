@@ -3,7 +3,9 @@ layout: single
 title:  "SchemaModule 3.0.1 Release"
 date:   2022-02-19 00:23:00 -0600
 categories: blog
-tags: February 2022 Development
+tags:
+  - "PowerShell"
+  - "JSON"
 author: Jeff
 comments: true
 published: true

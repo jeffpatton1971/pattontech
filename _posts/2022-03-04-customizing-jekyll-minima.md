@@ -3,7 +3,9 @@ layout: single
 title:  "Customizing Jekyll and Minima"
 date:   2022-03-04 19:50:00 -0600
 categories: blog
-tags: March 2022 Personal
+tags:
+  - "Jekyll"
+  - "Web Development"
 author: Jeff
 comments: true
 published: true

@@ -3,7 +3,9 @@ layout: single
 title:  "May I Pester you?"
 date:   2022-10-07 22:50:00 -0600
 categories: blog
-tags: October 2022 Development
+tags:
+  - "PowerShell"
+  - "Testing"
 author: Jeff
 comments: true
 published: true

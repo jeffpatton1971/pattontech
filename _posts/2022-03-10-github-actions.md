@@ -3,7 +3,11 @@ layout: single
 title:  "Github Actions and PSDocs"
 date:   2022-03-10 18:44:00 -0600
 categories: blog
-tags: March 2022 Review
+tags:
+  - "GitHub Actions"
+  - "PowerShell"
+  - "Documentation"
+  - "Infrastructure as Code"
 author: Jeff
 comments: true
 published: true

@@ -3,7 +3,10 @@ layout: single
 title:  "Week In Review: 03/11/2022"
 date:   2022-03-11 18:03:00 -0600
 categories: blog
-tags: March 2022 Review
+tags:
+  - "Week in Review"
+  - "Career"
+  - "Infrastructure as Code"
 author: Jeff
 comments: true
 published: true

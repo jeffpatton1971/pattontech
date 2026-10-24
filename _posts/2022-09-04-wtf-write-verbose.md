@@ -3,7 +3,8 @@ layout: single
 title:  "WTF Write-Verbose"
 date:   2022-09-04 23:30:00 -0600
 categories: blog
-tags: September 2022 Development
+tags:
+  - "PowerShell"
 author: Jeff
 comments: true
 published: true
