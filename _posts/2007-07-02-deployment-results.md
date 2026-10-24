@@ -3,7 +3,9 @@ layout: single
 title:  "Deployment Results"
 date:   2007-07-02 09:01:00 -0600
 categories: blog
-tags: July 2007 KU SOECS Lab
+tags:
+  - "Windows Deployment"
+  - "Networking"
 comments: false
 ---
 Results:
