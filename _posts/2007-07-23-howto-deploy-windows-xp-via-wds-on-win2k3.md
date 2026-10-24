@@ -3,7 +3,9 @@ layout: single
 title:  "HOWTO: Deploy Windows XP via Windows Deployment Services on Windows Server 2003"
 date:   2007-07-23 09:06:00 -0600
 categories: blog
-tags: July 2007 KU SOECS Lab HOWTO
+tags:
+  - "Windows Deployment"
+  - "Windows Server"
 comments: false
 ---
 ### Overview

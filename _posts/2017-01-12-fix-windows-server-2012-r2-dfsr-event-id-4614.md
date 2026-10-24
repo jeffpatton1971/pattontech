@@ -3,7 +3,9 @@ layout: single
 title:  "Fix Windows Server 2012 R2 DFSR EventID 4614"
 date:   2017-01-12 15:01:00 -0600
 categories: blog
-tags: January 2017 Rackspace
+tags:
+  - "Active Directory"
+  - "Windows Server"
 comments: false
 ---
 Recently had a ticket come in where a newly created Domain with two DC’s was not replicating properly. Upon logging into the DC’s I noted the following log entry in the DFS Replication Log

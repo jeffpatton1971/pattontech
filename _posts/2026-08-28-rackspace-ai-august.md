@@ -2,8 +2,12 @@
 date: 2026-08-28
 title: "August 2026: AI Is Getting Easier to Deploy, but Harder to Control"
 description: "August 2026 Rackspace AI Runbook analysis: model autonomy, deployment economics, verifiable provider controls, and the engineering foundations of dependable AI systems."
+categories: blog
+permalink: "/2026/08/28/rackspace-ai-august.html"
 tags:
   - "Rackspace AI Summary"
+  - "Artificial Intelligence"
+  - "Governance"
 sources:
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-1"
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-2"

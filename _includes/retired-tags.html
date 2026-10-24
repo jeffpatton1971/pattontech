@@ -1,0 +1,17 @@
+{% comment %}Keep retired tag bookmarks useful without displaying legacy labels in the topic index.{% endcomment %}
+<style>
+.legacy-tag-note { display: none; }
+.legacy-tag-note:target { display: block; }
+</style>
+{% for retired in site.data.retired_tags %}
+{% unless site.tags[retired.name] %}
+<aside id="{{ retired.name | slugify }}" class="notice legacy-tag-note" aria-label="Updated tag navigation">
+<p>The “{{ retired.name | escape }}” tag has been retired. Continue browsing:</p>
+<ul>
+{% for destination in retired.links %}
+<li><a href="{{ destination.url | relative_url }}">{{ destination.label | escape }}</a></li>
+{% endfor %}
+</ul>
+</aside>
+{% endunless %}
+{% endfor %}

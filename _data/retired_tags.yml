@@ -1,0 +1,244 @@
+- name: "2007"
+  links:
+    - label: "Posts from 2007"
+      url: "/posts/#2007"
+- name: "2008"
+  links:
+    - label: "Posts from 2008"
+      url: "/posts/#2008"
+- name: "2009"
+  links:
+    - label: "Posts from 2009"
+      url: "/posts/#2009"
+- name: "2010"
+  links:
+    - label: "Posts from 2010"
+      url: "/posts/#2010"
+- name: "2011"
+  links:
+    - label: "Posts from 2011"
+      url: "/posts/#2011"
+- name: "2012"
+  links:
+    - label: "Posts from 2012"
+      url: "/posts/#2012"
+- name: "2013"
+  links:
+    - label: "Posts from 2013"
+      url: "/posts/#2013"
+- name: "2014"
+  links:
+    - label: "Posts from 2014"
+      url: "/posts/#2014"
+- name: "2015"
+  links:
+    - label: "Posts from 2015"
+      url: "/posts/#2015"
+- name: "2017"
+  links:
+    - label: "Posts from 2017"
+      url: "/posts/#2017"
+- name: "2022"
+  links:
+    - label: "Posts from 2022"
+      url: "/posts/#2022"
+- name: "2023"
+  links:
+    - label: "Posts from 2023"
+      url: "/posts/#2023"
+- name: "2024"
+  links:
+    - label: "Posts from 2024"
+      url: "/posts/#2024"
+- name: "2026"
+  links:
+    - label: "Posts from 2026"
+      url: "/posts/#2026"
+- name: "AIAssistedDevelopment"
+  links:
+    - label: "AI-Assisted Development"
+      url: "/tags/#ai-assisted-development"
+- name: "April"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "ArtificialIntelligence"
+  links:
+    - label: "Artificial Intelligence"
+      url: "/tags/#artificial-intelligence"
+- name: "August"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "AzureDevops"
+  links:
+    - label: "Azure DevOps"
+      url: "/tags/#azure-devops"
+- name: "ContextEngineering"
+  links:
+    - label: "Context Engineering"
+      url: "/tags/#context-engineering"
+- name: "CustomerGovernance"
+  links:
+    - label: "Governance"
+      url: "/tags/#governance"
+- name: "December"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "Development"
+  links:
+    - label: "Software Engineering"
+      url: "/tags/#software-engineering"
+    - label: "Build Automation"
+      url: "/tags/#build-automation"
+    - label: ".NET"
+      url: "/tags/#net"
+- name: "February"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "Goals"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "HOWTO"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "IT"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "January"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "July"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "June"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "KU"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "KnowledgeManagement"
+  links:
+    - label: "Knowledge Management"
+      url: "/tags/#knowledge-management"
+- name: "Lab"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "March"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "May"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "MultiCloudDeployment"
+  links:
+    - label: "Multi-Cloud Deployment"
+      url: "/tags/#multi-cloud-deployment"
+- name: "November"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "October"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "Overview"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "ProfessionalDevelopment"
+  links:
+    - label: "Career"
+      url: "/tags/#career"
+- name: "ProfessionalNetworking"
+  links:
+    - label: "Professional Networking"
+      url: "/tags/#professional-networking"
+- name: "Review"
+  links:
+    - label: "Week in Review"
+      url: "/tags/#week-in-review"
+    - label: "Project Updates"
+      url: "/tags/#project-updates"
+- name: "SOECS"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "Scripting"
+  links:
+    - label: "PowerShell"
+      url: "/tags/#powershell"
+    - label: "VBScript"
+      url: "/tags/#vbscript"
+- name: "September"
+  links:
+    - label: "Posts by year"
+      url: "/posts/"
+    - label: "Current topics"
+      url: "/tags/"
+- name: "SoftwareArchitecture"
+  links:
+    - label: "Software Architecture"
+      url: "/tags/#software-architecture"
+- name: "SoftwareEngineering"
+  links:
+    - label: "Software Engineering"
+      url: "/tags/#software-engineering"
+- name: "Trust"
+  links:
+    - label: "Career"
+      url: "/tags/#career"
+    - label: "Professional Networking"
+      url: "/tags/#professional-networking"
+- name: "WIR"
+  links:
+    - label: "Week in Review"
+      url: "/tags/#week-in-review"

@@ -3,7 +3,11 @@ layout: single
 title:  "Has it really been 4 months?"
 date:   2022-08-10 10:30:00 -0600
 categories: blog
-tags: August 2022 Review
+tags:
+  - "Project Updates"
+  - "Multi-Cloud Deployment"
+  - "GitHub"
+  - "Personal"
 author: Jeff
 comments: true
 published: true

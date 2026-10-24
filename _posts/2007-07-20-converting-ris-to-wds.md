@@ -3,7 +3,9 @@ layout: single
 title:  "Converting RIS to WDS"
 date:   2007-07-20 09:05:00 -0600
 categories: blog
-tags: July 2007 KU SOECS Lab
+tags:
+  - "Windows Deployment"
+  - "Windows Server"
 comments: false
 ---
 Overview:

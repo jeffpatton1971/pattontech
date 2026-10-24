@@ -2,8 +2,12 @@
 date: 2026-10-23
 title: "October 2026: AI Governance Becomes an Operational Responsibility"
 description: "October 2026 Rackspace AI Runbook analysis: agent identities, incident accountability, model provenance, lifecycle management, and infrastructure, with an Issue 5 archive verification caveat."
+categories: blog
+permalink: "/2026/10/23/rackspace-ai-october.html"
 tags:
   - "Rackspace AI Summary"
+  - "Artificial Intelligence"
+  - "Governance"
 sources:
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-5"
   - "https://go.rackspace.com/rackspace-ai-runbook"

@@ -3,7 +3,9 @@ layout: single
 title:  "Azure DevOps Pipelines and Templates with Azure KeyValues"
 date:   2023-11-06 08:43:00 -0600
 categories: blog
-tags: November 2023 Development AzureDevops
+tags:
+  - "Azure DevOps"
+  - "Secrets Management"
 author: Jeff
 comments: true
 published: true

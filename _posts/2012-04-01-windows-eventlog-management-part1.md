@@ -3,7 +3,10 @@ layout: single
 title:  "Windows Eventlog Management Part 1"
 date:   2012-04-01 15:10:00 -0600
 categories: blog
-tags: April 2012 KU SOECS Scripting MissingImages
+tags:
+  - "Event Logs"
+  - "Windows Server"
+  - "MissingImages"
 comments: false
 ---
 USING EVENT TRIGGERS AND EVENT FORWARDING TO GET WHAT YOU WANT FROM THE EVENT SUBSYSTEM

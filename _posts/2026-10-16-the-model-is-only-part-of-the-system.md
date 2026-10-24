@@ -4,11 +4,10 @@ title:  "AI Week In Review: The Model Is Only Part of the System"
 date: 2026-10-16 10:00:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - AI Week In Review
-    - ArtificialIntelligence
-    - AIAssistedDevelopment
+  - "AI Week In Review"
+  - "Artificial Intelligence"
+  - "AI-Assisted Development"
+  - "Secrets Management"
 author: Jeff
 comments: true
 published: true

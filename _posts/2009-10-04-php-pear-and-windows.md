@@ -3,7 +3,9 @@ layout: single
 title:  "PHP, Pear and Windows"
 date:   2009-10-04 14:15:00 -0600
 categories: blog
-tags: October 2009 KU SOECS
+tags:
+  - "PHP"
+  - "Windows"
 comments: false
 ---
 When running PHP I receive the following message:

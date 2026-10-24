@@ -3,7 +3,9 @@ layout: single
 title:  "The tedious side of development"
 date:   2022-02-18 08:21:00 -0600
 categories: blog
-tags: February 2022 Rackspace Development
+tags:
+  - ".NET"
+  - "JSON"
 author: Jeff
 comments: true
 published: true

@@ -3,7 +3,9 @@ layout: single
 title:  "Setspn.exe Wrapper"
 date:   2013-07-13 11:03:00 -0600
 categories: blog
-tags: July 2013 KU IT
+tags:
+  - "PowerShell"
+  - "Active Directory"
 comments: false
 ---
 It’s been a while since I’ve posted anything, so I thought I would post about setspn, because you know, it’s so awesome right?

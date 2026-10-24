@@ -3,7 +3,9 @@ layout: single
 title:  "Ubuntu 8.04 LTS and Request Tracker"
 date:   2009-09-30 14:11:00 -0600
 categories: blog
-tags: September 2009 KU SOECS
+tags:
+  - "Linux"
+  - "Request Tracker"
 comments: false
 ---
 Looking at some different possibilities regarding desktop support, so I’m outlining the steps I took to get a working copy of RT up and running on an Ubuntu 8.0 LTS server.

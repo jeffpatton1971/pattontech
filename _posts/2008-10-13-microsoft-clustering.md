@@ -3,7 +3,9 @@ layout: single
 title:  "Microsoft Clustering"
 date:   2008-10-13 11:19:00 -0600
 categories: blog
-tags: October 2008 KU SOECS
+tags:
+  - "Failover Clustering"
+  - "DNS"
 comments: false
 ---
 Some things I’ve recently learned while working in a non dynamic environment.

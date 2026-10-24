@@ -3,7 +3,8 @@ layout: single
 title:  "Azure Devops Pipelines : Lesson's Learned"
 date:   2023-11-14 07:46:00 -0600
 categories: blog
-tags: November 2023 Development AzureDevops
+tags:
+  - "Azure DevOps"
 author: Jeff
 comments: true
 published: true

@@ -3,7 +3,9 @@ layout: single
 title:  "There are no dumb questions!"
 date:   2023-07-23 15:06:00 -0600
 categories: blog
-tags: July 2023 Development
+tags:
+  - "Software Engineering"
+  - "PowerShell"
 author: Jeff
 comments: true
 published: true

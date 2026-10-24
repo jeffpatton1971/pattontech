@@ -4,12 +4,10 @@ title:  "Engineering Intent: Four Principles for AI-Assisted Development"
 date: 2026-10-08 07:00:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - SoftwareEngineering
-    - AIAssistedDevelopment
-    - SoftwareArchitecture
-    - Engineering Intent
+  - "Engineering Intent"
+  - "Software Engineering"
+  - "AI-Assisted Development"
+  - "Software Architecture"
 author: Jeff
 comments: true
 published: true

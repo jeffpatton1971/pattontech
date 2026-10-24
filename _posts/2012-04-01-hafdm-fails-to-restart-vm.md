@@ -3,7 +3,8 @@ layout: single
 title:  "HA/FDM fails to restart a virtual machine with the error: Failed to open file /vmfs/volumes/UUID/.dvsData/ID/100 Status (bad0003)= Not found"
 date: 2012-04-01 15:15:00 -0600
 categories: blog
-tags: April 2012 KU SOECS
+tags:
+  - "VMware"
 comments: false
 ---
 This came across my newsfeed last night and this morning, and before I lose the links I thought I’d post them up here.

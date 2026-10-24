@@ -3,7 +3,9 @@ layout: single
 title:  "Printing from a Scheduled Task as a different user"
 date:   2012-05-19 15:20:00 -0600
 categories: blog
-tags: May 2012 KU SOECS Scripting
+tags:
+  - "PowerShell"
+  - "Printing"
 comments: false
 ---
 It does sound a bit odd, but I’m in the process of moving all the regular monitoring I do to scheduled tasks, and this particular one caused me headaches all afternoon.

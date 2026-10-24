@@ -3,7 +3,9 @@ layout: single
 title:  "OSD and UEFI and a missing WinRE"
 date:   2022-03-04 20:58:00 -0600
 categories: blog
-tags: March 2022 Development
+tags:
+  - "Windows Deployment"
+  - "PowerShell"
 author: Jeff
 comments: true
 published: true

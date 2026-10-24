@@ -3,7 +3,9 @@ layout: single
 title:  "Docker Desktop"
 date:   2026-05-06 10:29:00 -0600
 categories: blog
-tags: May 2026 Development Docker
+tags:
+  - "Docker"
+  - "Windows"
 author: Jeff
 comments: true
 published: true

@@ -3,7 +3,10 @@ layout: single
 title:  "Language Parsing"
 date:   2022-02-16 08:04:00 -0600
 categories: blog
-tags: February 2022 MultiCloudDeployment Development
+tags:
+  - "Parsing"
+  - "Multi-Cloud Deployment"
+  - "Infrastructure as Code"
 author: Jeff
 comments: true
 ---

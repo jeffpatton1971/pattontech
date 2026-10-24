@@ -3,7 +3,9 @@ layout: single
 title:  "WSS 3.0, MSSearch Service and SQL"
 date:   2010-04-13 19:09:00 -0600
 categories: blog
-tags: April 2010 KU SOECS
+tags:
+  - "SharePoint"
+  - "SQL Server"
 comments: false
 ---
 In my previous [post]({% post_url 2010-04-13-sql-server-upgrade %}) I talked about the SQL upgrade that we performed recently. I left out the part that had to do with our SharePoint server. While it is fundamentally related I thought I would share some of the dead-ends I ran in to.

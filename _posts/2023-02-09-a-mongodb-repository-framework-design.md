@@ -3,7 +3,10 @@ layout: single
 title:  "A MongoDB Repository Framework Design"
 date:   2023-02-09 21:02:00 -0600
 categories: blog
-tags: February 2023 Development
+tags:
+  - "MongoDB"
+  - ".NET"
+  - "Software Architecture"
 author: Jeff
 comments: true
 published: true

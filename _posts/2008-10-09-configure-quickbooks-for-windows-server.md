@@ -3,7 +3,9 @@ layout: single
 title:  "Configure Quickbooks for Windows Server"
 date:   2008-10-09 11:17:00 -0600
 categories: blog
-tags: October 2008 KU SOECS HOWTO
+tags:
+  - "QuickBooks"
+  - "Windows Server"
 comments: false
 ---
 In a client/server environment multiple users connect to the Quickbooks server to access data files. There are two methods for this:

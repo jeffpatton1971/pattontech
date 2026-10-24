@@ -3,7 +3,10 @@ layout: single
 title:  "Introducing GithubClient"
 date:   2022-08-11 11:30:00 -0600
 categories: blog
-tags: August 2022 Development
+tags:
+  - "GitHub"
+  - ".NET"
+  - "APIs"
 author: Jeff
 comments: true
 published: true

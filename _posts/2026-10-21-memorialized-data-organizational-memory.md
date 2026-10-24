@@ -4,14 +4,10 @@ title: "Memorialized Data: Can AI Reconstruct an Organization's Memory?"
 date: 2026-10-21 08:40:00 -0500
 categories: blog
 tags:
-    - October
-    - "2026"
-    - ArtificialIntelligence
-    - ContextEngineering
-    - KnowledgeManagement
-    - SoftwareArchitecture
-    - AIAssistedDevelopment
-    - CustomerGovernance
+  - "Artificial Intelligence"
+  - "Context Engineering"
+  - "Knowledge Management"
+  - "Governance"
 author: Jeff
 comments: true
 published: true

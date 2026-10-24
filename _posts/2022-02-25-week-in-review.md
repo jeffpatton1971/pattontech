@@ -3,7 +3,9 @@ layout: single
 title:  "Week In Review: 02/25/2022"
 date:   2022-02-25 16:58:00 -0600
 categories: blog
-tags: February 2022 Review
+tags:
+  - "Week in Review"
+  - "Career"
 author: Jeff
 comments: true
 published: true

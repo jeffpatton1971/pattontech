@@ -2,8 +2,12 @@
 date: 2026-09-25
 title: "September 2026: More Capable Models Raise the Stakes for Engineering Governance"
 description: "September 2026 Rackspace AI Runbook analysis: model capability, observability, independent evaluation, compatibility risks, and stronger engineering governance."
+categories: blog
+permalink: "/2026/09/25/rackspace-ai-september.html"
 tags:
   - "Rackspace AI Summary"
+  - "Artificial Intelligence"
+  - "Governance"
 sources:
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-3"
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-4"

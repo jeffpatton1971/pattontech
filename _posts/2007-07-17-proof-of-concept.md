@@ -3,7 +3,8 @@ layout: single
 title:  "Proof of Concept"
 date:   2007-07-17 09:02:00 -0600
 categories: blog
-tags: July 2007 KU SOECS Lab
+tags:
+  - "Windows Deployment"
 comments: false
 ---
 Delay:

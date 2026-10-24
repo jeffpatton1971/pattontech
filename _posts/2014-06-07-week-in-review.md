@@ -3,7 +3,11 @@ layout: single
 title:  "Week In Review: 06/01/2014"
 date:   2014-06-07 12:02:00 -0600
 categories: blog
-tags: June 2014 KU IT Scripting Review
+tags:
+  - "Week in Review"
+  - "SCOM"
+  - "Orchestrator"
+  - "PowerShell"
 comments: false
 ---
 Another very productive week! Spent a lot of time on Operations Manager, and getting the Low-Privilege SQL Monitoring to work. There appears to be a problem with how the MP calculates PLE and is using data and advice that is now about 10yrs old, so I disabled that monitor.

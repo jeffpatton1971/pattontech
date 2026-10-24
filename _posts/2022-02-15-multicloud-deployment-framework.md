@@ -3,7 +3,10 @@ layout: single
 title:  "Multi-Cloud Deployment Framework"
 date:   2022-02-15 16:25:00 -0600
 categories: blog
-tags: February 2022 MultiCloudDeployment Development
+tags:
+  - "Multi-Cloud Deployment"
+  - "Infrastructure as Code"
+  - "Software Architecture"
 author: Jeff
 comments: true
 ---
