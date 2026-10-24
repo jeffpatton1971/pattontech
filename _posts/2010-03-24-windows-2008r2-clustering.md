@@ -3,7 +3,10 @@ layout: single
 title:  "Windows 2008 R2 Clustering"
 date:   2010-03-24 19:06:00 -0600
 categories: blog
-tags: March 2010 KU SOECS
+tags:
+  - "Failover Clustering"
+  - "Windows Server"
+  - "Storage"
 comments: false
 ---
 Our current file server cluster falls out of warranty in about a month, and as it was over-spec’d to begin with we made a purchase of new hardware from Dell. We bought several things, two new servers for the file sharing cluster, a new sql server, a new backup server, a new virtual server, and two new iSCSI sans. I’ll talk about these as we get to them, for the time being I’ll talk about Failover clustering in Windows 200r R2.

@@ -3,7 +3,10 @@ layout: single
 title:  "Django and Windows"
 date:   2010-07-01 19:17:00 -0600
 categories: blog
-tags: July 2010 Personal
+tags:
+  - "Django"
+  - "Windows"
+  - "MySQL"
 comments: false
 ---
 You will need several things before you begin:

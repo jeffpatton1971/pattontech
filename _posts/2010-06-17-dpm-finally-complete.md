@@ -3,7 +3,8 @@ layout: single
 title:  "DPM Finally Complete"
 date:   2010-06-17 19:16:00 -0600
 categories: blog
-tags: June 2010 KU SOECS
+tags:
+  - "DPM"
 comments: false
 ---
 Not really a whole lot to say here, just really happy that my backup of user data is complete! It has taken about a month to get a successful backup and now that I have one, I’m not really sure what to do next!

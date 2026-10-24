@@ -3,7 +3,9 @@ layout: single
 title:  "'Single node cluster' oxymoron or reality?"
 date:   2010-10-05 19:32:00 -0600
 categories: blog
-tags: October 2010 KU SOECS
+tags:
+  - "Failover Clustering"
+  - "Windows Server"
 comments: false
 ---
 You might be asking yourself, what? how? why? To be honest I asked myself the very same questions. I don’t purport to have all the answers to these important questions, but I have found a few resources, and I wrote a little step-by-step to show answer the how.
