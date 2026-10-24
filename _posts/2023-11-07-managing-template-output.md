@@ -3,7 +3,9 @@ layout: single
 title:  "Managing Template Output Variables Across Azure DevOps Pipelines"
 date:   2023-11-07 17:22:00 -0600
 categories: blog
-tags: November 2023 Development AzureDevops
+tags:
+  - "Azure DevOps"
+  - "APIs"
 author: Jeff
 comments: true
 published: true

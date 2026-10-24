@@ -3,7 +3,9 @@ layout: single
 title:  "Are you kidding me?"
 date:   2023-02-16 14:24:00 -0600
 categories: blog
-tags: February 2023 Development
+tags:
+  - "Secrets Management"
+  - "Security"
 author: Jeff
 comments: true
 published: true
