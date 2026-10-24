@@ -3,7 +3,9 @@ layout: single
 title:  "Powershell"
 date:   2011-04-03 13:05:00 -0600
 categories: blog
-tags: April 2011 Personal
+tags:
+  - "PowerShell"
+  - "Personal"
 comments: false
 ---
 It’s been over a month since I’ve posted anything and a lot has been going on.
