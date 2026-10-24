@@ -3,7 +3,10 @@ layout: single
 title:  "SCOM 2007 R2 and Get-Event"
 date:   2013-01-03 11:00:00 -0600
 categories: blog
-tags: January 2013 KU IT Scripting
+tags:
+  - "SCOM"
+  - "Orchestrator"
+  - "PowerShell"
 comments: false
 ---
 It’s been a very long time since I last posted, the primary reason is most likely laziness on my part and secondly I’ve not had a lot to write about. Recently I’ve been messing around with Orchestrator and automation as a means of passing information off to Zenoss. On the face of it, it seemed a rather trivial task, but it took much longer than I anticipated.
