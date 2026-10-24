@@ -3,7 +3,11 @@ layout: single
 title:  "RedHat 6 Enterprise + Vmware Vsphere"
 date: 2012-04-01 15:16:00 -0600
 categories: blog
-tags: April 2012 KU SOECS MissingImages
+tags:
+  - "Linux"
+  - "VMware"
+  - "Networking"
+  - "MissingImages"
 comments: false
 ---
 Odd thing happened today while I was setting up a server for someone. The RHEL 6 install went just fine, it found the network card, asked if I wanted to configure it via DHCP and all that. When the server rebooted, there was no eth0. When I ran ifconfig eth0 up, the adapter showed up, but then wouldn’t get an IP from DHCP. A quick look at the messages showed the following

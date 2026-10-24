@@ -3,7 +3,9 @@ layout: single
 title:  "Defrag is not defragging"
 date: 2012-02-06 15:02:00 -0600
 categories: blog
-tags: February 2012 KU SOECS
+tags:
+  - "Storage"
+  - "Windows Server"
 comments: false
 ---
 I [posted](https://social.technet.microsoft.com/Forums/en-US/8d243252-05eb-4612-ae41-64eab522a2f5/increased-fragmentation-after-defrag?forum=winserverfiles) a question in the forums the other day after attempting to defrag one of the drives on my file server. The drive in question is where we have all the application installation files for the School stored.
