@@ -1,20 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Is ChatGPT Really Building a Psychological Profile of Me?"
 date: 2026-10-27
 author: Jeffrey Patton
 categories:
-  - Artificial Intelligence
+  - blog
 tags:
   - ChatGPT
   - AI Memory
   - AI Governance
   - AI Ethics
   - AI Personalization
-description: >-
-  A closer look at claims that ChatGPT builds psychological profiles,
-  what the underlying research actually found, and why independent
-  oversight matters more than sensational headlines.
+comments: true
+published: true
 ---
 
 I read an [article in Futurism](https://futurism.com/artificial-intelligence/chatgpt-building-profiles-users) claiming that ChatGPT is building detailed psychological profiles of its users.
