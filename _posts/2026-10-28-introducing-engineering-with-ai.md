@@ -11,6 +11,7 @@ tags:
   - Engineering Intent
   - AI-Assisted Development
   - Engineering with AI
+series: engineering-with-ai
 author: Jeff Patton
 comments: true
 published: true

@@ -19,6 +19,18 @@ Edit `_projects/<slug>.md` to update a project. Keep its filename stable: the co
 
 The landing page is `projects/index.md`; the shared layout is `_layouts/project.html`. The portfolio uses the existing theme plus a small scoped stylesheet. Blog and series content remain in their original locations.
 
+## Blog post front matter
+
+Posts live in `_posts`. Keep these fields distinct when authoring a post:
+
+- `categories` classifies the content, usually as `blog`.
+- `tags` lists the topics discussed. Keep relevant topical and series-related tags for the tag archives.
+- `series` is an optional, top-level scalar string that explicitly assigns a post to one editorial series. Omit it for posts outside a series. A matching tag never implies series membership.
+
+The valid `series` values are `ai-wir` (AI Week In Review), `engineering-intent` (Engineering Intent), `rax-ai-summary` (Rackspace AI Summary), and `engineering-with-ai` (Engineering with AI). Assign at most one value. The series pages retain their `taxonomy` fields for reference, but their article lists use only `series`.
+
+After a build, run `bundle exec ruby scripts/check-series.rb` to verify the rendered series and tag archives.
+
 See [portfolio decisions and evidence](docs/projects-portfolio.md) for repository links, URL preservation, confidentiality boundaries, and editorial follow-ups. Documentation and validation scripts are excluded from the generated site.
 
 Build output and local tool caches are ignored. Local builds do not publish the site; retain the existing hosting workflow and obtain explicit authorization before pushing or deploying.

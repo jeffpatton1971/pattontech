@@ -10,6 +10,7 @@ tags:
   - AIAssistedDevelopment
   - SoftwareArchitecture
   - Engineering Intent
+series: engineering-intent
 author: Jeff Patton
 comments: true
 published: true

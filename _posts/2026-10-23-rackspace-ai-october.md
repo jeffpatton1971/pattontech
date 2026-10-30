@@ -8,6 +8,7 @@ tags:
   - "Rackspace AI Summary"
   - "Artificial Intelligence"
   - "Governance"
+series: rax-ai-summary
 sources:
   - "https://go.rackspace.com/rackspace-ai-runbook/volume-1/issue-5"
   - "https://go.rackspace.com/rackspace-ai-runbook"

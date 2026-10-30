@@ -8,6 +8,7 @@ tags:
   - "Artificial Intelligence"
   - "AI-Assisted Development"
   - "Governance"
+series: ai-wir
 author: Jeff
 comments: true
 published: true

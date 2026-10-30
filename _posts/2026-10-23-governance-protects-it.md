@@ -8,6 +8,7 @@ tags:
   - "AI-Assisted Development"
   - "Software Architecture"
   - "Governance"
+series: engineering-intent
 author: Jeff
 comments: true
 published: true

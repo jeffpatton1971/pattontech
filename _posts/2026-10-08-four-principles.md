@@ -8,6 +8,7 @@ tags:
   - "Software Engineering"
   - "AI-Assisted Development"
   - "Software Architecture"
+series: engineering-intent
 author: Jeff
 comments: true
 published: true

@@ -1,7 +1,8 @@
 ---
 title: "Engineering Intent"
-layout: tag
+layout: series
 permalink: /series/engineering-intent/
 taxonomy: "Engineering Intent"
+series: engineering-intent
 entries_layout: list
 ---
