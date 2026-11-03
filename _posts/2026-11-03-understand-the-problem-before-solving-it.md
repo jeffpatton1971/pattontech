@@ -2,6 +2,7 @@
 layout: single
 title: "Understand the Problem Before Solving It"
 date: 2026-11-03
+series: engineering-with-ai
 categories:
   - blog
 tags:
