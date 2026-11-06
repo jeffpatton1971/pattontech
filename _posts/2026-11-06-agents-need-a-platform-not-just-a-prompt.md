@@ -114,6 +114,10 @@ The details are different, but the overall idea is the same. The control should 
 
 ## This is starting to look familiar
 
+This is also closely related to the direction I’m taking with [llamarc42](https://github.com/llamarc42). [Llamarc42](https://github.com/llamarc42) isn’t intended to replace source control, inference runtimes, or agent orchestration. It provides a project-owned layer for preserving engineering intent, architectural decisions, and governance independently of whichever agent or model is doing the work.
+
+The model does the work. The agent platform provides the capabilities. Llamarc42 establishes the context and expectations both are supposed to operate within.
+
 Once I put these announcements next to each other, the agent platform starts to look a lot like the application platforms we've been building for years.
 
 - Source control and CI have to handle concurrency.
