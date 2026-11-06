@@ -11,7 +11,7 @@ tags:
 series: ai-wir
 author: Jeff
 comments: true
-published: false
+published: true
 ---
 
 One thing kept showing up in this week's AI briefings.
